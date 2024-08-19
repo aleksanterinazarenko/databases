@@ -1,7 +1,11 @@
 [
  {
-   "Word": "Erzya",
-   "Definition": "English"
+   "Word": "",
+   "Definition": ""
+ },
+ {
+   "Word": "-do",
+   "Definition": "about"
  },
  {
    "Word": "-do/-de",
@@ -38,6 +42,10 @@
  {
    "Word": "-neń",
    "Definition": "for; to"
+ },
+ {
+   "Word": "-neń",
+   "Definition": "miss"
  },
  {
    "Word": "-neń kandovicä",
@@ -372,6 +380,10 @@
    "Definition": "Africa"
  },
  {
+   "Word": "Afrika",
+   "Definition": "continent"
+ },
+ {
    "Word": "Afrikań",
    "Definition": "African"
  },
@@ -382,6 +394,18 @@
  {
    "Word": "agenstva",
    "Definition": "agency"
+ },
+ {
+   "Word": "agent",
+   "Definition": "agent"
+ },
+ {
+   "Word": "agressija",
+   "Definition": "aggression"
+ },
+ {
+   "Word": "agressivnoj",
+   "Definition": "aggressive"
  },
  {
    "Word": "agressor",
@@ -1449,7 +1473,7 @@
  },
  {
    "Word": "arsems",
-   "Definition": ";;;;;;;;;;arsems"
+   "Definition": "aim; assume; conceive; consider; contemplate; devise; intend; presume; suppose; think; wish"
  },
  {
    "Word": "arsems (karmi-a karmi)",
@@ -1496,6 +1520,10 @@
    "Definition": "painter"
  },
  {
+   "Word": "artikla (grammatikań)",
+   "Definition": "article"
+ },
+ {
    "Word": "artilerija",
    "Definition": "artillery"
  },
@@ -1538,6 +1566,10 @@
  {
    "Word": "asatïks",
    "Definition": "defect; deficiency; flaw; need; shortage"
+ },
+ {
+   "Word": "asatïks (character)",
+   "Definition": "blemish"
  },
  {
    "Word": "asatïksëv",
@@ -4476,6 +4508,766 @@
    "Definition": "sweater"
  },
  {
+   "Word": "ecems",
+   "Definition": "poke; stuff"
+ },
+ {
+   "Word": "ecems (kov a erävi)",
+   "Definition": "intrude"
+ },
+ {
+   "Word": "ecems kiń jutks",
+   "Definition": "disrupt"
+ },
+ {
+   "Word": "ecems lomaneń kortamos",
+   "Definition": "interrupt"
+ },
+ {
+   "Word": "ečke",
+   "Definition": "coarse; thick"
+ },
+ {
+   "Word": "ečke",
+   "Definition": "thickness"
+ },
+ {
+   "Word": "ečkelma",
+   "Definition": "thickness"
+ },
+ {
+   "Word": "effektivnoj",
+   "Definition": "effective; efficient"
+ },
+ {
+   "Word": "effektivnosť",
+   "Definition": "efficiency"
+ },
+ {
+   "Word": "ej",
+   "Definition": "ice"
+ },
+ {
+   "Word": "ejde",
+   "Definition": "infant"
+ },
+ {
+   "Word": "ejde (pek višine)",
+   "Definition": "baby"
+ },
+ {
+   "Word": "ejdekudo",
+   "Definition": "uterus; womb"
+ },
+ {
+   "Word": "ejdeń kajamo",
+   "Definition": "miscarriage"
+ },
+ {
+   "Word": "ejdeń kajavtoma",
+   "Definition": "abortion"
+ },
+ {
+   "Word": "ejeń pando",
+   "Definition": "iceberg"
+ },
+ {
+   "Word": "ejenzams",
+   "Definition": "freeze"
+ },
+ {
+   "Word": "ejenzavtoms",
+   "Definition": "freeze"
+ },
+ {
+   "Word": "ejev",
+   "Definition": "icy"
+ },
+ {
+   "Word": "ejkakš",
+   "Definition": "child"
+ },
+ {
+   "Word": "ejkakšbijo",
+   "Definition": "descendant"
+ },
+ {
+   "Word": "ejkakšoń ejkakš",
+   "Definition": "grandchild"
+ },
+ {
+   "Word": "ejkakšoń kondämo",
+   "Definition": "childish"
+ },
+ {
+   "Word": "ejkakšoń sajema",
+   "Definition": "adoption"
+ },
+ {
+   "Word": "ejkakšpinge",
+   "Definition": "childhood"
+ },
+ {
+   "Word": "ejkakšt",
+   "Definition": "children"
+ },
+ {
+   "Word": "ejkudo",
+   "Definition": "igloo"
+ },
+ {
+   "Word": "ejne paro",
+   "Definition": "magnificent"
+ },
+ {
+   "Word": "ejpando",
+   "Definition": "iceberg"
+ },
+ {
+   "Word": "ejparo",
+   "Definition": "excellent"
+ },
+ {
+   "Word": "ejparoči",
+   "Definition": "excellence"
+ },
+ {
+   "Word": "ejśuro",
+   "Definition": "icicle"
+ },
+ {
+   "Word": "ejśurokov",
+   "Definition": "March"
+ },
+ {
+   "Word": "ekologija",
+   "Definition": "ecology"
+ },
+ {
+   "Word": "ekonomija",
+   "Definition": "economy"
+ },
+ {
+   "Word": "ekonomijań",
+   "Definition": "economic"
+ },
+ {
+   "Word": "ekše",
+   "Definition": "cool"
+ },
+ {
+   "Word": "ekše",
+   "Definition": "shade"
+ },
+ {
+   "Word": "ekšelgavtoms",
+   "Definition": "cool"
+ },
+ {
+   "Word": "ekšeläms",
+   "Definition": "bathe; swim"
+ },
+ {
+   "Word": "ekšelävtoms",
+   "Definition": "bathe"
+ },
+ {
+   "Word": "ekskursija",
+   "Definition": "trip"
+ },
+ {
+   "Word": "ekspedicija",
+   "Definition": "expedition"
+ },
+ {
+   "Word": "eksperiment",
+   "Definition": "experiment"
+ },
+ {
+   "Word": "ekspluatirovamo",
+   "Definition": "exploitation"
+ },
+ {
+   "Word": "eksport",
+   "Definition": "export"
+ },
+ {
+   "Word": "eksportir",
+   "Definition": "exporter"
+ },
+ {
+   "Word": "eksportirovams",
+   "Definition": "export"
+ },
+ {
+   "Word": "ekstrennoj",
+   "Definition": "extra; extraordinary"
+ },
+ {
+   "Word": "ekvator",
+   "Definition": "equator"
+ },
+ {
+   "Word": "ekzam",
+   "Definition": "examination"
+ },
+ {
+   "Word": "ekzotičeskoj",
+   "Definition": "exotic"
+ },
+ {
+   "Word": "eľ",
+   "Definition": "hem"
+ },
+ {
+   "Word": "eľ-eľ",
+   "Definition": "barely; hardly"
+ },
+ {
+   "Word": "elde",
+   "Definition": "mare"
+ },
+ {
+   "Word": "ele",
+   "Definition": "lap"
+ },
+ {
+   "Word": "elegantnoj",
+   "Definition": "elegant"
+ },
+ {
+   "Word": "elegantnosť",
+   "Definition": "elegance"
+ },
+ {
+   "Word": "električeskoj",
+   "Definition": "electric"
+ },
+ {
+   "Word": "električestva",
+   "Definition": "electricity"
+ },
+ {
+   "Word": "elektrikań",
+   "Definition": "electric"
+ },
+ {
+   "Word": "element",
+   "Definition": "element"
+ },
+ {
+   "Word": "eli",
+   "Definition": "or"
+ },
+ {
+   "Word": "embargo",
+   "Definition": "embargo"
+ },
+ {
+   "Word": "emblema",
+   "Definition": "emblem"
+ },
+ {
+   "Word": "embrion",
+   "Definition": "embryo"
+ },
+ {
+   "Word": "emež",
+   "Definition": "fruit"
+ },
+ {
+   "Word": "energija",
+   "Definition": "energy"
+ },
+ {
+   "Word": "engamtoms",
+   "Definition": "appease"
+ },
+ {
+   "Word": "enäldoma",
+   "Definition": "request"
+ },
+ {
+   "Word": "enäldoms",
+   "Definition": "request"
+ },
+ {
+   "Word": "erej",
+   "Definition": "fast"
+ },
+ {
+   "Word": "erejstë",
+   "Definition": "fast"
+ },
+ {
+   "Word": "erek",
+   "Definition": "quick"
+ },
+ {
+   "Word": "ereksan",
+   "Definition": "penis"
+ },
+ {
+   "Word": "eŕge",
+   "Definition": "pearl"
+ },
+ {
+   "Word": "eŕgečovar",
+   "Definition": "gravel"
+ },
+ {
+   "Word": "ericä",
+   "Definition": "alive; live"
+ },
+ {
+   "Word": "ericä",
+   "Definition": "inhabitant; resident; tenant"
+ },
+ {
+   "Word": "ericät",
+   "Definition": "population"
+ },
+ {
+   "Word": "eriks",
+   "Definition": "affluent"
+ },
+ {
+   "Word": "eriksči",
+   "Definition": "affluence"
+ },
+ {
+   "Word": "eŕke",
+   "Definition": "lake"
+ },
+ {
+   "Word": "eŕkepire",
+   "Definition": "shore"
+ },
+ {
+   "Word": "eŕme",
+   "Definition": "wealth"
+ },
+ {
+   "Word": "eŕmev",
+   "Definition": "wealthy"
+ },
+ {
+   "Word": "ertems",
+   "Definition": "bump"
+ },
+ {
+   "Word": "eŕva",
+   "Definition": "each; every"
+ },
+ {
+   "Word": "eŕva časoń",
+   "Definition": "hourly"
+ },
+ {
+   "Word": "eŕva čiń",
+   "Definition": "common; daily; ordinary; usual"
+ },
+ {
+   "Word": "eŕva čiń",
+   "Definition": "plain"
+ },
+ {
+   "Word": "eŕva ijeń",
+   "Definition": "annual"
+ },
+ {
+   "Word": "eŕva ijestë",
+   "Definition": "annually"
+ },
+ {
+   "Word": "eŕva kodamo",
+   "Definition": "diverse; various"
+ },
+ {
+   "Word": "eŕva kodat",
+   "Definition": "assorted"
+ },
+ {
+   "Word": "eŕva koso",
+   "Definition": "everywhere; throughout"
+ },
+ {
+   "Word": "eŕva koso vastnevicä",
+   "Definition": "widespread"
+ },
+ {
+   "Word": "eŕva kov ecicä",
+   "Definition": "nosey"
+ },
+ {
+   "Word": "eŕva kovoń",
+   "Definition": "monthly"
+ },
+ {
+   "Word": "eŕva kozoń kenericä",
+   "Definition": "active"
+ },
+ {
+   "Word": "eŕva mezes bažicä",
+   "Definition": "ambitious"
+ },
+ {
+   "Word": "eŕva nedläń",
+   "Definition": "weekly"
+ },
+ {
+   "Word": "eŕva tamašasto parste lisicä",
+   "Definition": "resourceful"
+ },
+ {
+   "Word": "eŕva targoń",
+   "Definition": "weekly"
+ },
+ {
+   "Word": "eŕva tarkań",
+   "Definition": "common"
+ },
+ {
+   "Word": "eŕvačiń",
+   "Definition": "normal"
+ },
+ {
+   "Word": "eŕvań",
+   "Definition": "general"
+ },
+ {
+   "Word": "eŕvaś",
+   "Definition": "everything"
+ },
+ {
+   "Word": "eŕvataś",
+   "Definition": "everybody"
+ },
+ {
+   "Word": "erämo",
+   "Definition": "life"
+ },
+ {
+   "Word": "erämo sïcä/pioner",
+   "Definition": "settler"
+ },
+ {
+   "Word": "erämo tarka",
+   "Definition": "residence"
+ },
+ {
+   "Word": "erämo tarkań azorava",
+   "Definition": "landlady"
+ },
+ {
+   "Word": "erämo tarkań azoro",
+   "Definition": "landlord"
+ },
+ {
+   "Word": "erämo-aštema san",
+   "Definition": "penis"
+ },
+ {
+   "Word": "erämočiń",
+   "Definition": "vital"
+ },
+ {
+   "Word": "erämopaŕ",
+   "Definition": "trunk"
+ },
+ {
+   "Word": "erämopinge",
+   "Definition": "history"
+ },
+ {
+   "Word": "erämotarkań sivedema jarmak",
+   "Definition": "rent"
+ },
+ {
+   "Word": "eräms",
+   "Definition": "exist; inhabit; live"
+ },
+ {
+   "Word": "eräms (somewhere kosojak)",
+   "Definition": "reside"
+ },
+ {
+   "Word": "eräms kiń koräskak kuvať",
+   "Definition": "survive"
+ },
+ {
+   "Word": "eräms parste",
+   "Definition": "thrive"
+ },
+ {
+   "Word": "eräms vadrästo-parste",
+   "Definition": "prosper"
+ },
+ {
+   "Word": "eräskalems",
+   "Definition": "hurry"
+ },
+ {
+   "Word": "erävi kemems",
+   "Definition": "hopefully"
+ },
+ {
+   "Word": "eräviks",
+   "Definition": "essential; important; necessary; significant"
+ },
+ {
+   "Word": "eräviksči",
+   "Definition": "importance; necessity"
+ },
+ {
+   "Word": "erävoms",
+   "Definition": "must; need"
+ },
+ {
+   "Word": "eräza",
+   "Definition": "fast; lively"
+ },
+ {
+   "Word": "eräzasto",
+   "Definition": "fast"
+ },
+ {
+   "Word": "eräzïjavtoma",
+   "Definition": "stimulation"
+ },
+ {
+   "Word": "eräzïjavtoms",
+   "Definition": "stimulate"
+ },
+ {
+   "Word": "eräzkadoma",
+   "Definition": "acceleration"
+ },
+ {
+   "Word": "eräzkadoms",
+   "Definition": "accelerate"
+ },
+ {
+   "Word": "eräzkalems",
+   "Definition": "rush"
+ },
+ {
+   "Word": "eräzkaleź",
+   "Definition": "quickly"
+ },
+ {
+   "Word": "eräzkavtoma",
+   "Definition": "acceleration"
+ },
+ {
+   "Word": "eräzkavtoms",
+   "Definition": "animate"
+ },
+ {
+   "Word": "eś",
+   "Definition": "own"
+ },
+ {
+   "Word": "eś jutkova(st) polavtovikst",
+   "Definition": "interchangeable"
+ },
+ {
+   "Word": "eś jutkova(st) śulmaź",
+   "Definition": "interrelated"
+ },
+ {
+   "Word": "eś jutks sajema",
+   "Definition": "acceptance"
+ },
+ {
+   "Word": "eś karšo kortamo",
+   "Definition": "contradiction"
+ },
+ {
+   "Word": "eś karšo molema",
+   "Definition": "contradiction"
+ },
+ {
+   "Word": "eś langs asajicä",
+   "Definition": "irresponsible"
+ },
+ {
+   "Word": "eś langs kemema",
+   "Definition": "confidence"
+ },
+ {
+   "Word": "eś langs kemicä",
+   "Definition": "confident"
+ },
+ {
+   "Word": "eś mastorksči",
+   "Definition": "independence"
+ },
+ {
+   "Word": "eś mastoroń",
+   "Definition": "native"
+ },
+ {
+   "Word": "eś mastorso čačoź",
+   "Definition": "native"
+ },
+ {
+   "Word": "eś meľ langso aštema",
+   "Definition": "insistence"
+ },
+ {
+   "Word": "eś meľ langso ašticä",
+   "Definition": "insistent"
+ },
+ {
+   "Word": "eś meľga jakamo amaštïcä",
+   "Definition": "helpless"
+ },
+ {
+   "Word": "eś oläso",
+   "Definition": "voluntary"
+ },
+ {
+   "Word": "eś pravanzo kisë aštema",
+   "Definition": "assertion"
+ },
+ {
+   "Word": "eś pravanzo kisë ašticä",
+   "Definition": "assertive"
+ },
+ {
+   "Word": "eś prä",
+   "Definition": "self"
+ },
+ {
+   "Word": "eś präń",
+   "Definition": "personal"
+ },
+ {
+   "Word": "eś präń altamo",
+   "Definition": "commitment"
+ },
+ {
+   "Word": "eś präń večkema",
+   "Definition": "complacency; vanity"
+ },
+ {
+   "Word": "eś präń večkicä",
+   "Definition": "complacent; conceited; selfish"
+ },
+ {
+   "Word": "eś pränok",
+   "Definition": "ourselves"
+ },
+ {
+   "Word": "eś präst",
+   "Definition": "themselves"
+ },
+ {
+   "Word": "eś tevť",
+   "Definition": "affair"
+ },
+ {
+   "Word": "eseń",
+   "Definition": "private"
+ },
+ {
+   "Word": "eskadron",
+   "Definition": "squadron"
+ },
+ {
+   "Word": "eskeldems",
+   "Definition": "step"
+ },
+ {
+   "Word": "eskeľks",
+   "Definition": "step"
+ },
+ {
+   "Word": "esponaž",
+   "Definition": "espionage"
+ },
+ {
+   "Word": "estenzë sajems",
+   "Definition": "adopt"
+ },
+ {
+   "Word": "estenzëks sajems",
+   "Definition": "adopt"
+ },
+ {
+   "Word": "etika",
+   "Definition": "morality"
+ },
+ {
+   "Word": "etikeť",
+   "Definition": "label"
+ },
+ {
+   "Word": "evangelija",
+   "Definition": "gospel"
+ },
+ {
+   "Word": "evoľucija",
+   "Definition": "evolution"
+ },
+ {
+   "Word": "evrej",
+   "Definition": "Jewish"
+ },
+ {
+   "Word": "evrej",
+   "Definition": "Jew"
+ },
+ {
+   "Word": "evrejeń",
+   "Definition": "Jewish"
+ },
+ {
+   "Word": "evropa",
+   "Definition": "Europe"
+ },
+ {
+   "Word": "evropań",
+   "Definition": "European"
+ },
+ {
+   "Word": "evropań lomań",
+   "Definition": "European"
+ },
+ {
+   "Word": "eždema",
+   "Definition": "charm; heating"
+ },
+ {
+   "Word": "eždemkat",
+   "Definition": "heater"
+ },
+ {
+   "Word": "eždems",
+   "Definition": "turn on"
+ },
+ {
+   "Word": "ezem-tarka amujicä",
+   "Definition": "apprehensive"
+ },
+ {
+   "Word": "ezems",
+   "Definition": "instead"
+ },
+ {
+   "Word": "ezemť-stuvort",
+   "Definition": "furniture"
+ },
+ {
+   "Word": "eznë",
+   "Definition": "joint"
+ },
+ {
+   "Word": "ezneń targoźks",
+   "Definition": "arthritis"
+ },
+ {
    "Word": "fabula",
    "Definition": "fable"
  },
@@ -5212,12 +6004,1268 @@
    "Definition": "farm; farmhouse"
  },
  {
+   "Word": "i",
+   "Definition": "and"
+ },
+ {
+   "Word": "ičems",
+   "Definition": "knead"
+ },
+ {
+   "Word": "idea",
+   "Definition": "idea"
+ },
+ {
+   "Word": "ideal",
+   "Definition": "ideal"
+ },
+ {
+   "Word": "idem",
+   "Definition": "wild"
+ },
+ {
+   "Word": "idem (lomande)",
+   "Definition": "savage"
+ },
+ {
+   "Word": "idem rakša",
+   "Definition": "beast"
+ },
+ {
+   "Word": "idem rakša kundï",
+   "Definition": "hunter"
+ },
+ {
+   "Word": "idem rakšań kirdema tarka",
+   "Definition": "zoo"
+ },
+ {
+   "Word": "idem rakšań kundamo",
+   "Definition": "hunt"
+ },
+ {
+   "Word": "idema",
+   "Definition": "rescue; salvation"
+ },
+ {
+   "Word": "idema (mezeńgak) kisë lisema",
+   "Definition": "defence"
+ },
+ {
+   "Word": "idema žiletka / vajamodo žiletka",
+   "Definition": "life jacket"
+ },
+ {
+   "Word": "idemavenč",
+   "Definition": "lifeboat"
+ },
+ {
+   "Word": "idemevś",
+   "Definition": "demon; devil"
+ },
+ {
+   "Word": "idems",
+   "Definition": "defend"
+ },
+ {
+   "Word": "idems (from kostojak)",
+   "Definition": "rescue"
+ },
+ {
+   "Word": "idemseja",
+   "Definition": "deer"
+ },
+ {
+   "Word": "idemsejań levks",
+   "Definition": "fawn"
+ },
+ {
+   "Word": "identifikacija",
+   "Definition": "identification"
+ },
+ {
+   "Word": "identitet",
+   "Definition": "identity"
+ },
+ {
+   "Word": "idioma",
+   "Definition": "idiom"
+ },
+ {
+   "Word": "idol",
+   "Definition": "idol"
+ },
+ {
+   "Word": "iglu",
+   "Definition": "igloo"
+ },
+ {
+   "Word": "ije",
+   "Definition": "year"
+ },
+ {
+   "Word": "ijeń ška",
+   "Definition": "season"
+ },
+ {
+   "Word": "ijeń škań",
+   "Definition": "seasonal"
+ },
+ {
+   "Word": "ijeť (lomań)",
+   "Definition": "age"
+ },
+ {
+   "Word": "ikelce",
+   "Definition": "former; front"
+ },
+ {
+   "Word": "ikelce tol",
+   "Definition": "headlight"
+ },
+ {
+   "Word": "ikelce val",
+   "Definition": "forword; preface"
+ },
+ {
+   "Word": "ikele",
+   "Definition": "ago; before; formerly"
+ },
+ {
+   "Word": "ikele",
+   "Definition": "before"
+ },
+ {
+   "Word": "ikele aštems",
+   "Definition": "precede"
+ },
+ {
+   "Word": "ikele ašticä uslovija",
+   "Definition": "precondition"
+ },
+ {
+   "Word": "ikeleń",
+   "Definition": "former; previous"
+ },
+ {
+   "Word": "ikelepele",
+   "Definition": "ahead"
+ },
+ {
+   "Word": "ikelepeleń",
+   "Definition": "prior"
+ },
+ {
+   "Word": "ikelepelev",
+   "Definition": "ahead"
+ },
+ {
+   "Word": "ikelepelev čačoź meľ",
+   "Definition": "prejudice"
+ },
+ {
+   "Word": "ikelepelev joramo",
+   "Definition": "foresight"
+ },
+ {
+   "Word": "ikeleškań (pervobïtnoj)",
+   "Definition": "primitive"
+ },
+ {
+   "Word": "ikelev",
+   "Definition": "forward"
+ },
+ {
+   "Word": "ikelev jovtamo",
+   "Definition": "forecast"
+ },
+ {
+   "Word": "ikelev jutamo",
+   "Definition": "progress"
+ },
+ {
+   "Word": "ikelev jutïcä",
+   "Definition": "progressive"
+ },
+ {
+   "Word": "ikelev pandoź",
+   "Definition": "prepaid"
+ },
+ {
+   "Word": "ikelev šaštoma",
+   "Definition": "progress"
+ },
+ {
+   "Word": "ikelev ulicä",
+   "Definition": "predecessor"
+ },
+ {
+   "Word": "ikelevmolicä",
+   "Definition": "advanced"
+ },
+ {
+   "Word": "ikeľga molems",
+   "Definition": "precede"
+ },
+ {
+   "Word": "ikeľgapacä",
+   "Definition": "apron"
+ },
+ {
+   "Word": "ikeľkske (ëjkakšoń jarsamsto)",
+   "Definition": "bib"
+ },
+ {
+   "Word": "iknema",
+   "Definition": "hiccup"
+ },
+ {
+   "Word": "ila",
+   "Definition": "ceremony; ritual"
+ },
+ {
+   "Word": "ilań",
+   "Definition": "ceremonial"
+ },
+ {
+   "Word": "ilań koräs",
+   "Definition": "ceremonial"
+ },
+ {
+   "Word": "ilavtomo tev",
+   "Definition": "informality"
+ },
+ {
    "Word": "ïlïk",
    "Definition": "power"
  },
  {
+   "Word": "ilľuminator",
+   "Definition": "porthole"
+ },
+ {
+   "Word": "ilľustracija",
+   "Definition": "illustration"
+ },
+ {
+   "Word": "ilľuzija",
+   "Definition": "illusion"
+ },
+ {
+   "Word": "iltema",
+   "Definition": "farewell"
+ },
+ {
+   "Word": "iltems",
+   "Definition": "accompany; escort"
+ },
+ {
+   "Word": "iľvedevks",
+   "Definition": "error; mistake"
+ },
+ {
+   "Word": "imle",
+   "Definition": "oar"
+ },
+ {
+   "Word": "immigracija",
+   "Definition": "immigration"
+ },
+ {
+   "Word": "immigrant",
+   "Definition": "immigrant"
+ },
+ {
+   "Word": "imperializma",
+   "Definition": "imperialism"
+ },
+ {
+   "Word": "import",
+   "Definition": "import"
+ },
+ {
+   "Word": "importirovams",
+   "Definition": "import"
+ },
+ {
+   "Word": "imporťor",
+   "Definition": "importer"
+ },
+ {
+   "Word": "improvizirovams",
+   "Definition": "improvise"
+ },
+ {
+   "Word": "impuls",
+   "Definition": "impulse"
+ },
+ {
+   "Word": "impulsivnoj",
+   "Definition": "impulsive"
+ },
+ {
+   "Word": "incedent",
+   "Definition": "incident"
+ },
+ {
+   "Word": "incest",
+   "Definition": "incest"
+ },
+ {
+   "Word": "individualnoj",
+   "Definition": "individual"
+ },
+ {
+   "Word": "indus",
+   "Definition": "Hindu"
+ },
+ {
+   "Word": "indusoń",
+   "Definition": "Hindu"
+ },
+ {
+   "Word": "industija",
+   "Definition": "industry"
+ },
+ {
+   "Word": "industrialnoj",
+   "Definition": "industrial"
+ },
+ {
+   "Word": "ine",
+   "Definition": "great; mighty"
+ },
+ {
+   "Word": "ine ceŕkova",
+   "Definition": "cathedral"
+ },
+ {
+   "Word": "ineazor",
+   "Definition": "emperor; king"
+ },
+ {
+   "Word": "ineazorava",
+   "Definition": "queen"
+ },
+ {
+   "Word": "ineazormastor",
+   "Definition": "kingdom"
+ },
+ {
+   "Word": "ineazoroń",
+   "Definition": "royal"
+ },
+ {
+   "Word": "ineazoroń ćora",
+   "Definition": "prince"
+ },
+ {
+   "Word": "ineazoroń tejteŕ",
+   "Definition": "princess"
+ },
+ {
+   "Word": "inebaba",
+   "Definition": "great grandmother"
+ },
+ {
+   "Word": "Ineči",
+   "Definition": "Easter"
+ },
+ {
+   "Word": "ineguj",
+   "Definition": "dragon; monster"
+ },
+ {
+   "Word": "inelgavtnema",
+   "Definition": "glorify"
+ },
+ {
+   "Word": "inelma",
+   "Definition": "glory"
+ },
+ {
+   "Word": "inelmamoro",
+   "Definition": "anthem"
+ },
+ {
+   "Word": "inemoda",
+   "Definition": "mainland"
+ },
+ {
+   "Word": "inemoda (ëvropa",
+   "Definition": "continent"
+ },
+ {
+   "Word": "inemodań",
+   "Definition": "continental"
+ },
+ {
+   "Word": "inepando",
+   "Definition": "mountain"
+ },
+ {
+   "Word": "ineskeť",
+   "Definition": "please"
+ },
+ {
+   "Word": "Ineškipaz",
+   "Definition": "type=\"Prop\"God"
+ },
+ {
+   "Word": "inevańks",
+   "Definition": "holy"
+ },
+ {
+   "Word": "inevańksči",
+   "Definition": "holiness"
+ },
+ {
+   "Word": "ineveď",
+   "Definition": "ocean; sea"
+ },
+ {
+   "Word": "ineveď čire",
+   "Definition": "coast"
+ },
+ {
+   "Word": "ineveď langa kilango",
+   "Definition": "voyage"
+ },
+ {
+   "Word": "ineveď potmaksoń kasovkst",
+   "Definition": "seaweed"
+ },
+ {
+   "Word": "ineveďčire",
+   "Definition": "seashore; shore"
+ },
+ {
+   "Word": "inevedeń",
+   "Definition": "naval"
+ },
+ {
+   "Word": "inevedeń čerepaha",
+   "Definition": "turtle"
+ },
+ {
+   "Word": "inevedeń tešte",
+   "Definition": "starfish"
+ },
+ {
+   "Word": "inevedeń tombaľksëń",
+   "Definition": "overseas"
+ },
+ {
+   "Word": "inevedeń tuvo",
+   "Definition": "porpoise"
+ },
+ {
+   "Word": "inevedstë jarsamopelť",
+   "Definition": "seafood"
+ },
+ {
+   "Word": "inevenč",
+   "Definition": "ship"
+ },
+ {
+   "Word": "inevenčsë ujema",
+   "Definition": "cruise"
+ },
+ {
+   "Word": "infekcija",
+   "Definition": "infection"
+ },
+ {
+   "Word": "informacija",
+   "Definition": "data"
+ },
+ {
+   "Word": "ingeľ jont",
+   "Definition": "inside out"
+ },
+ {
+   "Word": "ingredijent",
+   "Definition": "ingredient"
+ },
+ {
+   "Word": "iniciacija",
+   "Definition": "initiation"
+ },
+ {
+   "Word": "inicial",
+   "Definition": "initial"
+ },
+ {
+   "Word": "innovacija",
+   "Definition": "innovation"
+ },
+ {
+   "Word": "innovacionnoj",
+   "Definition": "innovative"
+ },
+ {
+   "Word": "inspekcija",
+   "Definition": "inspection"
+ },
+ {
+   "Word": "inspektirovams (sčot)",
+   "Definition": "audit"
+ },
+ {
+   "Word": "inspektor",
+   "Definition": "inspector"
+ },
+ {
+   "Word": "instinkt",
+   "Definition": "instinct"
+ },
+ {
+   "Word": "instinktëń koräs",
+   "Definition": "instinctive"
+ },
+ {
+   "Word": "institucija",
+   "Definition": "establishment; institution"
+ },
+ {
+   "Word": "institut",
+   "Definition": "insitute"
+ },
+ {
+   "Word": "instrukcija",
+   "Definition": "manual"
+ },
+ {
+   "Word": "instrument",
+   "Definition": "instrument"
+ },
+ {
+   "Word": "insulin",
+   "Definition": "insulin"
+ },
+ {
+   "Word": "integracija",
+   "Definition": "integration"
+ },
+ {
+   "Word": "integrirovams",
+   "Definition": "integrate"
+ },
+ {
+   "Word": "intelekt",
+   "Definition": "intellect"
+ },
+ {
+   "Word": "intelligent",
+   "Definition": "intellectual"
+ },
+ {
+   "Word": "intelligentëń",
+   "Definition": "civilized"
+ },
+ {
+   "Word": "intelligentnoj",
+   "Definition": "civilized"
+ },
+ {
+   "Word": "interakcija",
+   "Definition": "interaction"
+ },
+ {
+   "Word": "interaktivnoj",
+   "Definition": "interactive"
+ },
+ {
+   "Word": "intervju",
+   "Definition": "interview"
+ },
+ {
+   "Word": "intimnoj",
+   "Definition": "intimate"
+ },
+ {
+   "Word": "intimnosť",
+   "Definition": "intimacy"
+ },
+ {
+   "Word": "intonacija",
+   "Definition": "intonation"
+ },
+ {
+   "Word": "intriga",
+   "Definition": "intrigue"
+ },
+ {
+   "Word": "intujicija",
+   "Definition": "intuition"
+ },
+ {
+   "Word": "intujitivnïj",
+   "Definition": "intuitive"
+ },
+ {
+   "Word": "invalid",
+   "Definition": "cripple"
+ },
+ {
+   "Word": "invalidëń kaläska",
+   "Definition": "wheelchair"
+ },
+ {
+   "Word": "inže",
+   "Definition": "guest; visitor"
+ },
+ {
+   "Word": "inzej",
+   "Definition": "raspberry"
+ },
+ {
+   "Word": "inžeks jakamo",
+   "Definition": "visit"
+ },
+ {
+   "Word": "inžekudo",
+   "Definition": "guesthouse; hotel"
+ },
+ {
+   "Word": "inžeń vaśkavtïcä",
+   "Definition": "hospitable"
+ },
+ {
+   "Word": "inžeń vaśkavtnema",
+   "Definition": "hospitality"
+ },
+ {
+   "Word": "inžeńor",
+   "Definition": "engineer"
+ },
+ {
+   "Word": "inžir",
+   "Definition": "fig"
+ },
+ {
+   "Word": "inäzormastor",
+   "Definition": "empire"
+ },
+ {
+   "Word": "inäzormastoroń",
+   "Definition": "imperial"
+ },
+ {
+   "Word": "irdeks",
+   "Definition": "rib"
+ },
+ {
+   "Word": "irdeks marto sïveľ (arsamopeľ)",
+   "Definition": "chop"
+ },
+ {
+   "Word": "irecstë",
+   "Definition": "intoxicated"
+ },
+ {
+   "Word": "iredemači",
+   "Definition": "intoxication"
+ },
+ {
+   "Word": "iredeź",
+   "Definition": "drunk"
+ },
+ {
+   "Word": "iredstë",
+   "Definition": "drunk"
+ },
+ {
+   "Word": "irnems",
+   "Definition": "growl"
+ },
+ {
    "Word": "ïrnems (at langs)",
    "Definition": "growl"
+ },
+ {
+   "Word": "ironičeskoj",
+   "Definition": "ironic"
+ },
+ {
+   "Word": "iržanä",
+   "Definition": "inconsiderate"
+ },
+ {
+   "Word": "išem",
+   "Definition": "camel"
+ },
+ {
+   "Word": "iskusstvennoj",
+   "Definition": "artificial"
+ },
+ {
+   "Word": "islam",
+   "Definition": "Islam"
+ },
+ {
+   "Word": "išme",
+   "Definition": "donkey"
+ },
+ {
+   "Word": "ispravams",
+   "Definition": "rectify"
+ },
+ {
+   "Word": "issledovanija",
+   "Definition": "research"
+ },
+ {
+   "Word": "isterija",
+   "Definition": "hysteria"
+ },
+ {
+   "Word": "istojamo žo",
+   "Definition": "parallel"
+ },
+ {
+   "Word": "istorija",
+   "Definition": "history"
+ },
+ {
+   "Word": "istorijań",
+   "Definition": "historic"
+ },
+ {
+   "Word": "istorijań turtov eräviks",
+   "Definition": "historic"
+ },
+ {
+   "Word": "istorik",
+   "Definition": "historian"
+ },
+ {
+   "Word": "istožamo",
+   "Definition": "execution"
+ },
+ {
+   "Word": "istä",
+   "Definition": "so"
+ },
+ {
+   "Word": "istä žo",
+   "Definition": "also; likewise"
+ },
+ {
+   "Word": "istämo",
+   "Definition": "such"
+ },
+ {
+   "Word": "istämo... koda",
+   "Definition": "as ... as ..."
+ },
+ {
+   "Word": "isäk",
+   "Definition": "yesterday"
+ },
+ {
+   "Word": "izdatelstva",
+   "Definition": "publishing"
+ },
+ {
+   "Word": "iznicä",
+   "Definition": "winner"
+ },
+ {
+   "Word": "iznämo",
+   "Definition": "victory"
+ },
+ {
+   "Word": "iznäms",
+   "Definition": "achieve; conquer; prevail; win"
+ },
+ {
+   "Word": "iznävicä",
+   "Definition": "loser"
+ },
+ {
+   "Word": "iznävks",
+   "Definition": "achievement; win"
+ },
+ {
+   "Word": "iznävoma",
+   "Definition": "defeat; failure"
+ },
+ {
+   "Word": "iznävoms",
+   "Definition": "defeat"
+ },
+ {
+   "Word": "iznävoms (in chess šahmatso",
+   "Definition": "V;lose"
+ },
+ {
+   "Word": "izobretatelnoj",
+   "Definition": "ingenious"
+ },
+ {
+   "Word": "izobretatelnosť",
+   "Definition": "ingenuity"
+ },
+ {
+   "Word": "izolirovams",
+   "Definition": "insulate; isolate"
+ },
+ {
+   "Word": "izoläcija",
+   "Definition": "insulation; isolation"
+ },
+ {
+   "Word": "izvestnäk",
+   "Definition": "limestone"
+ },
+ {
+   "Word": "jad",
+   "Definition": "poison"
+ },
+ {
+   "Word": "jad karšo peľ",
+   "Definition": "antidote"
+ },
+ {
+   "Word": "jadernoj",
+   "Definition": "nuclear"
+ },
+ {
+   "Word": "jagoda",
+   "Definition": "berry"
+ },
+ {
+   "Word": "jahojams",
+   "Definition": "wave"
+ },
+ {
+   "Word": "jahor",
+   "Definition": "pure"
+ },
+ {
+   "Word": "jahorgavtoms",
+   "Definition": "refine"
+ },
+ {
+   "Word": "jahta",
+   "Definition": "yacht"
+ },
+ {
+   "Word": "jakado",
+   "Definition": "goodbye"
+ },
+ {
+   "Word": "jakamo",
+   "Definition": "attendance"
+ },
+ {
+   "Word": "jakams",
+   "Definition": "go"
+ },
+ {
+   "Word": "jakams (lomantneń) meľga pokš čisë",
+   "Definition": "cater"
+ },
+ {
+   "Word": "jakams (mezeń-buti kisë)",
+   "Definition": "retrieve"
+ },
+ {
+   "Word": "jakams (školav)",
+   "Definition": "attend"
+ },
+ {
+   "Word": "jakams (viŕga-ukštorga)",
+   "Definition": "wander"
+ },
+ {
+   "Word": "jakams iltämo",
+   "Definition": "see off"
+ },
+ {
+   "Word": "jakams inžeks",
+   "Definition": "visit"
+ },
+ {
+   "Word": "jakams kiń-buti meľga",
+   "Definition": "attend"
+ },
+ {
+   "Word": "jakams viŕga-paksäva",
+   "Definition": "hike"
+ },
+ {
+   "Word": "jakavtoma",
+   "Definition": "breeding"
+ },
+ {
+   "Word": "jaki čočamka",
+   "Definition": "zipper"
+ },
+ {
+   "Word": "jakoŕ",
+   "Definition": "anchor"
+ },
+ {
+   "Word": "jakšamo",
+   "Definition": "cold; frost"
+ },
+ {
+   "Word": "jakšamo jonov",
+   "Definition": "northwards"
+ },
+ {
+   "Word": "jakšamojonks",
+   "Definition": "north"
+ },
+ {
+   "Word": "jakšamokov",
+   "Definition": "January"
+ },
+ {
+   "Word": "jakšavtïcä",
+   "Definition": "freezing"
+ },
+ {
+   "Word": "jaksterdť mericä",
+   "Definition": "reddish"
+ },
+ {
+   "Word": "jakstere",
+   "Definition": "red"
+ },
+ {
+   "Word": "jakstere jaksteŕkaj",
+   "Definition": "beet; beetroot"
+ },
+ {
+   "Word": "jakstere tešteń cecä",
+   "Definition": "carnation"
+ },
+ {
+   "Word": "jakstere vereń asatoma",
+   "Definition": "anaemic"
+ },
+ {
+   "Word": "jakstereatäkšoń noldnema",
+   "Definition": "arson"
+ },
+ {
+   "Word": "jaksterekal",
+   "Definition": "salmon"
+ },
+ {
+   "Word": "jaksteŕgadoms (vizdemado)",
+   "Definition": "blush"
+ },
+ {
+   "Word": "jaksteŕgalicä",
+   "Definition": "blushing"
+ },
+ {
+   "Word": "jaksärgo",
+   "Definition": "duck"
+ },
+ {
+   "Word": "jalaksonť ćorazo",
+   "Definition": "nephew"
+ },
+ {
+   "Word": "jalaksonť tejterezë",
+   "Definition": "niece"
+ },
+ {
+   "Word": "jalga",
+   "Definition": "companion; comrade; friend"
+ },
+ {
+   "Word": "jalga jutko",
+   "Definition": "fellowship"
+ },
+ {
+   "Word": "jalgaks",
+   "Definition": "matching"
+ },
+ {
+   "Word": "jalgaks tejicä",
+   "Definition": "friendly"
+ },
+ {
+   "Word": "jalgaksči",
+   "Definition": "companionship; friendship"
+ },
+ {
+   "Word": "jalgaksčiń nevtema",
+   "Definition": "kindness"
+ },
+ {
+   "Word": "jalgat (kavto lomande)",
+   "Definition": "couple"
+ },
+ {
+   "Word": "jalgo jutïcä",
+   "Definition": "pedestrian"
+ },
+ {
+   "Word": "jalgo vij",
+   "Definition": "infantry"
+ },
+ {
+   "Word": "jam",
+   "Definition": "soup"
+ },
+ {
+   "Word": "jamks",
+   "Definition": "grain"
+ },
+ {
+   "Word": "jan",
+   "Definition": "path"
+ },
+ {
+   "Word": "janksema",
+   "Definition": "regret; remorse"
+ },
+ {
+   "Word": "janksems",
+   "Definition": "regret"
+ },
+ {
+   "Word": "jantaŕ",
+   "Definition": "amber"
+ },
+ {
+   "Word": "jarmak",
+   "Definition": "money"
+ },
+ {
+   "Word": "jarmak (sleng)",
+   "Definition": "dough"
+ },
+ {
+   "Word": "jarmak)",
+   "Definition": "beg"
+ },
+ {
+   "Word": "jarmakoń apitnejgadoma",
+   "Definition": "inflation"
+ },
+ {
+   "Word": "jarmakoń čočama",
+   "Definition": "profit"
+ },
+ {
+   "Word": "jarmakoń jutavtoma",
+   "Definition": "expenditure"
+ },
+ {
+   "Word": "jarmakoń kajamo (počtaso)",
+   "Definition": "remittance"
+ },
+ {
+   "Word": "jarmakoń kučoma (bankso)",
+   "Definition": "transaction"
+ },
+ {
+   "Word": "jarmakoń mančema pristuplenija",
+   "Definition": "fraud"
+ },
+ {
+   "Word": "jarmakoń mekev  pandoma",
+   "Definition": "refund"
+ },
+ {
+   "Word": "jarmakoń putoma",
+   "Definition": "bet; investment"
+ },
+ {
+   "Word": "jarmakoń samo",
+   "Definition": "profit"
+ },
+ {
+   "Word": "jarmakso lezks",
+   "Definition": "subsidy"
+ },
+ {
+   "Word": "jarmaktomo",
+   "Definition": "destitute"
+ },
+ {
+   "Word": "jarsamkst",
+   "Definition": "grub"
+ },
+ {
+   "Word": "jarsamo nupaľ / kudo",
+   "Definition": "dining room"
+ },
+ {
+   "Word": "jarsamodo ikeleń ozolma",
+   "Definition": "grace"
+ },
+ {
+   "Word": "jarsamopeľ",
+   "Definition": "appetite; food; grub"
+ },
+ {
+   "Word": "jarsamopeleń pokš lavka",
+   "Definition": "supermarket"
+ },
+ {
+   "Word": "jarsams",
+   "Definition": "dine"
+ },
+ {
+   "Word": "jarsavoms (pek)",
+   "Definition": "overeat"
+ },
+ {
+   "Word": "jaštik",
+   "Definition": "box"
+ },
+ {
+   "Word": "jat",
+   "Definition": "enemy"
+ },
+ {
+   "Word": "javamo",
+   "Definition": "heating"
+ },
+ {
+   "Word": "javks",
+   "Definition": "compartment; department"
+ },
+ {
+   "Word": "javoks",
+   "Definition": "division"
+ },
+ {
+   "Word": "javolävks",
+   "Definition": "announcement; notification"
+ },
+ {
+   "Word": "javolävtoms",
+   "Definition": "announce"
+ },
+ {
+   "Word": "javoma",
+   "Definition": "allotment; division; divorce; partition; separation"
+ },
+ {
+   "Word": "javoms",
+   "Definition": "allot; detach; part; separate"
+ },
+ {
+   "Word": "javoms (a couple mirdť-niť)",
+   "Definition": "divorce"
+ },
+ {
+   "Word": "javoms (lomanť lijatneń ejstë kiśke ťusoń koräs)",
+   "Definition": "segregate"
+ },
+ {
+   "Word": "javoms (something mezejak)",
+   "Definition": "divide"
+ },
+ {
+   "Word": "javoms (vejke lijatneń ejstë)",
+   "Definition": "distinguish"
+ },
+ {
+   "Word": "javoms lijatneń ejstë",
+   "Definition": "deviate"
+ },
+ {
+   "Word": "javoms meľ (vejke tevneń)",
+   "Definition": "concentrate"
+ },
+ {
+   "Word": "javoms tevstë",
+   "Definition": "bother; disrupt; distract; disturb"
+ },
+ {
+   "Word": "javoviks",
+   "Definition": "detachable"
+ },
+ {
+   "Word": "javovoma",
+   "Definition": "difference; distinction"
+ },
+ {
+   "Word": "javovtoma",
+   "Definition": "alienation"
+ },
+ {
+   "Word": "javovtoms (ojmesë lijatneń ejstë)",
+   "Definition": "alienate"
+ },
+ {
+   "Word": "javoź",
+   "Definition": "apart"
+ },
+ {
+   "Word": "javoź",
+   "Definition": "apart"
+ },
+ {
+   "Word": "javšema",
+   "Definition": "distribution; partition"
+ },
+ {
+   "Word": "javšems",
+   "Definition": "circulate; distribute"
+ },
+ {
+   "Word": "javšems (armak mezekskak)",
+   "Definition": "allocate"
+ },
+ {
+   "Word": "javšems (with marto)",
+   "Definition": "share"
+ },
+ {
+   "Word": "jažamo-tapamo",
+   "Definition": "annihilation"
+ },
+ {
+   "Word": "jažams",
+   "Definition": "ravage"
+ },
+ {
+   "Word": "jažams-tapams",
+   "Definition": "annihilate; devastate"
+ },
+ {
+   "Word": "jažavksoń lijadkst",
+   "Definition": "wreckage"
+ },
+ {
+   "Word": "jažavtoms veďkevsë",
+   "Definition": "mill"
+ },
+ {
+   "Word": "jazva",
+   "Definition": "ulcer"
+ },
+ {
+   "Word": "jedinica",
+   "Definition": "unit"
+ },
+ {
+   "Word": "jenot",
+   "Definition": "raccoon"
+ },
+ {
+   "Word": "jepiskop",
+   "Definition": "bishop"
+ },
+ {
+   "Word": "Jevropa",
+   "Definition": "Europe"
+ },
+ {
+   "Word": "Jevropań",
+   "Definition": "European"
  },
  {
    "Word": "jod",
@@ -5226,6 +7274,442 @@
  {
    "Word": "jogurt",
    "Definition": "yogurt"
+ },
+ {
+   "Word": "jolganä",
+   "Definition": "flexible; slender; slim; thin"
+ },
+ {
+   "Word": "jomamo",
+   "Definition": "disappearance; ruins"
+ },
+ {
+   "Word": "jomatoms",
+   "Definition": "disappear"
+ },
+ {
+   "Word": "jomavks",
+   "Definition": "loss; waste"
+ },
+ {
+   "Word": "jomavtoms (something mezejak)",
+   "Definition": "lose"
+ },
+ {
+   "Word": "jomavtoms jožo",
+   "Definition": "pass out"
+ },
+ {
+   "Word": "jomaź",
+   "Definition": "lost"
+ },
+ {
+   "Word": "jon",
+   "Definition": "comfortable; handy; pleasant"
+ },
+ {
+   "Word": "jon kulä",
+   "Definition": "gospel"
+ },
+ {
+   "Word": "jondol",
+   "Definition": "lightning"
+ },
+ {
+   "Word": "jonks",
+   "Definition": "direction; district; page; region"
+ },
+ {
+   "Word": "jonks lovoma",
+   "Definition": "acceptance; approval"
+ },
+ {
+   "Word": "jonks lovoms",
+   "Definition": "approve"
+ },
+ {
+   "Word": "jonks lovoviks",
+   "Definition": "acceptable"
+ },
+ {
+   "Word": "jonksoń jomavtoź",
+   "Definition": "astray"
+ },
+ {
+   "Word": "jonov",
+   "Definition": "toward"
+ },
+ {
+   "Word": "joramo",
+   "Definition": "preparation"
+ },
+ {
+   "Word": "jorams",
+   "Definition": "equip; prepare; supply"
+ },
+ {
+   "Word": "jorams (tovarso)",
+   "Definition": "stock"
+ },
+ {
+   "Word": "joravkst",
+   "Definition": "supply"
+ },
+ {
+   "Word": "jormo",
+   "Definition": "bladder"
+ },
+ {
+   "Word": "jorok",
+   "Definition": "talent"
+ },
+ {
+   "Word": "jorokči",
+   "Definition": "ability; aptitude"
+ },
+ {
+   "Word": "joroktomoči",
+   "Definition": "inability"
+ },
+ {
+   "Word": "joroplan",
+   "Definition": "airplane"
+ },
+ {
+   "Word": "joroplanso (lomań) meľga jakicä",
+   "Definition": "stewardess"
+ },
+ {
+   "Word": "joroplanso) viť jonks",
+   "Definition": "starboard"
+ },
+ {
+   "Word": "joroplant-mezť",
+   "Definition": "aircraft"
+ },
+ {
+   "Word": "jortoma",
+   "Definition": "throw"
+ },
+ {
+   "Word": "jortomapiks",
+   "Definition": "sling"
+ },
+ {
+   "Word": "jortoms",
+   "Definition": "eject; eliminate; throw; toss"
+ },
+ {
+   "Word": "jortoms bomba",
+   "Definition": "bomb"
+ },
+ {
+   "Word": "jortoms čuvtsto",
+   "Definition": "gamble"
+ },
+ {
+   "Word": "jortovks",
+   "Definition": "waste"
+ },
+ {
+   "Word": "jortovkst",
+   "Definition": "garbage; sewage"
+ },
+ {
+   "Word": "jortovoms karadokaršo",
+   "Definition": "clash"
+ },
+ {
+   "Word": "jorvaldoms",
+   "Definition": "rinse"
+ },
+ {
+   "Word": "jovardoms",
+   "Definition": "rinse"
+ },
+ {
+   "Word": "jovks",
+   "Definition": "fairytale"
+ },
+ {
+   "Word": "jovksoń kondämo",
+   "Definition": "fabulous"
+ },
+ {
+   "Word": "jovtamo",
+   "Definition": "pronunciation; saying; statement"
+ },
+ {
+   "Word": "jovtams",
+   "Definition": "declare; pronounce; say; state"
+ },
+ {
+   "Word": "jovtams (kineń) paro meľ",
+   "Definition": "congratulate"
+ },
+ {
+   "Word": "jovtams (veseń marämga)",
+   "Definition": "notify"
+ },
+ {
+   "Word": "jovtams beräń tevde",
+   "Definition": "warn"
+ },
+ {
+   "Word": "jovtams lomanneń: \"paro sïť\"",
+   "Definition": "welcome"
+ },
+ {
+   "Word": "jovtams marämga",
+   "Definition": "proclaim"
+ },
+ {
+   "Word": "jovtams meľ",
+   "Definition": "comment; input"
+ },
+ {
+   "Word": "jovtams škado ikelev",
+   "Definition": "predict"
+ },
+ {
+   "Word": "jovtams veseń marämga",
+   "Definition": "publicize"
+ },
+ {
+   "Word": "jovtavks",
+   "Definition": "quotation"
+ },
+ {
+   "Word": "jovtaź",
+   "Definition": "verbal"
+ },
+ {
+   "Word": "jovtnema",
+   "Definition": "description; narration; tale"
+ },
+ {
+   "Word": "jovtnems",
+   "Definition": "tell"
+ },
+ {
+   "Word": "jovtnems (kiń-buti)",
+   "Definition": "describe"
+ },
+ {
+   "Word": "jovtnems prevstë",
+   "Definition": "recite"
+ },
+ {
+   "Word": "jožamarämo",
+   "Definition": "feeling"
+ },
+ {
+   "Word": "jozamo",
+   "Definition": "friction"
+ },
+ {
+   "Word": "jozams",
+   "Definition": "rub"
+ },
+ {
+   "Word": "jozdams",
+   "Definition": "hit"
+ },
+ {
+   "Word": "jozmoldoms",
+   "Definition": "stir"
+ },
+ {
+   "Word": "joznë",
+   "Definition": "serpent; snake"
+ },
+ {
+   "Word": "jožo",
+   "Definition": "consciousness; mood; spirit; temper; trick"
+ },
+ {
+   "Word": "jožo maräms",
+   "Definition": "sympathize"
+ },
+ {
+   "Word": "jozoldoms",
+   "Definition": "rub"
+ },
+ {
+   "Word": "jožomaricä",
+   "Definition": "insensitive; sentimental"
+ },
+ {
+   "Word": "jožomarämo",
+   "Definition": "emotion; mood; sensation; sensitivity; sympathy"
+ },
+ {
+   "Word": "jožomarämoń",
+   "Definition": "emotional; sensational"
+ },
+ {
+   "Word": "jožomaräź",
+   "Definition": "sympathetic"
+ },
+ {
+   "Word": "jožope",
+   "Definition": "nerve"
+ },
+ {
+   "Word": "jožoponań stävtïcä",
+   "Definition": "gruesome"
+ },
+ {
+   "Word": "jožov",
+   "Definition": "crafty; sly"
+ },
+ {
+   "Word": "jožovtomo",
+   "Definition": "unconscious"
+ },
+ {
+   "Word": "jubilej",
+   "Definition": "anniversary"
+ },
+ {
+   "Word": "jubka",
+   "Definition": "skirt"
+ },
+ {
+   "Word": "judma",
+   "Definition": "bag"
+ },
+ {
+   "Word": "juksems",
+   "Definition": "untie"
+ },
+ {
+   "Word": "jukstams (śulmo)",
+   "Definition": "undo"
+ },
+ {
+   "Word": "jumor",
+   "Definition": "humor"
+ },
+ {
+   "Word": "jumor marto",
+   "Definition": "humorous"
+ },
+ {
+   "Word": "jumorov",
+   "Definition": "humorous"
+ },
+ {
+   "Word": "jur",
+   "Definition": "basis; pedestal; root"
+ },
+ {
+   "Word": "juroń",
+   "Definition": "principal; radical"
+ },
+ {
+   "Word": "jurt",
+   "Definition": "base"
+ },
+ {
+   "Word": "jurtoń putoma",
+   "Definition": "groundwork"
+ },
+ {
+   "Word": "jutamo",
+   "Definition": "mobility"
+ },
+ {
+   "Word": "jutamo palka",
+   "Definition": "cane"
+ },
+ {
+   "Word": "jutamo tarka",
+   "Definition": "crossing; passage"
+ },
+ {
+   "Word": "jutamotarka",
+   "Definition": "aisle"
+ },
+ {
+   "Word": "jutams",
+   "Definition": "function; migrate; walk"
+ },
+ {
+   "Word": "jutams kije-buti meľga",
+   "Definition": "pursue"
+ },
+ {
+   "Word": "jutams nile piľge langso",
+   "Definition": "crawl"
+ },
+ {
+   "Word": "jutams od tarkas",
+   "Definition": "move"
+ },
+ {
+   "Word": "jutams pačka",
+   "Definition": "penetrate"
+ },
+ {
+   "Word": "jutams salava",
+   "Definition": "sneak"
+ },
+ {
+   "Word": "jutams vakska",
+   "Definition": "avoid"
+ },
+ {
+   "Word": "jutavtoma",
+   "Definition": "consumption; interpretation; translation"
+ },
+ {
+   "Word": "jutavtoms",
+   "Definition": "interpret"
+ },
+ {
+   "Word": "jutavtoms (lija kels)",
+   "Definition": "translate"
+ },
+ {
+   "Word": "jutavtoms (money jarmak",
+   "Definition": "V;spend"
+ },
+ {
+   "Word": "jutavtoms tevde kortamo",
+   "Definition": "negotiate"
+ },
+ {
+   "Word": "jutavtovks",
+   "Definition": "translation"
+ },
+ {
+   "Word": "jutaź škań",
+   "Definition": "past"
+ },
+ {
+   "Word": "jutko",
+   "Definition": "distance; interval; space"
+ },
+ {
+   "Word": "jutkoška",
+   "Definition": "intermission; leisure; pastime"
+ },
+ {
+   "Word": "jutkova",
+   "Definition": "between"
+ },
+ {
+   "Word": "jutks",
+   "Definition": "between"
+ },
+ {
+   "Word": "jutkso",
+   "Definition": "among; between"
+ },
+ {
+   "Word": "juvelir",
+   "Definition": "jeweler"
  },
  {
    "Word": "k inigań lavka",
@@ -8648,7 +11132,7 @@
    "Definition": "news"
  },
  {
-   "Word": "kulätïï",
+   "Word": "kulät??",
    "Definition": "rumor"
  },
  {
@@ -8905,7 +11389,7 @@
  },
  {
    "Word": "kuzems (ship",
-   "Definition": " ïïïïïïïïïïï);V;board"
+   "Definition": " менельвенчс);V;board"
  },
  {
    "Word": "kuznec",
@@ -8934,6 +11418,10 @@
  {
    "Word": "kvartera",
    "Definition": "apartment"
+ },
+ {
+   "Word": "kvartera (apartment)",
+   "Definition": "flat"
  },
  {
    "Word": "kvitancija",
@@ -10068,6 +12556,10 @@
    "Definition": "web"
  },
  {
+   "Word": "lopa (book)",
+   "Definition": "leaf"
+ },
+ {
    "Word": "lopadems",
    "Definition": "soak"
  },
@@ -10117,7 +12609,7 @@
  },
  {
    "Word": "lotkavtoms (radio",
-   "Definition": " oven ïïïïï; ïïïïïïïïï; ïïïïïïï);V;turn off"
+   "Definition": " oven радио; телевизор; духовка);V;turn off"
  },
  {
    "Word": "lotkavtoń",
@@ -11136,11 +13628,11 @@
    "Definition": "entertain"
  },
  {
-   "Word": "mel(et)ï + ulems",
+   "Word": "mel(et)ь + ulems",
    "Definition": "desire"
  },
  {
-   "Word": "mel(et)ï molems (mezeń) kis",
+   "Word": "mel(et)ь molems (mezeń) kis",
    "Definition": "desire"
  },
  {
@@ -11940,6 +14432,10 @@
    "Definition": "bore"
  },
  {
+   "Word": "mon",
+   "Definition": "I"
+ },
+ {
    "Word": "moń",
    "Definition": "my"
  },
@@ -12161,7 +14657,7 @@
  },
  {
    "Word": "muśkeviks",
-   "Definition": "ïïwashable"
+   "Definition": "??washable"
  },
  {
    "Word": "muskulä",
@@ -12809,7 +15305,7 @@
  },
  {
    "Word": "noldams (radio",
-   "Definition": " oven ïïïïï; ïïïïïïïïï; ïïïïïïï);V;turn on"
+   "Definition": " oven радио; телевизор; духовка);V;turn on"
  },
  {
    "Word": "noldams (tovar)",
@@ -13256,6 +15752,10 @@
    "Definition": "relaxation; rest"
  },
  {
+   "Word": "ojmsema ška (work)",
+   "Definition": "vacation"
+ },
+ {
    "Word": "ojmsems",
    "Definition": "relax; rest"
  },
@@ -13376,7 +15876,7 @@
    "Definition": "consideration"
  },
  {
-   "Word": "onkstavks.- v. onkstams",
+   "Word": "onkstavks.― v. onkstams",
    "Definition": "measure"
  },
  {
@@ -13594,6 +16094,10 @@
  {
    "Word": "otravamo",
    "Definition": "poisoning"
+ },
+ {
+   "Word": "otravamo (arsamopelde)",
+   "Definition": "food poisoning"
  },
  {
    "Word": "otricatelnoj",
@@ -14637,7 +17141,7 @@
  },
  {
    "Word": "pelems (ear",
-   "Definition": " ïïïï);V;pierce"
+   "Definition": " варя);V;pierce"
  },
  {
    "Word": "pelev",
@@ -14816,7 +17320,7 @@
    "Definition": "perspective; prospect"
  },
  {
-   "Word": "perť peľks",
+   "Word": "perťpeľks",
    "Definition": "environment; surroundings"
  },
  {
@@ -14965,7 +17469,7 @@
  },
  {
    "Word": "pidems (coffee",
-   "Definition": " ïïï);V;brew"
+   "Definition": " чай);V;brew"
  },
  {
    "Word": "pidems (sïveľ tolso",
@@ -18252,7 +20756,7 @@
    "Definition": "bridge; carbon"
  },
  {
-   "Word": "sëď ïï",
+   "Word": "sëď ??",
    "Definition": "ramp"
  },
  {
@@ -18389,7 +20893,7 @@
  },
  {
    "Word": "sedejneževteme",
-   "Definition": "ïïhopeless"
+   "Definition": "??hopeless"
  },
  {
    "Word": "sedejojmavks",
@@ -18448,7 +20952,7 @@
    "Definition": "horn"
  },
  {
-   "Word": "sejedeľmaïï",
+   "Word": "sejedeľma??",
    "Definition": "frequency"
  },
  {
@@ -18592,7 +21096,7 @@
    "Definition": "envy; jealousy"
  },
  {
-   "Word": "seľmeń sävadoma.- v.",
+   "Word": "seľmeń sävadoma.― v.",
    "Definition": "envy"
  },
  {
@@ -19332,7 +21836,7 @@
    "Definition": "graduation"
  },
  {
-   "Word": "skoroj pomoštï",
+   "Word": "skoroj pomoštь",
    "Definition": "ambulance"
  },
  {
@@ -19670,6 +22174,10 @@
  {
    "Word": "śolgoź",
    "Definition": "closed"
+ },
+ {
+   "Word": "śolmo (airplane)",
+   "Definition": "wing"
  },
  {
    "Word": "śolt",
@@ -20760,7 +23268,7 @@
    "Definition": "foggy"
  },
  {
-   "Word": "suvov ïï(mastorks)",
+   "Word": "suvov ??(mastorks)",
    "Definition": "hazy"
  },
  {
@@ -21688,7 +24196,7 @@
    "Definition": "brand"
  },
  {
-   "Word": "tešks.- v. tejems tešks",
+   "Word": "tešks.― v. tejems tešks",
    "Definition": "mark"
  },
  {
@@ -23432,7 +25940,7 @@
    "Definition": "smooth"
  },
  {
-   "Word": "valanä-melstujicäïï",
+   "Word": "valanä-melstujicä??",
    "Definition": "graceful"
  },
  {
@@ -24268,7 +26776,7 @@
    "Definition": "hippopotamus"
  },
  {
-   "Word": "veďmolemaïï",
+   "Word": "veďmolema??",
    "Definition": "aqueduct"
  },
  {
@@ -24728,7 +27236,7 @@
    "Definition": "bloodshed"
  },
  {
-   "Word": "vereń valoma.- vt. valoms veŕ",
+   "Word": "vereń valoma.― vt. valoms veŕ",
    "Definition": "massacre"
  },
  {
@@ -24916,7 +27424,7 @@
    "Definition": "once"
  },
  {
-   "Word": "veštï",
+   "Word": "veštь",
    "Definition": "product"
  },
  {
@@ -25738,2513 +28246,5 @@
  {
    "Word": "zärs",
    "Definition": "yet"
- },
- {
-   "Word": " agent",
-   "Definition": "agent"
- },
- {
-   "Word": " agressija",
-   "Definition": "aggression"
- },
- {
-   "Word": " agressivnoj",
-   "Definition": "aggressive"
- },
- {
-   "Word": "-do",
-   "Definition": "about"
- },
- {
-   "Word": "-neń",
-   "Definition": "miss"
- },
- {
-   "Word": "Afrika",
-   "Definition": "continent"
- },
- {
-   "Word": "artikla (grammatikań)",
-   "Definition": "article"
- },
- {
-   "Word": "asatïks (character)",
-   "Definition": "blemish"
- },
- {
-   "Word": "ecems",
-   "Definition": "poke; stuff"
- },
- {
-   "Word": "ecems (kov a erävi)",
-   "Definition": "intrude"
- },
- {
-   "Word": "ecems kiń jutks",
-   "Definition": "disrupt"
- },
- {
-   "Word": "ecems lomaneń kortamos",
-   "Definition": "interrupt"
- },
- {
-   "Word": "ečke",
-   "Definition": "coarse; thick"
- },
- {
-   "Word": "ečke",
-   "Definition": "thickness"
- },
- {
-   "Word": "ečkelma",
-   "Definition": "thickness"
- },
- {
-   "Word": "effektivnoj",
-   "Definition": "effective; efficient"
- },
- {
-   "Word": "effektivnosť",
-   "Definition": "efficiency"
- },
- {
-   "Word": "ej",
-   "Definition": "ice"
- },
- {
-   "Word": "ejde",
-   "Definition": "infant"
- },
- {
-   "Word": "ejde (pek višine)",
-   "Definition": "baby"
- },
- {
-   "Word": "ejdekudo",
-   "Definition": "uterus; womb"
- },
- {
-   "Word": "ejdeń kajamo",
-   "Definition": "miscarriage"
- },
- {
-   "Word": "ejdeń kajavtoma",
-   "Definition": "abortion"
- },
- {
-   "Word": "ejeń pando",
-   "Definition": "iceberg"
- },
- {
-   "Word": "ejenzams",
-   "Definition": "freeze"
- },
- {
-   "Word": "ejenzavtoms",
-   "Definition": "freeze"
- },
- {
-   "Word": "ejev",
-   "Definition": "icy"
- },
- {
-   "Word": "ejkakš",
-   "Definition": "child"
- },
- {
-   "Word": "ejkakšbijo",
-   "Definition": "descendant"
- },
- {
-   "Word": "ejkakšoń ejkakš",
-   "Definition": "grandchild"
- },
- {
-   "Word": "ejkakšoń kondämo",
-   "Definition": "childish"
- },
- {
-   "Word": "ejkakšoń sajema",
-   "Definition": "adoption"
- },
- {
-   "Word": "ejkakšpinge",
-   "Definition": "childhood"
- },
- {
-   "Word": "ejkakšt",
-   "Definition": "children"
- },
- {
-   "Word": "ejkudo",
-   "Definition": "igloo"
- },
- {
-   "Word": "ejne paro",
-   "Definition": "magnificent"
- },
- {
-   "Word": "ejpando",
-   "Definition": "iceberg"
- },
- {
-   "Word": "ejparo",
-   "Definition": "excellent"
- },
- {
-   "Word": "ejparoči",
-   "Definition": "excellence"
- },
- {
-   "Word": "ejśuro",
-   "Definition": "icicle"
- },
- {
-   "Word": "ejśurokov",
-   "Definition": "March"
- },
- {
-   "Word": "ekologija",
-   "Definition": "ecology"
- },
- {
-   "Word": "ekonomija",
-   "Definition": "economy"
- },
- {
-   "Word": "ekonomijań",
-   "Definition": "economic"
- },
- {
-   "Word": "ekše",
-   "Definition": "cool"
- },
- {
-   "Word": "ekše",
-   "Definition": "shade"
- },
- {
-   "Word": "ekšelgavtoms",
-   "Definition": "cool"
- },
- {
-   "Word": "ekšeläms",
-   "Definition": "bathe; swim"
- },
- {
-   "Word": "ekšelävtoms",
-   "Definition": "bathe"
- },
- {
-   "Word": "ekskursija",
-   "Definition": "trip"
- },
- {
-   "Word": "ekspedicija",
-   "Definition": "expedition"
- },
- {
-   "Word": "eksperiment",
-   "Definition": "experiment"
- },
- {
-   "Word": "ekspluatirovamo",
-   "Definition": "exploitation"
- },
- {
-   "Word": "eksport",
-   "Definition": "export"
- },
- {
-   "Word": "eksportir",
-   "Definition": "exporter"
- },
- {
-   "Word": "eksportirovams",
-   "Definition": "export"
- },
- {
-   "Word": "ekstrennoj",
-   "Definition": "extra; extraordinary"
- },
- {
-   "Word": "ekvator",
-   "Definition": "equator"
- },
- {
-   "Word": "ekzam",
-   "Definition": "examination"
- },
- {
-   "Word": "ekzotičeskoj",
-   "Definition": "exotic"
- },
- {
-   "Word": "eľ",
-   "Definition": "hem"
- },
- {
-   "Word": "eľ-eľ",
-   "Definition": "barely; hardly"
- },
- {
-   "Word": "elde",
-   "Definition": "mare"
- },
- {
-   "Word": "ele",
-   "Definition": "lap"
- },
- {
-   "Word": "elegantnoj",
-   "Definition": "elegant"
- },
- {
-   "Word": "elegantnosť",
-   "Definition": "elegance"
- },
- {
-   "Word": "električeskoj",
-   "Definition": "electric"
- },
- {
-   "Word": "električestva",
-   "Definition": "electricity"
- },
- {
-   "Word": "elektrikań",
-   "Definition": "electric"
- },
- {
-   "Word": "element",
-   "Definition": "element"
- },
- {
-   "Word": "eli",
-   "Definition": "or"
- },
- {
-   "Word": "embargo",
-   "Definition": "embargo"
- },
- {
-   "Word": "emblema",
-   "Definition": "emblem"
- },
- {
-   "Word": "embrion",
-   "Definition": "embryo"
- },
- {
-   "Word": "emež",
-   "Definition": "fruit"
- },
- {
-   "Word": "energija",
-   "Definition": "energy"
- },
- {
-   "Word": "engamtoms",
-   "Definition": "appease"
- },
- {
-   "Word": "enäldoma",
-   "Definition": "request"
- },
- {
-   "Word": "enäldoms",
-   "Definition": "request"
- },
- {
-   "Word": "erej",
-   "Definition": "fast"
- },
- {
-   "Word": "erejstë",
-   "Definition": "fast"
- },
- {
-   "Word": "erek",
-   "Definition": "quick"
- },
- {
-   "Word": "ereksan",
-   "Definition": "penis"
- },
- {
-   "Word": "eŕge",
-   "Definition": "pearl"
- },
- {
-   "Word": "eŕgečovar",
-   "Definition": "gravel"
- },
- {
-   "Word": "ericä",
-   "Definition": "alive; live"
- },
- {
-   "Word": "ericä",
-   "Definition": "inhabitant; resident; tenant"
- },
- {
-   "Word": "ericät",
-   "Definition": "population"
- },
- {
-   "Word": "eriks",
-   "Definition": "affluent"
- },
- {
-   "Word": "eriksči",
-   "Definition": "affluence"
- },
- {
-   "Word": "eŕke",
-   "Definition": "lake"
- },
- {
-   "Word": "eŕkepire",
-   "Definition": "shore"
- },
- {
-   "Word": "eŕme",
-   "Definition": "wealth"
- },
- {
-   "Word": "eŕmev",
-   "Definition": "wealthy"
- },
- {
-   "Word": "ertems",
-   "Definition": "bump"
- },
- {
-   "Word": "eŕva",
-   "Definition": "each; every"
- },
- {
-   "Word": "eŕva časoń",
-   "Definition": "hourly"
- },
- {
-   "Word": "eŕva čiń",
-   "Definition": "common; daily; ordinary; usual"
- },
- {
-   "Word": "eŕva čiń",
-   "Definition": "plain"
- },
- {
-   "Word": "eŕva ijeń",
-   "Definition": "annual"
- },
- {
-   "Word": "eŕva ijestë",
-   "Definition": "annually"
- },
- {
-   "Word": "eŕva kodamo",
-   "Definition": "diverse; various"
- },
- {
-   "Word": "eŕva kodat",
-   "Definition": "assorted"
- },
- {
-   "Word": "eŕva koso",
-   "Definition": "everywhere; throughout"
- },
- {
-   "Word": "eŕva koso vastnevicä",
-   "Definition": "widespread"
- },
- {
-   "Word": "eŕva kov ecicä",
-   "Definition": "nosey"
- },
- {
-   "Word": "eŕva kovoń",
-   "Definition": "monthly"
- },
- {
-   "Word": "eŕva kozoń kenericä",
-   "Definition": "active"
- },
- {
-   "Word": "eŕva mezes bažicä",
-   "Definition": "ambitious"
- },
- {
-   "Word": "eŕva nedläń",
-   "Definition": "weekly"
- },
- {
-   "Word": "eŕva tamašasto parste lisicä",
-   "Definition": "resourceful"
- },
- {
-   "Word": "eŕva targoń",
-   "Definition": "weekly"
- },
- {
-   "Word": "eŕva tarkań",
-   "Definition": "common"
- },
- {
-   "Word": "eŕvačiń",
-   "Definition": "normal"
- },
- {
-   "Word": "eŕvań",
-   "Definition": "general"
- },
- {
-   "Word": "eŕvaś",
-   "Definition": "everything"
- },
- {
-   "Word": "eŕvataś",
-   "Definition": "everybody"
- },
- {
-   "Word": "erämo",
-   "Definition": "life"
- },
- {
-   "Word": "erämo sïcä/pioner",
-   "Definition": "settler"
- },
- {
-   "Word": "erämo tarka",
-   "Definition": "residence"
- },
- {
-   "Word": "erämo tarkań azorava",
-   "Definition": "landlady"
- },
- {
-   "Word": "erämo tarkań azoro",
-   "Definition": "landlord"
- },
- {
-   "Word": "erämo-aštema san",
-   "Definition": "penis"
- },
- {
-   "Word": "erämočiń",
-   "Definition": "vital"
- },
- {
-   "Word": "erämopaŕ",
-   "Definition": "trunk"
- },
- {
-   "Word": "erämopinge",
-   "Definition": "history"
- },
- {
-   "Word": "erämotarkań sivedema jarmak",
-   "Definition": "rent"
- },
- {
-   "Word": "eräms",
-   "Definition": "exist; inhabit; live"
- },
- {
-   "Word": "eräms (somewhere kosojak)",
-   "Definition": "reside"
- },
- {
-   "Word": "eräms kiń koräskak kuvať",
-   "Definition": "survive"
- },
- {
-   "Word": "eräms parste",
-   "Definition": "thrive"
- },
- {
-   "Word": "eräms vadrästo-parste",
-   "Definition": "prosper"
- },
- {
-   "Word": "eräskalems",
-   "Definition": "hurry"
- },
- {
-   "Word": "erävi kemems",
-   "Definition": "hopefully"
- },
- {
-   "Word": "eräviks",
-   "Definition": "essential; important; necessary; significant"
- },
- {
-   "Word": "eräviksči",
-   "Definition": "importance; necessity"
- },
- {
-   "Word": "erävoms",
-   "Definition": "must; need"
- },
- {
-   "Word": "eräza",
-   "Definition": "fast; lively"
- },
- {
-   "Word": "eräzasto",
-   "Definition": "fast"
- },
- {
-   "Word": "eräzïjavtoma",
-   "Definition": "stimulation"
- },
- {
-   "Word": "eräzïjavtoms",
-   "Definition": "stimulate"
- },
- {
-   "Word": "eräzkadoma",
-   "Definition": "acceleration"
- },
- {
-   "Word": "eräzkadoms",
-   "Definition": "accelerate"
- },
- {
-   "Word": "eräzkalems",
-   "Definition": "rush"
- },
- {
-   "Word": "eräzkaleź",
-   "Definition": "quickly"
- },
- {
-   "Word": "eräzkavtoma",
-   "Definition": "acceleration"
- },
- {
-   "Word": "eräzkavtoms",
-   "Definition": "animate"
- },
- {
-   "Word": "eś",
-   "Definition": "own"
- },
- {
-   "Word": "eś jutkova(st) polavtovikst",
-   "Definition": "interchangeable"
- },
- {
-   "Word": "eś jutkova(st) śulmaź",
-   "Definition": "interrelated"
- },
- {
-   "Word": "eś jutks sajema",
-   "Definition": "acceptance"
- },
- {
-   "Word": "eś karšo kortamo",
-   "Definition": "contradiction"
- },
- {
-   "Word": "eś karšo molema",
-   "Definition": "contradiction"
- },
- {
-   "Word": "eś langs asajicä",
-   "Definition": "irresponsible"
- },
- {
-   "Word": "eś langs kemema",
-   "Definition": "confidence"
- },
- {
-   "Word": "eś langs kemicä",
-   "Definition": "confident"
- },
- {
-   "Word": "eś mastorksči",
-   "Definition": "independence"
- },
- {
-   "Word": "eś mastoroń",
-   "Definition": "native"
- },
- {
-   "Word": "eś mastorso čačoź",
-   "Definition": "native"
- },
- {
-   "Word": "eś meľ langso aštema",
-   "Definition": "insistence"
- },
- {
-   "Word": "eś meľ langso ašticä",
-   "Definition": "insistent"
- },
- {
-   "Word": "eś meľga jakamo amaštïcä",
-   "Definition": "helpless"
- },
- {
-   "Word": "eś oläso",
-   "Definition": "voluntary"
- },
- {
-   "Word": "eś pravanzo kisë aštema",
-   "Definition": "assertion"
- },
- {
-   "Word": "eś pravanzo kisë ašticä",
-   "Definition": "assertive"
- },
- {
-   "Word": "eś prä",
-   "Definition": "self"
- },
- {
-   "Word": "eś präń",
-   "Definition": "personal"
- },
- {
-   "Word": "eś präń altamo",
-   "Definition": "commitment"
- },
- {
-   "Word": "eś präń večkema",
-   "Definition": "complacency; vanity"
- },
- {
-   "Word": "eś präń večkicä",
-   "Definition": "complacent; conceited; selfish"
- },
- {
-   "Word": "eś pränok",
-   "Definition": "ourselves"
- },
- {
-   "Word": "eś präst",
-   "Definition": "themselves"
- },
- {
-   "Word": "eś tevť",
-   "Definition": "affair"
- },
- {
-   "Word": "eseń",
-   "Definition": "private"
- },
- {
-   "Word": "eskadron",
-   "Definition": "squadron"
- },
- {
-   "Word": "eskeldems",
-   "Definition": "step"
- },
- {
-   "Word": "eskeľks",
-   "Definition": "step"
- },
- {
-   "Word": "esponaž",
-   "Definition": "espionage"
- },
- {
-   "Word": "estenzë sajems",
-   "Definition": "adopt"
- },
- {
-   "Word": "estenzëks sajems",
-   "Definition": "adopt"
- },
- {
-   "Word": "etika",
-   "Definition": "morality"
- },
- {
-   "Word": "etikeť",
-   "Definition": "label"
- },
- {
-   "Word": "evangelija",
-   "Definition": "gospel"
- },
- {
-   "Word": "evoľucija",
-   "Definition": "evolution"
- },
- {
-   "Word": "evrej",
-   "Definition": "Jewish"
- },
- {
-   "Word": "evrej",
-   "Definition": "Jew"
- },
- {
-   "Word": "evrejeń",
-   "Definition": "Jewish"
- },
- {
-   "Word": "evropa",
-   "Definition": "Europe"
- },
- {
-   "Word": "evropań",
-   "Definition": "European"
- },
- {
-   "Word": "evropań lomań",
-   "Definition": "European"
- },
- {
-   "Word": "eždema",
-   "Definition": "charm; heating"
- },
- {
-   "Word": "eždemkat",
-   "Definition": "heater"
- },
- {
-   "Word": "eždems",
-   "Definition": "turn on"
- },
- {
-   "Word": "ezem-tarka amujicä",
-   "Definition": "apprehensive"
- },
- {
-   "Word": "ezems",
-   "Definition": "instead"
- },
- {
-   "Word": "ezemť-stuvort",
-   "Definition": "furniture"
- },
- {
-   "Word": "eznë",
-   "Definition": "joint"
- },
- {
-   "Word": "ezneń targoźks",
-   "Definition": "arthritis"
- },
- {
-   "Word": "i",
-   "Definition": "and"
- },
- {
-   "Word": "ičems",
-   "Definition": "knead"
- },
- {
-   "Word": "idea",
-   "Definition": "idea"
- },
- {
-   "Word": "ideal",
-   "Definition": "ideal"
- },
- {
-   "Word": "idem",
-   "Definition": "wild"
- },
- {
-   "Word": "idem (lomande)",
-   "Definition": "savage"
- },
- {
-   "Word": "idem rakša",
-   "Definition": "beast"
- },
- {
-   "Word": "idem rakša kundï",
-   "Definition": "hunter"
- },
- {
-   "Word": "idem rakšań kirdema tarka",
-   "Definition": "zoo"
- },
- {
-   "Word": "idem rakšań kundamo",
-   "Definition": "hunt"
- },
- {
-   "Word": "idema",
-   "Definition": "rescue; salvation"
- },
- {
-   "Word": "idema (mezeńgak) kisë lisema",
-   "Definition": "defence"
- },
- {
-   "Word": "idema žiletka / vajamodo žiletka",
-   "Definition": "life jacket"
- },
- {
-   "Word": "idemavenč",
-   "Definition": "lifeboat"
- },
- {
-   "Word": "idemevś",
-   "Definition": "demon; devil"
- },
- {
-   "Word": "idems",
-   "Definition": "defend"
- },
- {
-   "Word": "idems (from kostojak)",
-   "Definition": "rescue"
- },
- {
-   "Word": "idemseja",
-   "Definition": "deer"
- },
- {
-   "Word": "idemsejań levks",
-   "Definition": "fawn"
- },
- {
-   "Word": "identifikacija",
-   "Definition": "identification"
- },
- {
-   "Word": "identitet",
-   "Definition": "identity"
- },
- {
-   "Word": "idioma",
-   "Definition": "idiom"
- },
- {
-   "Word": "idol",
-   "Definition": "idol"
- },
- {
-   "Word": "iglu",
-   "Definition": "igloo"
- },
- {
-   "Word": "ije",
-   "Definition": "year"
- },
- {
-   "Word": "ijeń ška",
-   "Definition": "season"
- },
- {
-   "Word": "ijeń škań",
-   "Definition": "seasonal"
- },
- {
-   "Word": "ijeť (lomań)",
-   "Definition": "age"
- },
- {
-   "Word": "ikelce",
-   "Definition": "former; front"
- },
- {
-   "Word": "ikelce tol",
-   "Definition": "headlight"
- },
- {
-   "Word": "ikelce val",
-   "Definition": "forword; preface"
- },
- {
-   "Word": "ikele",
-   "Definition": "ago; before; formerly"
- },
- {
-   "Word": "ikele",
-   "Definition": "before"
- },
- {
-   "Word": "ikele aštems",
-   "Definition": "precede"
- },
- {
-   "Word": "ikele ašticä uslovija",
-   "Definition": "precondition"
- },
- {
-   "Word": "ikeleń",
-   "Definition": "former; previous"
- },
- {
-   "Word": "ikelepele",
-   "Definition": "ahead"
- },
- {
-   "Word": "ikelepeleń",
-   "Definition": "prior"
- },
- {
-   "Word": "ikelepelev",
-   "Definition": "ahead"
- },
- {
-   "Word": "ikelepelev čačoź meľ",
-   "Definition": "prejudice"
- },
- {
-   "Word": "ikelepelev joramo",
-   "Definition": "foresight"
- },
- {
-   "Word": "ikeleškań (pervobïtnoj)",
-   "Definition": "primitive"
- },
- {
-   "Word": "ikelev",
-   "Definition": "forward"
- },
- {
-   "Word": "ikelev jovtamo",
-   "Definition": "forecast"
- },
- {
-   "Word": "ikelev jutamo",
-   "Definition": "progress"
- },
- {
-   "Word": "ikelev jutïcä",
-   "Definition": "progressive"
- },
- {
-   "Word": "ikelev pandoź",
-   "Definition": "prepaid"
- },
- {
-   "Word": "ikelev šaštoma",
-   "Definition": "progress"
- },
- {
-   "Word": "ikelev ulicä",
-   "Definition": "predecessor"
- },
- {
-   "Word": "ikelevmolicä",
-   "Definition": "advanced"
- },
- {
-   "Word": "ikeľga molems",
-   "Definition": "precede"
- },
- {
-   "Word": "ikeľgapacä",
-   "Definition": "apron"
- },
- {
-   "Word": "ikeľkske (ëjkakšoń jarsamsto)",
-   "Definition": "bib"
- },
- {
-   "Word": "iknema",
-   "Definition": "hiccup"
- },
- {
-   "Word": "ila",
-   "Definition": "ceremony; ritual"
- },
- {
-   "Word": "ilań",
-   "Definition": "ceremonial"
- },
- {
-   "Word": "ilań koräs",
-   "Definition": "ceremonial"
- },
- {
-   "Word": "ilavtomo tev",
-   "Definition": "informality"
- },
- {
-   "Word": "ilľuminator",
-   "Definition": "porthole"
- },
- {
-   "Word": "ilľustracija",
-   "Definition": "illustration"
- },
- {
-   "Word": "ilľuzija",
-   "Definition": "illusion"
- },
- {
-   "Word": "iltema",
-   "Definition": "farewell"
- },
- {
-   "Word": "iltems",
-   "Definition": "accompany; escort"
- },
- {
-   "Word": "iľvedevks",
-   "Definition": "error; mistake"
- },
- {
-   "Word": "imle",
-   "Definition": "oar"
- },
- {
-   "Word": "immigracija",
-   "Definition": "immigration"
- },
- {
-   "Word": "immigrant",
-   "Definition": "immigrant"
- },
- {
-   "Word": "imperializma",
-   "Definition": "imperialism"
- },
- {
-   "Word": "import",
-   "Definition": "import"
- },
- {
-   "Word": "importirovams",
-   "Definition": "import"
- },
- {
-   "Word": "imporťor",
-   "Definition": "importer"
- },
- {
-   "Word": "improvizirovams",
-   "Definition": "improvise"
- },
- {
-   "Word": "impuls",
-   "Definition": "impulse"
- },
- {
-   "Word": "impulsivnoj",
-   "Definition": "impulsive"
- },
- {
-   "Word": "incedent",
-   "Definition": "incident"
- },
- {
-   "Word": "incest",
-   "Definition": "incest"
- },
- {
-   "Word": "individualnoj",
-   "Definition": "individual"
- },
- {
-   "Word": "indus",
-   "Definition": "Hindu"
- },
- {
-   "Word": "indusoń",
-   "Definition": "Hindu"
- },
- {
-   "Word": "industija",
-   "Definition": "industry"
- },
- {
-   "Word": "industrialnoj",
-   "Definition": "industrial"
- },
- {
-   "Word": "ine",
-   "Definition": "great; mighty"
- },
- {
-   "Word": "ine ceŕkova",
-   "Definition": "cathedral"
- },
- {
-   "Word": "ineazor",
-   "Definition": "emperor; king"
- },
- {
-   "Word": "ineazorava",
-   "Definition": "queen"
- },
- {
-   "Word": "ineazormastor",
-   "Definition": "kingdom"
- },
- {
-   "Word": "ineazoroń",
-   "Definition": "royal"
- },
- {
-   "Word": "ineazoroń ćora",
-   "Definition": "prince"
- },
- {
-   "Word": "ineazoroń tejteŕ",
-   "Definition": "princess"
- },
- {
-   "Word": "inebaba",
-   "Definition": "great grandmother"
- },
- {
-   "Word": "Ineči",
-   "Definition": "Easter"
- },
- {
-   "Word": "ineguj",
-   "Definition": "dragon; monster"
- },
- {
-   "Word": "inelgavtnema",
-   "Definition": "glorify"
- },
- {
-   "Word": "inelma",
-   "Definition": "glory"
- },
- {
-   "Word": "inelmamoro",
-   "Definition": "anthem"
- },
- {
-   "Word": "inemoda",
-   "Definition": "mainland"
- },
- {
-   "Word": "inemoda (ëvropa",
-   "Definition": "continent"
- },
- {
-   "Word": "inemodań",
-   "Definition": "continental"
- },
- {
-   "Word": "inepando",
-   "Definition": "mountain"
- },
- {
-   "Word": "ineskeť",
-   "Definition": "please"
- },
- {
-   "Word": "Ineškipaz",
-   "Definition": "type=\"Prop\"God"
- },
- {
-   "Word": "inevańks",
-   "Definition": "holy"
- },
- {
-   "Word": "inevańksči",
-   "Definition": "holiness"
- },
- {
-   "Word": "ineveď",
-   "Definition": "ocean; sea"
- },
- {
-   "Word": "ineveď čire",
-   "Definition": "coast"
- },
- {
-   "Word": "ineveď langa kilango",
-   "Definition": "voyage"
- },
- {
-   "Word": "ineveď potmaksoń kasovkst",
-   "Definition": "seaweed"
- },
- {
-   "Word": "ineveďčire",
-   "Definition": "seashore; shore"
- },
- {
-   "Word": "inevedeń",
-   "Definition": "naval"
- },
- {
-   "Word": "inevedeń čerepaha",
-   "Definition": "turtle"
- },
- {
-   "Word": "inevedeń tešte",
-   "Definition": "starfish"
- },
- {
-   "Word": "inevedeń tombaľksëń",
-   "Definition": "overseas"
- },
- {
-   "Word": "inevedeń tuvo",
-   "Definition": "porpoise"
- },
- {
-   "Word": "inevedstë jarsamopelť",
-   "Definition": "seafood"
- },
- {
-   "Word": "inevenč",
-   "Definition": "ship"
- },
- {
-   "Word": "inevenčsë ujema",
-   "Definition": "cruise"
- },
- {
-   "Word": "infekcija",
-   "Definition": "infection"
- },
- {
-   "Word": "informacija",
-   "Definition": "data"
- },
- {
-   "Word": "ingeľ jont",
-   "Definition": "inside out"
- },
- {
-   "Word": "ingredijent",
-   "Definition": "ingredient"
- },
- {
-   "Word": "iniciacija",
-   "Definition": "initiation"
- },
- {
-   "Word": "inicial",
-   "Definition": "initial"
- },
- {
-   "Word": "innovacija",
-   "Definition": "innovation"
- },
- {
-   "Word": "innovacionnoj",
-   "Definition": "innovative"
- },
- {
-   "Word": "inspekcija",
-   "Definition": "inspection"
- },
- {
-   "Word": "inspektirovams (sčot)",
-   "Definition": "audit"
- },
- {
-   "Word": "inspektor",
-   "Definition": "inspector"
- },
- {
-   "Word": "instinkt",
-   "Definition": "instinct"
- },
- {
-   "Word": "instinktëń koräs",
-   "Definition": "instinctive"
- },
- {
-   "Word": "institucija",
-   "Definition": "establishment; institution"
- },
- {
-   "Word": "institut",
-   "Definition": "insitute"
- },
- {
-   "Word": "instrukcija",
-   "Definition": "manual"
- },
- {
-   "Word": "instrument",
-   "Definition": "instrument"
- },
- {
-   "Word": "insulin",
-   "Definition": "insulin"
- },
- {
-   "Word": "integracija",
-   "Definition": "integration"
- },
- {
-   "Word": "integrirovams",
-   "Definition": "integrate"
- },
- {
-   "Word": "intelekt",
-   "Definition": "intellect"
- },
- {
-   "Word": "intelligent",
-   "Definition": "intellectual"
- },
- {
-   "Word": "intelligentëń",
-   "Definition": "civilized"
- },
- {
-   "Word": "intelligentnoj",
-   "Definition": "civilized"
- },
- {
-   "Word": "interakcija",
-   "Definition": "interaction"
- },
- {
-   "Word": "interaktivnoj",
-   "Definition": "interactive"
- },
- {
-   "Word": "intervju",
-   "Definition": "interview"
- },
- {
-   "Word": "intimnoj",
-   "Definition": "intimate"
- },
- {
-   "Word": "intimnosť",
-   "Definition": "intimacy"
- },
- {
-   "Word": "intonacija",
-   "Definition": "intonation"
- },
- {
-   "Word": "intriga",
-   "Definition": "intrigue"
- },
- {
-   "Word": "intujicija",
-   "Definition": "intuition"
- },
- {
-   "Word": "intujitivnïj",
-   "Definition": "intuitive"
- },
- {
-   "Word": "invalid",
-   "Definition": "cripple"
- },
- {
-   "Word": "invalidëń kaläska",
-   "Definition": "wheelchair"
- },
- {
-   "Word": "inže",
-   "Definition": "guest; visitor"
- },
- {
-   "Word": "inzej",
-   "Definition": "raspberry"
- },
- {
-   "Word": "inžeks jakamo",
-   "Definition": "visit"
- },
- {
-   "Word": "inžekudo",
-   "Definition": "guesthouse; hotel"
- },
- {
-   "Word": "inžeń vaśkavtïcä",
-   "Definition": "hospitable"
- },
- {
-   "Word": "inžeń vaśkavtnema",
-   "Definition": "hospitality"
- },
- {
-   "Word": "inžeńor",
-   "Definition": "engineer"
- },
- {
-   "Word": "inžir",
-   "Definition": "fig"
- },
- {
-   "Word": "inäzormastor",
-   "Definition": "empire"
- },
- {
-   "Word": "inäzormastoroń",
-   "Definition": "imperial"
- },
- {
-   "Word": "irdeks",
-   "Definition": "rib"
- },
- {
-   "Word": "irdeks marto sïveľ (arsamopeľ)",
-   "Definition": "chop"
- },
- {
-   "Word": "irecstë",
-   "Definition": "intoxicated"
- },
- {
-   "Word": "iredemači",
-   "Definition": "intoxication"
- },
- {
-   "Word": "iredeź",
-   "Definition": "drunk"
- },
- {
-   "Word": "iredstë",
-   "Definition": "drunk"
- },
- {
-   "Word": "irnems",
-   "Definition": "growl"
- },
- {
-   "Word": "ironičeskoj",
-   "Definition": "ironic"
- },
- {
-   "Word": "iržanä",
-   "Definition": "inconsiderate"
- },
- {
-   "Word": "išem",
-   "Definition": "camel"
- },
- {
-   "Word": "iskusstvennoj",
-   "Definition": "artificial"
- },
- {
-   "Word": "islam",
-   "Definition": "Islam"
- },
- {
-   "Word": "išme",
-   "Definition": "donkey"
- },
- {
-   "Word": "ispravams",
-   "Definition": "rectify"
- },
- {
-   "Word": "issledovanija",
-   "Definition": "research"
- },
- {
-   "Word": "isterija",
-   "Definition": "hysteria"
- },
- {
-   "Word": "istojamo žo",
-   "Definition": "parallel"
- },
- {
-   "Word": "istorija",
-   "Definition": "history"
- },
- {
-   "Word": "istorijań",
-   "Definition": "historic"
- },
- {
-   "Word": "istorijań turtov eräviks",
-   "Definition": "historic"
- },
- {
-   "Word": "istorik",
-   "Definition": "historian"
- },
- {
-   "Word": "istožamo",
-   "Definition": "execution"
- },
- {
-   "Word": "istä",
-   "Definition": "so"
- },
- {
-   "Word": "istä žo",
-   "Definition": "also; likewise"
- },
- {
-   "Word": "istämo",
-   "Definition": "such"
- },
- {
-   "Word": "istämo... koda",
-   "Definition": "as ... as ..."
- },
- {
-   "Word": "isäk",
-   "Definition": "yesterday"
- },
- {
-   "Word": "izdatelstva",
-   "Definition": "publishing"
- },
- {
-   "Word": "iznicä",
-   "Definition": "winner"
- },
- {
-   "Word": "iznämo",
-   "Definition": "victory"
- },
- {
-   "Word": "iznäms",
-   "Definition": "achieve; conquer; prevail; win"
- },
- {
-   "Word": "iznävicä",
-   "Definition": "loser"
- },
- {
-   "Word": "iznävks",
-   "Definition": "achievement; win"
- },
- {
-   "Word": "iznävoma",
-   "Definition": "defeat; failure"
- },
- {
-   "Word": "iznävoms",
-   "Definition": "defeat"
- },
- {
-   "Word": "iznävoms (in chess šahmatso",
-   "Definition": "V;lose"
- },
- {
-   "Word": "izobretatelnoj",
-   "Definition": "ingenious"
- },
- {
-   "Word": "izobretatelnosť",
-   "Definition": "ingenuity"
- },
- {
-   "Word": "izolirovams",
-   "Definition": "insulate; isolate"
- },
- {
-   "Word": "izoläcija",
-   "Definition": "insulation; isolation"
- },
- {
-   "Word": "izvestnäk",
-   "Definition": "limestone"
- },
- {
-   "Word": "jad",
-   "Definition": "poison"
- },
- {
-   "Word": "jad karšo peľ",
-   "Definition": "antidote"
- },
- {
-   "Word": "jadernoj",
-   "Definition": "nuclear"
- },
- {
-   "Word": "jagoda",
-   "Definition": "berry"
- },
- {
-   "Word": "jahojams",
-   "Definition": "wave"
- },
- {
-   "Word": "jahor",
-   "Definition": "pure"
- },
- {
-   "Word": "jahorgavtoms",
-   "Definition": "refine"
- },
- {
-   "Word": "jahta",
-   "Definition": "yacht"
- },
- {
-   "Word": "jakado",
-   "Definition": "goodbye"
- },
- {
-   "Word": "jakamo",
-   "Definition": "attendance"
- },
- {
-   "Word": "jakams",
-   "Definition": "go"
- },
- {
-   "Word": "jakams (lomantneń) meľga pokš čisë",
-   "Definition": "cater"
- },
- {
-   "Word": "jakams (mezeń-buti kisë)",
-   "Definition": "retrieve"
- },
- {
-   "Word": "jakams (školav)",
-   "Definition": "attend"
- },
- {
-   "Word": "jakams (viŕga-ukštorga)",
-   "Definition": "wander"
- },
- {
-   "Word": "jakams iltämo",
-   "Definition": "see off"
- },
- {
-   "Word": "jakams inžeks",
-   "Definition": "visit"
- },
- {
-   "Word": "jakams kiń-buti meľga",
-   "Definition": "attend"
- },
- {
-   "Word": "jakams viŕga-paksäva",
-   "Definition": "hike"
- },
- {
-   "Word": "jakavtoma",
-   "Definition": "breeding"
- },
- {
-   "Word": "jaki čočamka",
-   "Definition": "zipper"
- },
- {
-   "Word": "jakoŕ",
-   "Definition": "anchor"
- },
- {
-   "Word": "jakšamo",
-   "Definition": "cold; frost"
- },
- {
-   "Word": "jakšamo jonov",
-   "Definition": "northwards"
- },
- {
-   "Word": "jakšamojonks",
-   "Definition": "north"
- },
- {
-   "Word": "jakšamokov",
-   "Definition": "January"
- },
- {
-   "Word": "jakšavtïcä",
-   "Definition": "freezing"
- },
- {
-   "Word": "jaksterdť mericä",
-   "Definition": "reddish"
- },
- {
-   "Word": "jakstere",
-   "Definition": "red"
- },
- {
-   "Word": "jakstere jaksteŕkaj",
-   "Definition": "beet; beetroot"
- },
- {
-   "Word": "jakstere tešteń cecä",
-   "Definition": "carnation"
- },
- {
-   "Word": "jakstere vereń asatoma",
-   "Definition": "anaemic"
- },
- {
-   "Word": "jakstereatäkšoń noldnema",
-   "Definition": "arson"
- },
- {
-   "Word": "jaksterekal",
-   "Definition": "salmon"
- },
- {
-   "Word": "jaksteŕgadoms (vizdemado)",
-   "Definition": "blush"
- },
- {
-   "Word": "jaksteŕgalicä",
-   "Definition": "blushing"
- },
- {
-   "Word": "jaksärgo",
-   "Definition": "duck"
- },
- {
-   "Word": "jalaksonť ćorazo",
-   "Definition": "nephew"
- },
- {
-   "Word": "jalaksonť tejterezë",
-   "Definition": "niece"
- },
- {
-   "Word": "jalga",
-   "Definition": "companion; comrade; friend"
- },
- {
-   "Word": "jalga jutko",
-   "Definition": "fellowship"
- },
- {
-   "Word": "jalgaks",
-   "Definition": "matching"
- },
- {
-   "Word": "jalgaks tejicä",
-   "Definition": "friendly"
- },
- {
-   "Word": "jalgaksči",
-   "Definition": "companionship; friendship"
- },
- {
-   "Word": "jalgaksčiń nevtema",
-   "Definition": "kindness"
- },
- {
-   "Word": "jalgat (kavto lomande)",
-   "Definition": "couple"
- },
- {
-   "Word": "jalgo jutïcä",
-   "Definition": "pedestrian"
- },
- {
-   "Word": "jalgo vij",
-   "Definition": "infantry"
- },
- {
-   "Word": "jam",
-   "Definition": "soup"
- },
- {
-   "Word": "jamks",
-   "Definition": "grain"
- },
- {
-   "Word": "jan",
-   "Definition": "path"
- },
- {
-   "Word": "janksema",
-   "Definition": "regret; remorse"
- },
- {
-   "Word": "janksems",
-   "Definition": "regret"
- },
- {
-   "Word": "jantaŕ",
-   "Definition": "amber"
- },
- {
-   "Word": "jarmak",
-   "Definition": "money"
- },
- {
-   "Word": "jarmak (sleng)",
-   "Definition": "dough"
- },
- {
-   "Word": "jarmak)",
-   "Definition": "beg"
- },
- {
-   "Word": "jarmakoń apitnejgadoma",
-   "Definition": "inflation"
- },
- {
-   "Word": "jarmakoń čočama",
-   "Definition": "profit"
- },
- {
-   "Word": "jarmakoń jutavtoma",
-   "Definition": "expenditure"
- },
- {
-   "Word": "jarmakoń kajamo (počtaso)",
-   "Definition": "remittance"
- },
- {
-   "Word": "jarmakoń kučoma (bankso)",
-   "Definition": "transaction"
- },
- {
-   "Word": "jarmakoń mančema pristuplenija",
-   "Definition": "fraud"
- },
- {
-   "Word": "jarmakoń mekev  pandoma",
-   "Definition": "refund"
- },
- {
-   "Word": "jarmakoń putoma",
-   "Definition": "bet; investment"
- },
- {
-   "Word": "jarmakoń samo",
-   "Definition": "profit"
- },
- {
-   "Word": "jarmakso lezks",
-   "Definition": "subsidy"
- },
- {
-   "Word": "jarmaktomo",
-   "Definition": "destitute"
- },
- {
-   "Word": "jarsamkst",
-   "Definition": "grub"
- },
- {
-   "Word": "jarsamo nupaľ / kudo",
-   "Definition": "dining room"
- },
- {
-   "Word": "jarsamodo ikeleń ozolma",
-   "Definition": "grace"
- },
- {
-   "Word": "jarsamopeľ",
-   "Definition": "appetite; food; grub"
- },
- {
-   "Word": "jarsamopeleń pokš lavka",
-   "Definition": "supermarket"
- },
- {
-   "Word": "jarsams",
-   "Definition": "dine"
- },
- {
-   "Word": "jarsavoms (pek)",
-   "Definition": "overeat"
- },
- {
-   "Word": "jaštik",
-   "Definition": "box"
- },
- {
-   "Word": "jat",
-   "Definition": "enemy"
- },
- {
-   "Word": "javamo",
-   "Definition": "heating"
- },
- {
-   "Word": "javks",
-   "Definition": "compartment; department"
- },
- {
-   "Word": "javoks",
-   "Definition": "division"
- },
- {
-   "Word": "javolävks",
-   "Definition": "announcement; notification"
- },
- {
-   "Word": "javolävtoms",
-   "Definition": "announce"
- },
- {
-   "Word": "javoma",
-   "Definition": "allotment; division; divorce; partition; separation"
- },
- {
-   "Word": "javoms",
-   "Definition": "allot; detach; part; separate"
- },
- {
-   "Word": "javoms (a couple mirdť-niť)",
-   "Definition": "divorce"
- },
- {
-   "Word": "javoms (lomanť lijatneń ejstë kiśke ťusoń koräs)",
-   "Definition": "segregate"
- },
- {
-   "Word": "javoms (something mezejak)",
-   "Definition": "divide"
- },
- {
-   "Word": "javoms (vejke lijatneń ejstë)",
-   "Definition": "distinguish"
- },
- {
-   "Word": "javoms lijatneń ejstë",
-   "Definition": "deviate"
- },
- {
-   "Word": "javoms meľ (vejke tevneń)",
-   "Definition": "concentrate"
- },
- {
-   "Word": "javoms tevstë",
-   "Definition": "bother; disrupt; distract; disturb"
- },
- {
-   "Word": "javoviks",
-   "Definition": "detachable"
- },
- {
-   "Word": "javovoma",
-   "Definition": "difference; distinction"
- },
- {
-   "Word": "javovtoma",
-   "Definition": "alienation"
- },
- {
-   "Word": "javovtoms (ojmesë lijatneń ejstë)",
-   "Definition": "alienate"
- },
- {
-   "Word": "javoź",
-   "Definition": "apart"
- },
- {
-   "Word": "javoź",
-   "Definition": "apart"
- },
- {
-   "Word": "javšema",
-   "Definition": "distribution; partition"
- },
- {
-   "Word": "javšems",
-   "Definition": "circulate; distribute"
- },
- {
-   "Word": "javšems (armak mezekskak)",
-   "Definition": "allocate"
- },
- {
-   "Word": "javšems (with marto)",
-   "Definition": "share"
- },
- {
-   "Word": "jažamo-tapamo",
-   "Definition": "annihilation"
- },
- {
-   "Word": "jažams",
-   "Definition": "ravage"
- },
- {
-   "Word": "jažams-tapams",
-   "Definition": "annihilate; devastate"
- },
- {
-   "Word": "jažavksoń lijadkst",
-   "Definition": "wreckage"
- },
- {
-   "Word": "jažavtoms veďkevsë",
-   "Definition": "mill"
- },
- {
-   "Word": "jazva",
-   "Definition": "ulcer"
- },
- {
-   "Word": "jedinica",
-   "Definition": "unit"
- },
- {
-   "Word": "jenot",
-   "Definition": "raccoon"
- },
- {
-   "Word": "jepiskop",
-   "Definition": "bishop"
- },
- {
-   "Word": "Jevropa",
-   "Definition": "Europe"
- },
- {
-   "Word": "Jevropań",
-   "Definition": "European"
- },
- {
-   "Word": "jolganä",
-   "Definition": "flexible; slender; slim; thin"
- },
- {
-   "Word": "jomamo",
-   "Definition": "disappearance; ruins"
- },
- {
-   "Word": "jomatoms",
-   "Definition": "disappear"
- },
- {
-   "Word": "jomavks",
-   "Definition": "loss; waste"
- },
- {
-   "Word": "jomavtoms (something mezejak)",
-   "Definition": "lose"
- },
- {
-   "Word": "jomavtoms jožo",
-   "Definition": "pass out"
- },
- {
-   "Word": "jomaź",
-   "Definition": "lost"
- },
- {
-   "Word": "jon",
-   "Definition": "comfortable; handy; pleasant"
- },
- {
-   "Word": "jon kulä",
-   "Definition": "gospel"
- },
- {
-   "Word": "jondol",
-   "Definition": "lightning"
- },
- {
-   "Word": "jonks",
-   "Definition": "direction; district; page; region"
- },
- {
-   "Word": "jonks lovoma",
-   "Definition": "acceptance; approval"
- },
- {
-   "Word": "jonks lovoms",
-   "Definition": "approve"
- },
- {
-   "Word": "jonks lovoviks",
-   "Definition": "acceptable"
- },
- {
-   "Word": "jonksoń jomavtoź",
-   "Definition": "astray"
- },
- {
-   "Word": "jonov",
-   "Definition": "toward"
- },
- {
-   "Word": "joramo",
-   "Definition": "preparation"
- },
- {
-   "Word": "jorams",
-   "Definition": "equip; prepare; supply"
- },
- {
-   "Word": "jorams (tovarso)",
-   "Definition": "stock"
- },
- {
-   "Word": "joravkst",
-   "Definition": "supply"
- },
- {
-   "Word": "jormo",
-   "Definition": "bladder"
- },
- {
-   "Word": "jorok",
-   "Definition": "talent"
- },
- {
-   "Word": "jorokči",
-   "Definition": "ability; aptitude"
- },
- {
-   "Word": "joroktomoči",
-   "Definition": "inability"
- },
- {
-   "Word": "joroplan",
-   "Definition": "airplane"
- },
- {
-   "Word": "joroplanso (lomań) meľga jakicä",
-   "Definition": "stewardess"
- },
- {
-   "Word": "joroplanso) viť jonks",
-   "Definition": "starboard"
- },
- {
-   "Word": "joroplant-mezť",
-   "Definition": "aircraft"
- },
- {
-   "Word": "jortoma",
-   "Definition": "throw"
- },
- {
-   "Word": "jortomapiks",
-   "Definition": "sling"
- },
- {
-   "Word": "jortoms",
-   "Definition": "eject; eliminate; throw; toss"
- },
- {
-   "Word": "jortoms bomba",
-   "Definition": "bomb"
- },
- {
-   "Word": "jortoms čuvtsto",
-   "Definition": "gamble"
- },
- {
-   "Word": "jortovks",
-   "Definition": "waste"
- },
- {
-   "Word": "jortovkst",
-   "Definition": "garbage; sewage"
- },
- {
-   "Word": "jortovoms karadokaršo",
-   "Definition": "clash"
- },
- {
-   "Word": "jorvaldoms",
-   "Definition": "rinse"
- },
- {
-   "Word": "jovardoms",
-   "Definition": "rinse"
- },
- {
-   "Word": "jovks",
-   "Definition": "fairytale"
- },
- {
-   "Word": "jovksoń kondämo",
-   "Definition": "fabulous"
- },
- {
-   "Word": "jovtamo",
-   "Definition": "pronunciation; saying; statement"
- },
- {
-   "Word": "jovtams",
-   "Definition": "declare; pronounce; say; state"
- },
- {
-   "Word": "jovtams (kineń) paro meľ",
-   "Definition": "congratulate"
- },
- {
-   "Word": "jovtams (veseń marämga)",
-   "Definition": "notify"
- },
- {
-   "Word": "jovtams beräń tevde",
-   "Definition": "warn"
- },
- {
-   "Word": "jovtams lomanneń: \"paro sïť\"",
-   "Definition": "welcome"
- },
- {
-   "Word": "jovtams marämga",
-   "Definition": "proclaim"
- },
- {
-   "Word": "jovtams meľ",
-   "Definition": "comment; input"
- },
- {
-   "Word": "jovtams škado ikelev",
-   "Definition": "predict"
- },
- {
-   "Word": "jovtams veseń marämga",
-   "Definition": "publicize"
- },
- {
-   "Word": "jovtavks",
-   "Definition": "quotation"
- },
- {
-   "Word": "jovtaź",
-   "Definition": "verbal"
- },
- {
-   "Word": "jovtnema",
-   "Definition": "description; narration; tale"
- },
- {
-   "Word": "jovtnems",
-   "Definition": "tell"
- },
- {
-   "Word": "jovtnems (kiń-buti)",
-   "Definition": "describe"
- },
- {
-   "Word": "jovtnems prevstë",
-   "Definition": "recite"
- },
- {
-   "Word": "jožamarämo",
-   "Definition": "feeling"
- },
- {
-   "Word": "jozamo",
-   "Definition": "friction"
- },
- {
-   "Word": "jozams",
-   "Definition": "rub"
- },
- {
-   "Word": "jozdams",
-   "Definition": "hit"
- },
- {
-   "Word": "jozmoldoms",
-   "Definition": "stir"
- },
- {
-   "Word": "joznë",
-   "Definition": "serpent; snake"
- },
- {
-   "Word": "jožo",
-   "Definition": "consciousness; mood; spirit; temper; trick"
- },
- {
-   "Word": "jožo maräms",
-   "Definition": "sympathize"
- },
- {
-   "Word": "jozoldoms",
-   "Definition": "rub"
- },
- {
-   "Word": "jožomaricä",
-   "Definition": "insensitive; sentimental"
- },
- {
-   "Word": "jožomarämo",
-   "Definition": "emotion; mood; sensation; sensitivity; sympathy"
- },
- {
-   "Word": "jožomarämoń",
-   "Definition": "emotional; sensational"
- },
- {
-   "Word": "jožomaräź",
-   "Definition": "sympathetic"
- },
- {
-   "Word": "jožope",
-   "Definition": "nerve"
- },
- {
-   "Word": "jožoponań stävtïcä",
-   "Definition": "gruesome"
- },
- {
-   "Word": "jožov",
-   "Definition": "crafty; sly"
- },
- {
-   "Word": "jožovtomo",
-   "Definition": "unconscious"
- },
- {
-   "Word": "jubilej",
-   "Definition": "anniversary"
- },
- {
-   "Word": "jubka",
-   "Definition": "skirt"
- },
- {
-   "Word": "judma",
-   "Definition": "bag"
- },
- {
-   "Word": "juksems",
-   "Definition": "untie"
- },
- {
-   "Word": "jukstams (śulmo)",
-   "Definition": "undo"
- },
- {
-   "Word": "jumor",
-   "Definition": "humor"
- },
- {
-   "Word": "jumor marto",
-   "Definition": "humorous"
- },
- {
-   "Word": "jumorov",
-   "Definition": "humorous"
- },
- {
-   "Word": "jur",
-   "Definition": "basis; pedestal; root"
- },
- {
-   "Word": "juroń",
-   "Definition": "principal; radical"
- },
- {
-   "Word": "jurt",
-   "Definition": "base"
- },
- {
-   "Word": "jurtoń putoma",
-   "Definition": "groundwork"
- },
- {
-   "Word": "jutamo",
-   "Definition": "mobility"
- },
- {
-   "Word": "jutamo palka",
-   "Definition": "cane"
- },
- {
-   "Word": "jutamo tarka",
-   "Definition": "crossing; passage"
- },
- {
-   "Word": "jutamotarka",
-   "Definition": "aisle"
- },
- {
-   "Word": "jutams",
-   "Definition": "function; migrate; walk"
- },
- {
-   "Word": "jutams kije-buti meľga",
-   "Definition": "pursue"
- },
- {
-   "Word": "jutams nile piľge langso",
-   "Definition": "crawl"
- },
- {
-   "Word": "jutams od tarkas",
-   "Definition": "move"
- },
- {
-   "Word": "jutams pačka",
-   "Definition": "penetrate"
- },
- {
-   "Word": "jutams salava",
-   "Definition": "sneak"
- },
- {
-   "Word": "jutams vakska",
-   "Definition": "avoid"
- },
- {
-   "Word": "jutavtoma",
-   "Definition": "consumption; interpretation; translation"
- },
- {
-   "Word": "jutavtoms",
-   "Definition": "interpret"
- },
- {
-   "Word": "jutavtoms (lija kels)",
-   "Definition": "translate"
- },
- {
-   "Word": "jutavtoms (money jarmak",
-   "Definition": "V;spend"
- },
- {
-   "Word": "jutavtoms tevde kortamo",
-   "Definition": "negotiate"
- },
- {
-   "Word": "jutavtovks",
-   "Definition": "translation"
- },
- {
-   "Word": "jutaź škań",
-   "Definition": "past"
- },
- {
-   "Word": "jutko",
-   "Definition": "distance; interval; space"
- },
- {
-   "Word": "jutkoška",
-   "Definition": "intermission; leisure; pastime"
- },
- {
-   "Word": "jutkova",
-   "Definition": "between"
- },
- {
-   "Word": "jutks",
-   "Definition": "between"
- },
- {
-   "Word": "jutkso",
-   "Definition": "among; between"
- },
- {
-   "Word": "juvelir",
-   "Definition": "jeweler"
- },
- {
-   "Word": "kvartera (apartment)",
-   "Definition": "flat"
- },
- {
-   "Word": "lopa (book)",
-   "Definition": "leaf"
- },
- {
-   "Word": "mon",
-   "Definition": "I"
- },
- {
-   "Word": "ojmsema ška (work)",
-   "Definition": "vacation"
- },
- {
-   "Word": "otravamo (arsamopelde)",
-   "Definition": "food poisoning"
- },
- {
-   "Word": "śolmo (airplane)",
-   "Definition": "wing"
  }
 ]
