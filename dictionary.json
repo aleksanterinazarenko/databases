@@ -1,15 +1,15 @@
 [
  {
-   "Word": "Erzya",
-   "Definition": "English"
+   "Word": "",
+   "Definition": ""
+ },
+ {
+   "Word": "\t-do/-de",
+   "Definition": "than"
  },
  {
    "Word": "-do",
    "Definition": "about"
- },
- {
-   "Word": "-do/-de",
-   "Definition": "than"
  },
  {
    "Word": "-gak...",
@@ -44,12 +44,12 @@
    "Definition": "for; to"
  },
  {
-   "Word": "-neń",
-   "Definition": "miss"
- },
- {
    "Word": "-neń kandovicä",
    "Definition": "relating"
+ },
+ {
+   "Word": "-neń)",
+   "Definition": "miss"
  },
  {
    "Word": "-oś/-eś/-jeś/-ś",
@@ -118,6 +118,10 @@
  {
    "Word": "...lango",
    "Definition": "season"
+ },
+ {
+   "Word": "(grammatikań) artikla",
+   "Definition": "article"
  },
  {
    "Word": "a",
@@ -360,15 +364,15 @@
    "Definition": "attorney; barrister; lawyer"
  },
  {
-   "Word": "aërodrom",
+   "Word": "aerodrom",
    "Definition": "airport; airport"
  },
  {
-   "Word": "aëroflot",
+   "Word": "aeroflot",
    "Definition": "air force"
  },
  {
-   "Word": "aëräviks",
+   "Word": "aeräviks",
    "Definition": "needless; unnecessary"
  },
  {
@@ -1112,7 +1116,7 @@
    "Definition": "undiscovered"
  },
  {
-   "Word": "apak pando peľks (armak)",
+   "Word": "apak pando peľks (jarmak)",
    "Definition": "arrears"
  },
  {
@@ -1473,7 +1477,7 @@
  },
  {
    "Word": "arsems",
-   "Definition": "aim; assume; conceive; consider; contemplate; devise; intend; presume; suppose; think; wish"
+   "Definition": "арсемс (карми-а карми);арсемс (карми-а карми);арсемс (карми-а карми);арсемс (карми-а карми);арсемс (карми-а карми);арсемс (карми-а карми);арсемс (карми-а карми);арсемс (карми-а карми);арсемс (карми-а карми);арсемс (карми-а карми);\tarsems"
  },
  {
    "Word": "arsems (karmi-a karmi)",
@@ -1520,10 +1524,6 @@
    "Definition": "painter"
  },
  {
-   "Word": "artikla (grammatikań)",
-   "Definition": "article"
- },
- {
    "Word": "artilerija",
    "Definition": "artillery"
  },
@@ -1566,10 +1566,6 @@
  {
    "Word": "asatïks",
    "Definition": "defect; deficiency; flaw; need; shortage"
- },
- {
-   "Word": "asatïks (character)",
-   "Definition": "blemish"
  },
  {
    "Word": "asatïksëv",
@@ -3004,7 +3000,7 @@
    "Definition": "yield"
  },
  {
-   "Word": "čačoms (utaź škaso)",
+   "Word": "čačoms (jutaź škaso)",
    "Definition": "born"
  },
  {
@@ -3458,6 +3454,10 @@
  {
    "Word": "čevtstë",
    "Definition": "softly"
+ },
+ {
+   "Word": "character) asatïks",
+   "Definition": "blemish"
  },
  {
    "Word": "či",
@@ -5536,7 +5536,7 @@
    "Definition": "scrub"
  },
  {
-   "Word": "gajgi pulo guj (adov)",
+   "Word": "gajgi pulo guj (jadov)",
    "Definition": "rattlesnake"
  },
  {
@@ -6656,7 +6656,7 @@
    "Definition": "rib"
  },
  {
-   "Word": "irdeks marto sïveľ (arsamopeľ)",
+   "Word": "irdeks marto sïveľ (jarsamopeľ)",
    "Definition": "chop"
  },
  {
@@ -7216,7 +7216,7 @@
    "Definition": "circulate; distribute"
  },
  {
-   "Word": "javšems (armak mezekskak)",
+   "Word": "javšems (jarmak mezekskak)",
    "Definition": "allocate"
  },
  {
@@ -8112,7 +8112,7 @@
    "Definition": "cannibalism"
  },
  {
-   "Word": "kanoë",
+   "Word": "kanoe",
    "Definition": "canoe"
  },
  {
@@ -9264,7 +9264,7 @@
    "Definition": "cut; sore; wound"
  },
  {
-   "Word": "kerävks (ubkaso)",
+   "Word": "kerävks (jubkaso)",
    "Definition": "slit"
  },
  {
@@ -9544,7 +9544,7 @@
    "Definition": "protective"
  },
  {
-   "Word": "kiń-buti pelde učoviks (onks)",
+   "Word": "kiń-buti pelde učoviks (jonks)",
    "Definition": "characteristic"
  },
  {
@@ -11404,7 +11404,7 @@
    "Definition": "banister"
  },
  {
-   "Word": "kuztemat (algo)",
+   "Word": "kuztemat (jalgo)",
    "Definition": "stairs"
  },
  {
@@ -11420,7 +11420,7 @@
    "Definition": "apartment"
  },
  {
-   "Word": "kvartera (apartment)",
+   "Word": "kvartera",
    "Definition": "flat"
  },
  {
@@ -12412,7 +12412,7 @@
    "Definition": "fly"
  },
  {
-   "Word": "livtäms (oroplanso)",
+   "Word": "livtäms (joroplanso)",
    "Definition": "navigate"
  },
  {
@@ -12556,7 +12556,7 @@
    "Definition": "web"
  },
  {
-   "Word": "lopa (book)",
+   "Word": "lopa",
    "Definition": "leaf"
  },
  {
@@ -13100,12 +13100,12 @@
    "Definition": "deception; trick"
  },
  {
-   "Word": "manäms (armak)",
-   "Definition": "defraud"
- },
- {
    "Word": "manäms (ëstenzë)",
    "Definition": "attract"
+ },
+ {
+   "Word": "manäms (jarmak)",
+   "Definition": "defraud"
  },
  {
    "Word": "manäms (kemezë avoľ istä)",
@@ -13156,7 +13156,7 @@
    "Definition": "march"
  },
  {
-   "Word": "marširovams (utams strojsë)",
+   "Word": "marširovams (jutams strojsë)",
    "Definition": "march"
  },
  {
@@ -13628,11 +13628,11 @@
    "Definition": "entertain"
  },
  {
-   "Word": "mel(et)ь + ulems",
+   "Word": "mel(jet)ь + ulems",
    "Definition": "desire"
  },
  {
-   "Word": "mel(et)ь molems (mezeń) kis",
+   "Word": "mel(jet)ь molems (mezeń) kis",
    "Definition": "desire"
  },
  {
@@ -14152,7 +14152,7 @@
    "Definition": "sell"
  },
  {
-   "Word": "mijems (atonteń lomań",
+   "Word": "mijems (jatonteń lomań",
    "Definition": "betray"
  },
  {
@@ -14396,7 +14396,7 @@
    "Definition": "fit; function; omit"
  },
  {
-   "Word": "molems (algo)",
+   "Word": "molems (jalgo)",
    "Definition": "walk"
  },
  {
@@ -15752,7 +15752,7 @@
    "Definition": "relaxation; rest"
  },
  {
-   "Word": "ojmsema ška (work)",
+   "Word": "ojmsema ška",
    "Definition": "vacation"
  },
  {
@@ -16096,7 +16096,7 @@
    "Definition": "poisoning"
  },
  {
-   "Word": "otravamo (arsamopelde)",
+   "Word": "otravamo",
    "Definition": "food poisoning"
  },
  {
@@ -16408,7 +16408,7 @@
    "Definition": "reciprocate"
  },
  {
-   "Word": "pandoms (armak)",
+   "Word": "pandoms (jarmak)",
    "Definition": "pay"
  },
  {
@@ -16480,7 +16480,7 @@
    "Definition": "fungus"
  },
  {
-   "Word": "pango (arsamoń)",
+   "Word": "pango (jarsamoń)",
    "Definition": "mushroom"
  },
  {
@@ -19444,12 +19444,12 @@
    "Definition": "erect; install; nominate; place; plant; put; set"
  },
  {
-   "Word": "putoms (armak)",
-   "Definition": "invest"
- },
- {
    "Word": "putoms (firma kozońgak)",
    "Definition": "locate"
+ },
+ {
+   "Word": "putoms (jarmak)",
+   "Definition": "invest"
  },
  {
    "Word": "putoms (pots)",
@@ -19728,7 +19728,7 @@
    "Definition": "scream"
  },
  {
-   "Word": "rangstams (arsamodo meľga)",
+   "Word": "rangstams (jarsamodo meľga)",
    "Definition": "belch"
  },
  {
@@ -20424,16 +20424,16 @@
    "Definition": "embezzle"
  },
  {
+   "Word": "salams (joroplan)",
+   "Definition": "hijack"
+ },
+ {
    "Word": "salams (lomań kovgak)",
    "Definition": "abduct"
  },
  {
    "Word": "salams (lomań)",
    "Definition": "kidnap"
- },
- {
-   "Word": "salams (oroplan)",
-   "Definition": "hijack"
  },
  {
    "Word": "salat (anokstaź jarsamopeľ)",
@@ -21060,7 +21060,7 @@
    "Definition": "eyebrow"
  },
  {
-   "Word": "seľmeëŕge",
+   "Word": "seľmeeŕge",
    "Definition": "pupil"
  },
  {
@@ -22176,7 +22176,7 @@
    "Definition": "closed"
  },
  {
-   "Word": "śolmo (airplane)",
+   "Word": "śolmo",
    "Definition": "wing"
  },
  {
@@ -22412,7 +22412,7 @@
    "Definition": "recommend"
  },
  {
-   "Word": "soviëŕme",
+   "Word": "sovieŕme",
    "Definition": "income"
  },
  {
@@ -25228,7 +25228,7 @@
    "Definition": "cruise"
  },
  {
-   "Word": "ujems kanoësë",
+   "Word": "ujems kanoesë",
    "Definition": "canoe"
  },
  {
@@ -27136,7 +27136,7 @@
    "Definition": "recede; reverse"
  },
  {
-   "Word": "velävtoms (armak)",
+   "Word": "velävtoms (jarmak)",
    "Definition": "reimburse"
  },
  {
