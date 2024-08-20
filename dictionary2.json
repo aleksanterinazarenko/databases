@@ -4,12 +4,24 @@
    "Definition": ""
  },
  {
-   "Word": "a",
-   "Definition": "(glasnojde ikele an); avoľ opredeľonnoj artikl"
+   "Word": "God",
+   "Definition": "Paz; Ineškipaz"
+ },
+ {
+   "Word": "hopeless",
+   "Definition": "sedejneževteme"
+ },
+ {
+   "Word": "washable",
+   "Definition": "muśkeviks"
  },
  {
    "Word": "a",
    "Definition": "a tešksëś"
+ },
+ {
+   "Word": "a",
+   "Definition": "(glasnojde ikele an); avoľ opredeľonnoj artikl"
  },
  {
    "Word": "a lot of",
@@ -36,10 +48,6 @@
    "Definition": "kirtäń val"
  },
  {
-   "Word": "ABC's",
-   "Definition": "alfavit"
- },
- {
    "Word": "abdomen",
    "Definition": "peke"
  },
@@ -57,7 +65,7 @@
  },
  {
    "Word": "ability",
-   "Definition": "orokči; maštomači"
+   "Definition": "jorokči; maštomači"
  },
  {
    "Word": "ablaze",
@@ -141,11 +149,11 @@
  },
  {
    "Word": "abuse",
-   "Definition": "1. avoľ videstë noldams tevs 2. śovnoms 3. naŕgams"
+   "Definition": "1. atevs noldamo 2. śovnoma 3. naŕgamo"
  },
  {
    "Word": "abuse",
-   "Definition": "1. atevs noldamo 2. śovnoma 3. naŕgamo"
+   "Definition": "1. avoľ videstë noldams tevs 2. śovnoms 3. naŕgams"
  },
  {
    "Word": "abusive",
@@ -233,11 +241,11 @@
  },
  {
    "Word": "accomplish",
-   "Definition": "iznäms topavtoms"
+   "Definition": "??iznäms ??topavtoms"
  },
  {
    "Word": "accomplishment",
-   "Definition": "iznävks"
+   "Definition": "??iznävks"
  },
  {
    "Word": "according  to",
@@ -245,7 +253,7 @@
  },
  {
    "Word": "accordingly",
-   "Definition": "teń koräs"
+   "Definition": "??teń koräs"
  },
  {
    "Word": "accordion",
@@ -321,11 +329,11 @@
  },
  {
    "Word": "acid",
-   "Definition": "kislota"
+   "Definition": "kislotań"
  },
  {
    "Word": "acid",
-   "Definition": "kislotań"
+   "Definition": "kislota"
  },
  {
    "Word": "acknowledge",
@@ -465,11 +473,11 @@
  },
  {
    "Word": "address",
-   "Definition": "1. (people) kortams; pškadems (kineńgak) 2. (place) putoms adres (śorma langs)"
+   "Definition": "1. (place) adres 2. (speech) (lomań ikele) kortamo"
  },
  {
    "Word": "address",
-   "Definition": "1. (place) adres 2. (speech) (lomań ikele) kortamo"
+   "Definition": "1. (people) kortams; pškadems (kineńgak) 2. (place) putoms adres (śorma langs)"
  },
  {
    "Word": "adequate",
@@ -661,7 +669,7 @@
  },
  {
    "Word": "advisable",
-   "Definition": ""
+   "Definition": "??"
  },
  {
    "Word": "advise",
@@ -689,7 +697,7 @@
  },
  {
    "Word": "affect",
-   "Definition": "vijiams; tokams"
+   "Definition": "??vijiams; tokams"
  },
  {
    "Word": "affected",
@@ -740,24 +748,12 @@
    "Definition": "eriks; uličiv"
  },
  {
-   "Word": "Africa",
-   "Definition": "Afrika"
- },
- {
-   "Word": "African",
-   "Definition": "Afrikań"
- },
- {
-   "Word": "African",
-   "Definition": "Afrikań lomań"
+   "Word": "after",
+   "Definition": "meľga; kisë"
  },
  {
    "Word": "after",
    "Definition": "mejle"
- },
- {
-   "Word": "after",
-   "Definition": "meľga; kisë"
  },
  {
    "Word": "afternoon",
@@ -777,11 +773,11 @@
  },
  {
    "Word": "age",
-   "Definition": "1. sïredems (lomande) 2. aštems (vinado)"
+   "Definition": "1. ška (ëjde) 2. ijeť (lomań) 3. pinge (ëpoha)"
  },
  {
    "Word": "age",
-   "Definition": "1. ška (ëjde) 2. ijeť (lomań) 3. pinge (ëpoha)"
+   "Definition": "1. sïredems (lomande) 2. aštems (vinado)"
  },
  {
    "Word": "agency",
@@ -861,11 +857,11 @@
  },
  {
    "Word": "aid",
-   "Definition": "lezdams"
+   "Definition": "lezks"
  },
  {
    "Word": "aid",
-   "Definition": "lezks"
+   "Definition": "lezdams"
  },
  {
    "Word": "aide",
@@ -877,11 +873,11 @@
  },
  {
    "Word": "aim",
-   "Definition": "1. norovams; celäms 2. (intend) norovams; arsems"
+   "Definition": "norovamo; ceľ"
  },
  {
    "Word": "aim",
-   "Definition": "norovamo; ceľ"
+   "Definition": "1. norovams; celäms 2. (intend) norovams; arsems"
  },
  {
    "Word": "air",
@@ -889,7 +885,7 @@
  },
  {
    "Word": "air force",
-   "Definition": "aëroflot"
+   "Definition": "aeroflot"
  },
  {
    "Word": "air raid",
@@ -909,15 +905,15 @@
  },
  {
    "Word": "airplane",
-   "Definition": "oroplan; samoľot"
+   "Definition": "joroplan; samoľot"
  },
  {
    "Word": "airport",
-   "Definition": "aërodrom; meneľvenčeń valgoma tarka"
+   "Definition": "aerodrom; meneľvenčeń valgoma tarka"
  },
  {
    "Word": "aisle",
-   "Definition": "utamotarka; prohod"
+   "Definition": "jutamotarka; prohod"
  },
  {
    "Word": "alarm",
@@ -949,15 +945,15 @@
  },
  {
    "Word": "alert",
+   "Definition": "pštistë vanïcä"
+ },
+ {
+   "Word": "alert",
    "Definition": "(military) kajavomado anoksto aštema"
  },
  {
    "Word": "alert",
    "Definition": "maksoms signal (beräń tevde)"
- },
- {
-   "Word": "alert",
-   "Definition": "pštistë vanïcä"
  },
  {
    "Word": "alias",
@@ -969,11 +965,11 @@
  },
  {
    "Word": "alienate",
-   "Definition": "avovtoms (ojmesë lijatneń ejstë)"
+   "Definition": "javovtoms (ojmesë lijatneń ejstë)"
  },
  {
    "Word": "alienation",
-   "Definition": "avovtoma"
+   "Definition": "javovtoma"
  },
  {
    "Word": "alight",
@@ -1037,7 +1033,7 @@
  },
  {
    "Word": "allocate",
-   "Definition": "avšems (armak mezekskak)"
+   "Definition": "javšems (armak mezekskak)"
  },
  {
    "Word": "allocation",
@@ -1045,11 +1041,11 @@
  },
  {
    "Word": "allot",
-   "Definition": "avoms; maksoms"
+   "Definition": "javoms; maksoms"
  },
  {
    "Word": "allotment",
-   "Definition": "avoma; maksoma"
+   "Definition": "javoma; maksoma"
  },
  {
    "Word": "allow",
@@ -1121,11 +1117,11 @@
  },
  {
    "Word": "alternate",
-   "Definition": "polavtnevems"
+   "Definition": "polavtïcä"
  },
  {
    "Word": "alternate",
-   "Definition": "polavtïcä"
+   "Definition": "polavtnevems"
  },
  {
    "Word": "alternative",
@@ -1208,18 +1204,6 @@
    "Definition": "(zakonoń) vitnevks"
  },
  {
-   "Word": "America",
-   "Definition": "Amerika"
- },
- {
-   "Word": "American",
-   "Definition": "Amerikań"
- },
- {
-   "Word": "American",
-   "Definition": "Amerikań lomań"
- },
- {
    "Word": "amicable",
    "Definition": "večkeviks"
  },
@@ -1241,7 +1225,7 @@
  },
  {
    "Word": "among",
-   "Definition": "utkso"
+   "Definition": "jutkso"
  },
  {
    "Word": "amount",
@@ -1309,7 +1293,7 @@
  },
  {
    "Word": "anchor",
-   "Definition": "akoŕ"
+   "Definition": "jakoŕ"
  },
  {
    "Word": "anchovy",
@@ -1377,23 +1361,23 @@
  },
  {
    "Word": "annihilate",
-   "Definition": "ažams-tapams; kalavtoms"
+   "Definition": "jažams-tapams; kalavtoms"
  },
  {
    "Word": "annihilation",
-   "Definition": "ažamo-tapamo; kalavtoma"
+   "Definition": "jažamo-tapamo; kalavtoma"
  },
  {
    "Word": "anniversary",
-   "Definition": "ubilej"
+   "Definition": "jubilej"
  },
  {
    "Word": "announce",
-   "Definition": "avolävtoms"
+   "Definition": "javolävtoms"
  },
  {
    "Word": "announcement",
-   "Definition": "avolävks"
+   "Definition": "javolävks"
  },
  {
    "Word": "announcer",
@@ -1460,10 +1444,6 @@
    "Definition": "savtoms kež"
  },
  {
-   "Word": "Antarctica",
-   "Definition": "Antarktida"
- },
- {
    "Word": "antelope",
    "Definition": "antilopa"
  },
@@ -1493,7 +1473,7 @@
  },
  {
    "Word": "antidote",
-   "Definition": "ad karšo peľ"
+   "Definition": "jad karšo peľ"
  },
  {
    "Word": "antifreeze",
@@ -1565,11 +1545,11 @@
  },
  {
    "Word": "apart",
-   "Definition": "baška; javoź"
+   "Definition": "javoź"
  },
  {
    "Word": "apart",
-   "Definition": "avoź"
+   "Definition": "baška; javoź"
  },
  {
    "Word": "apartment",
@@ -1629,11 +1609,11 @@
  },
  {
    "Word": "appeal",
-   "Definition": "(law) vešems od sud"
+   "Definition": "(law) od sudoń vešema"
  },
  {
    "Word": "appeal",
-   "Definition": "(law) od sudoń vešema"
+   "Definition": "(law) vešems od sud"
  },
  {
    "Word": "appealing",
@@ -1657,7 +1637,7 @@
  },
  {
    "Word": "appetite",
-   "Definition": "arsamopeľ"
+   "Definition": "jarsamopeľ"
  },
  {
    "Word": "applaud",
@@ -1753,11 +1733,11 @@
  },
  {
    "Word": "approval",
-   "Definition": "onks lovoma"
+   "Definition": "jonks lovoma"
  },
  {
    "Word": "approve",
-   "Definition": "onks lovoms"
+   "Definition": "jonks lovoms"
  },
  {
    "Word": "approximate",
@@ -1772,16 +1752,12 @@
    "Definition": "abrikos"
  },
  {
-   "Word": "April",
-   "Definition": "čadïkov; nilece kov"
- },
- {
    "Word": "apron",
    "Definition": "ikeľgapacä"
  },
  {
    "Word": "aptitude",
-   "Definition": "orokči; talan"
+   "Definition": "jorokči; talan"
  },
  {
    "Word": "aquarium",
@@ -1789,7 +1765,7 @@
  },
  {
    "Word": "aqueduct",
-   "Definition": "veďmolema"
+   "Definition": "veďmolema??"
  },
  {
    "Word": "arbitrary",
@@ -1854,10 +1830,6 @@
  {
    "Word": "archway",
    "Definition": "svod marto jutamo tarka"
- },
- {
-   "Word": "Arctic Ocean",
-   "Definition": "pele ve jonksoń ineveď"
  },
  {
    "Word": "area",
@@ -1973,11 +1945,11 @@
  },
  {
    "Word": "arrest",
-   "Definition": "kundams (milicija)"
+   "Definition": "pekstams"
  },
  {
    "Word": "arrest",
-   "Definition": "pekstams"
+   "Definition": "kundams (milicija)"
  },
  {
    "Word": "arrival",
@@ -2005,7 +1977,7 @@
  },
  {
    "Word": "arson",
-   "Definition": "akstereatäkšoń noldnema"
+   "Definition": "jakstereatäkšoń noldnema"
  },
  {
    "Word": "art",
@@ -2084,18 +2056,6 @@
    "Definition": "pepelnica; kulovdiŕks"
  },
  {
-   "Word": "Asia",
-   "Definition": "Azija"
- },
- {
-   "Word": "Asian",
-   "Definition": "Azijań"
- },
- {
-   "Word": "Asian",
-   "Definition": "Azijań lomań"
- },
- {
    "Word": "ask",
    "Definition": "kevkstems"
  },
@@ -2133,11 +2093,11 @@
  },
  {
    "Word": "assault",
-   "Definition": "kajavoms (someone ki langskak)"
+   "Definition": "kiń langs kajavoma"
  },
  {
    "Word": "assault",
-   "Definition": "kiń langs kajavoma"
+   "Definition": "kajavoms (someone ki langskak)"
  },
  {
    "Word": "assemble",
@@ -2245,7 +2205,7 @@
  },
  {
    "Word": "astray",
-   "Definition": "onksoń jomavtoź"
+   "Definition": "jonksoń jomavtoź"
  },
  {
    "Word": "astrology",
@@ -2278,10 +2238,6 @@
  {
    "Word": "athlete",
    "Definition": "atlet"
- },
- {
-   "Word": "Atlantic Ocean",
-   "Definition": "Atlantika ineveď"
  },
  {
    "Word": "atlas",
@@ -2325,7 +2281,7 @@
  },
  {
    "Word": "attendance",
-   "Definition": "akamo"
+   "Definition": "jakamo"
  },
  {
    "Word": "attendant",
@@ -2396,24 +2352,8 @@
    "Definition": "1. kasoms 2. kastoms"
  },
  {
-   "Word": "August",
-   "Definition": "umaŕkov; kavksoce kov"
- },
- {
    "Word": "aunt",
    "Definition": "(sïre) patä"
- },
- {
-   "Word": "Australia",
-   "Definition": "Avstralija"
- },
- {
-   "Word": "Australian",
-   "Definition": "Avstralijań"
- },
- {
-   "Word": "Australian",
-   "Definition": "Avstralijań lomań"
  },
  {
    "Word": "authentic",
@@ -2501,11 +2441,11 @@
  },
  {
    "Word": "average",
-   "Definition": "kunškaviď(ga)"
+   "Definition": "kunškaviďgań"
  },
  {
    "Word": "average",
-   "Definition": "kunškaviďgań"
+   "Definition": "kunškaviď(ga)"
  },
  {
    "Word": "aversion",
@@ -2525,7 +2465,7 @@
  },
  {
    "Word": "avoid",
-   "Definition": "utams vakska; a vastoms"
+   "Definition": "jutams vakska; a vastoms"
  },
  {
    "Word": "avoidable",
@@ -2549,11 +2489,11 @@
  },
  {
    "Word": "award",
-   "Definition": "kaznems lovmoso"
+   "Definition": "lovmo; kazne"
  },
  {
    "Word": "award",
-   "Definition": "lovmo; kazne"
+   "Definition": "kaznems lovmoso"
  },
  {
    "Word": "aware",
@@ -2588,6 +2528,78 @@
    "Definition": "1. (mastoroń) peťkeľ; oś 2. (ulavoń) peťkeľ"
  },
  {
+   "Word": "ABC's",
+   "Definition": "alfavit"
+ },
+ {
+   "Word": "Africa",
+   "Definition": "Afrika"
+ },
+ {
+   "Word": "African",
+   "Definition": "Afrikań"
+ },
+ {
+   "Word": "African",
+   "Definition": "Afrikań lomań"
+ },
+ {
+   "Word": "America",
+   "Definition": "Amerika"
+ },
+ {
+   "Word": "American",
+   "Definition": "Amerikań"
+ },
+ {
+   "Word": "American",
+   "Definition": "Amerikań lomań"
+ },
+ {
+   "Word": "Antarctica",
+   "Definition": "Antarktida"
+ },
+ {
+   "Word": "April",
+   "Definition": "čadïkov; nilece kov"
+ },
+ {
+   "Word": "Arctic Ocean",
+   "Definition": "pele ve jonksoń ineveď"
+ },
+ {
+   "Word": "Asia",
+   "Definition": "Azija"
+ },
+ {
+   "Word": "Asian",
+   "Definition": "Azijań"
+ },
+ {
+   "Word": "Asian",
+   "Definition": "Azijań lomań"
+ },
+ {
+   "Word": "Atlantic Ocean",
+   "Definition": "Atlantika ineveď"
+ },
+ {
+   "Word": "August",
+   "Definition": "umaŕkov; kavksoce kov"
+ },
+ {
+   "Word": "Australia",
+   "Definition": "Avstralija"
+ },
+ {
+   "Word": "Australian",
+   "Definition": "Avstralijań"
+ },
+ {
+   "Word": "Australian",
+   "Definition": "Avstralijań lomań"
+ },
+ {
    "Word": "baboon",
    "Definition": "babujin"
  },
@@ -2601,7 +2613,7 @@
  },
  {
    "Word": "back",
-   "Definition": "(support) maksoms neže; aštems kiń jonojak"
+   "Definition": "udalce"
  },
  {
    "Word": "back",
@@ -2609,11 +2621,11 @@
  },
  {
    "Word": "back",
-   "Definition": "mekev"
+   "Definition": "(support) maksoms neže; aštems kiń jonojak"
  },
  {
    "Word": "back",
-   "Definition": "udalce"
+   "Definition": "mekev"
  },
  {
    "Word": "backbone",
@@ -2697,7 +2709,7 @@
  },
  {
    "Word": "baking powder",
-   "Definition": "panema počt"
+   "Definition": "??panema počt"
  },
  {
    "Word": "balance",
@@ -2797,15 +2809,15 @@
  },
  {
    "Word": "bar",
-   "Definition": "1. (ban) a noldams; a merems 2. (window) cinderdams"
- },
- {
-   "Word": "bar",
    "Definition": "1. (ban) zapret 2. (place) bar 3. (rod) polosa 4. (window) cindeŕ"
  },
  {
+   "Word": "bar",
+   "Definition": "1. (ban) a noldams; a merems 2. (window) cinderdams"
+ },
+ {
    "Word": "bar of chocolate",
-   "Definition": "šokolad laznë"
+   "Definition": "??šokolad laznë"
  },
  {
    "Word": "barbarian",
@@ -3009,15 +3021,15 @@
  },
  {
    "Word": "beanstalk",
-   "Definition": "fasoľ kodorks"
- },
- {
-   "Word": "bear",
-   "Definition": "1. kandoms 2. kirdems; cidärdoms"
+   "Definition": "??fasoľ kodorks"
  },
  {
    "Word": "bear",
    "Definition": "ovto"
+ },
+ {
+   "Word": "bear",
+   "Definition": "1. kandoms 2. kirdems; cidärdoms"
  },
  {
    "Word": "bearable",
@@ -3041,11 +3053,11 @@
  },
  {
    "Word": "beat",
-   "Definition": "vačkodems; vravtoms"
+   "Definition": "vačkoďks"
  },
  {
    "Word": "beat",
-   "Definition": "vačkoďks"
+   "Definition": "vačkodems; vravtoms"
  },
  {
    "Word": "beating",
@@ -3105,7 +3117,7 @@
  },
  {
    "Word": "beet",
-   "Definition": "akstere jaksteŕkaj"
+   "Definition": "jakstere jaksteŕkaj"
  },
  {
    "Word": "beetle",
@@ -3113,7 +3125,7 @@
  },
  {
    "Word": "beetroot",
-   "Definition": "akstere jaksteŕkaj"
+   "Definition": "jakstere jaksteŕkaj"
  },
  {
    "Word": "before",
@@ -3149,11 +3161,11 @@
  },
  {
    "Word": "behind",
-   "Definition": "udalks"
+   "Definition": "udalo"
  },
  {
    "Word": "behind",
-   "Definition": "udalo"
+   "Definition": "udalks"
  },
  {
    "Word": "behind",
@@ -3265,11 +3277,11 @@
  },
  {
    "Word": "beside",
-   "Definition": "vakss"
+   "Definition": "vaksso"
  },
  {
    "Word": "beside",
-   "Definition": "vaksso"
+   "Definition": "vakss"
  },
  {
    "Word": "besides",
@@ -3293,11 +3305,11 @@
  },
  {
    "Word": "bet",
-   "Definition": "putoms jarmak (meze langs)"
+   "Definition": "jarmakoń putoma"
  },
  {
    "Word": "bet",
-   "Definition": "armakoń putoma"
+   "Definition": "putoms jarmak (meze langs)"
  },
  {
    "Word": "betray",
@@ -3325,19 +3337,15 @@
  },
  {
    "Word": "beyond",
-   "Definition": "sede tov"
+   "Definition": "tombalev; tombale"
  },
  {
    "Word": "beyond",
-   "Definition": "tombalev; tombale"
+   "Definition": "sede tov"
  },
  {
    "Word": "bib",
    "Definition": "ikeľkske (ëjkakšoń jarsamsto)"
- },
- {
-   "Word": "Bible",
-   "Definition": "Biblija"
  },
  {
    "Word": "biblical",
@@ -3349,11 +3357,11 @@
  },
  {
    "Word": "bid",
-   "Definition": "pitne maksoms (aukcionso)"
+   "Definition": "pitneń maksoma (aukcionso)"
  },
  {
    "Word": "bid",
-   "Definition": "pitneń maksoma (aukcionso)"
+   "Definition": "pitne maksoms (aukcionso)"
  },
  {
    "Word": "big",
@@ -3445,7 +3453,7 @@
  },
  {
    "Word": "bishop",
-   "Definition": "episkop"
+   "Definition": "jepiskop"
  },
  {
    "Word": "bit",
@@ -3493,11 +3501,11 @@
  },
  {
    "Word": "blackmail",
-   "Definition": "tejems šantaž (someone kiń langs)"
+   "Definition": "šantaž"
  },
  {
    "Word": "blackmail",
-   "Definition": "šantaž"
+   "Definition": "tejems šantaž (someone kiń langs)"
  },
  {
    "Word": "blackmarket",
@@ -3509,7 +3517,7 @@
  },
  {
    "Word": "bladder",
-   "Definition": "ormo; (čuramonačko) puzïŕ"
+   "Definition": "jormo; (čuramonačko) puzïŕ"
  },
  {
    "Word": "blade",
@@ -3669,11 +3677,11 @@
  },
  {
    "Word": "blush",
-   "Definition": "aksteŕgadoms (vizdemado)"
+   "Definition": "jaksteŕgadoms (vizdemado)"
  },
  {
    "Word": "blushing",
-   "Definition": "aksteŕgalicä"
+   "Definition": "jaksteŕgalicä"
  },
  {
    "Word": "board",
@@ -3733,7 +3741,7 @@
  },
  {
    "Word": "bomb",
-   "Definition": "ortoms bomba; bombams"
+   "Definition": "jortoms bomba; bombams"
  },
  {
    "Word": "bomber",
@@ -3841,11 +3849,11 @@
  },
  {
    "Word": "both",
-   "Definition": "kavonenek; kavonenk; kavonest"
+   "Definition": "kavonenek;kavonenk; kavonest"
  },
  {
    "Word": "both",
-   "Definition": "kavonenek;kavonenk; kavonest"
+   "Definition": "kavonenek; kavonenk; kavonest"
  },
  {
    "Word": "bother",
@@ -3853,7 +3861,7 @@
  },
  {
    "Word": "bother",
-   "Definition": "avoms tevstë; mešams"
+   "Definition": "javoms tevstë; mešams"
  },
  {
    "Word": "bottle",
@@ -3953,11 +3961,11 @@
  },
  {
    "Word": "brake",
-   "Definition": "lotkavtoms"
+   "Definition": "tormoz"
  },
  {
    "Word": "brake",
-   "Definition": "tormoz"
+   "Definition": "lotkavtoms"
  },
  {
    "Word": "branch",
@@ -4045,7 +4053,7 @@
  },
  {
    "Word": "breeding",
-   "Definition": "akavtoma; raštamo"
+   "Definition": "jakavtoma; raštamo"
  },
  {
    "Word": "breeze",
@@ -4124,14 +4132,6 @@
    "Definition": "kandoms; tujems"
  },
  {
-   "Word": "British",
-   "Definition": "Britanijań"
- },
- {
-   "Word": "British",
-   "Definition": "Britanijań raśkeś"
- },
- {
    "Word": "brittle",
    "Definition": "sindtreviks"
  },
@@ -4141,11 +4141,11 @@
  },
  {
    "Word": "broadcast",
-   "Definition": "noldams; maksoms (radio; televizor)"
+   "Definition": "radionoldavks; televizornoldavks"
  },
  {
    "Word": "broadcast",
-   "Definition": "radionoldavks; televizornoldavks"
+   "Definition": "noldams; maksoms (radio; televizor)"
  },
  {
    "Word": "broaden",
@@ -4201,11 +4201,11 @@
  },
  {
    "Word": "brush",
-   "Definition": "1. vanśkavtoms štotkaso 2. sudräms štotkaso"
+   "Definition": "pomilka"
  },
  {
    "Word": "brush",
-   "Definition": "pomilka"
+   "Definition": "1. vanśkavtoms štotkaso 2. sudräms štotkaso"
  },
  {
    "Word": "brutal",
@@ -4225,11 +4225,11 @@
  },
  {
    "Word": "buckle",
-   "Definition": "śolgoms śulgamoso"
+   "Definition": "śulgamo"
  },
  {
    "Word": "buckle",
-   "Definition": "śulgamo"
+   "Definition": "śolgoms śulgamoso"
  },
  {
    "Word": "bud",
@@ -4240,20 +4240,12 @@
    "Definition": "purgondams"
  },
  {
-   "Word": "Buddhism",
-   "Definition": "Buddizma"
- },
- {
-   "Word": "Buddhist",
-   "Definition": "buddist"
- },
- {
    "Word": "budget",
    "Definition": "budžet"
  },
  {
    "Word": "budgie",
-   "Definition": "popugojeń kondämo narmuška"
+   "Definition": "??popugojeń kondämo narmuška"
  },
  {
    "Word": "buffalo",
@@ -4361,11 +4353,11 @@
  },
  {
    "Word": "burden",
-   "Definition": "vačkams kandst putoms stalmot"
+   "Definition": "kandst"
  },
  {
    "Word": "burden",
-   "Definition": "kandst"
+   "Definition": "vačkams kandst putoms stalmot"
  },
  {
    "Word": "bureaucracy",
@@ -4389,11 +4381,11 @@
  },
  {
    "Word": "burn",
-   "Definition": "(wood) paloms"
+   "Definition": "pidsevks"
  },
  {
    "Word": "burn",
-   "Definition": "pidsevks"
+   "Definition": "(wood) paloms"
  },
  {
    "Word": "bury",
@@ -4433,11 +4425,11 @@
  },
  {
    "Word": "butcher",
-   "Definition": "pečkems (rakša)"
+   "Definition": "pečkicä"
  },
  {
    "Word": "butcher",
-   "Definition": "pečkicä"
+   "Definition": "pečkems (rakša)"
  },
  {
    "Word": "butler",
@@ -4494,6 +4486,26 @@
  {
    "Word": "bystander",
    "Definition": "vanïcä"
+ },
+ {
+   "Word": "Bible",
+   "Definition": "Biblija"
+ },
+ {
+   "Word": "British",
+   "Definition": "Britanijań"
+ },
+ {
+   "Word": "British",
+   "Definition": "Britanijań raśkeś"
+ },
+ {
+   "Word": "Buddhism",
+   "Definition": "Buddizma"
+ },
+ {
+   "Word": "Buddhist",
+   "Definition": "buddist"
  },
  {
    "Word": "cabbage",
@@ -4569,11 +4581,11 @@
  },
  {
    "Word": "calm",
-   "Definition": "ojmavtoms; sëťmelgavtoms"
+   "Definition": "sëťme"
  },
  {
    "Word": "calm",
-   "Definition": "sëťme"
+   "Definition": "ojmavtoms; sëťmelgavtoms"
  },
  {
    "Word": "calmness",
@@ -4621,23 +4633,11 @@
  },
  {
    "Word": "can",
-   "Definition": "1. (able) -voms; -vems 2. (know how) maštoms 3. (allow) merems"
- },
- {
-   "Word": "can",
    "Definition": "1. konserva 2. (watering can) lejka"
  },
  {
-   "Word": "Canada",
-   "Definition": "Kanada"
- },
- {
-   "Word": "Canadian",
-   "Definition": "Kanadań"
- },
- {
-   "Word": "Canadian",
-   "Definition": "Kanadań lomań"
+   "Word": "can",
+   "Definition": "1. (able) -voms; -vems 2. (know how) maštoms 3. (allow) merems"
  },
  {
    "Word": "canal",
@@ -4697,11 +4697,11 @@
  },
  {
    "Word": "canoe",
-   "Definition": "kanoë"
+   "Definition": "kanoe"
  },
  {
    "Word": "canoe",
-   "Definition": "ujems kanoësë"
+   "Definition": "ujems kanoesë"
  },
  {
    "Word": "canopener",
@@ -4853,7 +4853,7 @@
  },
  {
    "Word": "carnation",
-   "Definition": "akstere tešteń cecä"
+   "Definition": "jakstere tešteń cecä"
  },
  {
    "Word": "carnival",
@@ -4997,7 +4997,7 @@
  },
  {
    "Word": "cater",
-   "Definition": "akams (lomantneń) meľga pokš čisë; vanoms meľ"
+   "Definition": "jakams (lomantneń) meľga pokš čisë; vanoms meľ"
  },
  {
    "Word": "caterpillar",
@@ -5006,14 +5006,6 @@
  {
    "Word": "cathedral",
    "Definition": "sobor; ine ceŕkova"
- },
- {
-   "Word": "Catholic",
-   "Definition": "katolik"
- },
- {
-   "Word": "Catholic",
-   "Definition": "katolikeń"
  },
  {
    "Word": "cattle",
@@ -5025,11 +5017,11 @@
  },
  {
    "Word": "cause",
-   "Definition": "tejems"
+   "Definition": "tuvtal"
  },
  {
    "Word": "cause",
-   "Definition": "tuvtal"
+   "Definition": "tejems"
  },
  {
    "Word": "caution",
@@ -5293,11 +5285,11 @@
  },
  {
    "Word": "charge",
-   "Definition": "1. (battery) zarädäms 2. (expense) pandovtoms 3. (law) čumondoms 4. (military) karmavtoms; aravtoms"
+   "Definition": "1. (expense) kajavks; pitne 2. (law) čumondoma"
  },
  {
    "Word": "charge",
-   "Definition": "1. (expense) kajavks; pitne 2. (law) čumondoma"
+   "Definition": "1. (battery) zarädäms 2. (expense) pandovtoms 3. (law) čumondoms 4. (military) karmavtoms; aravtoms"
  },
  {
    "Word": "charity",
@@ -5365,11 +5357,11 @@
  },
  {
    "Word": "cheer",
-   "Definition": "nevtems paro meľ (cäpamoso; seŕgedemaso)"
+   "Definition": "paro meleń nevtema"
  },
  {
    "Word": "cheer",
-   "Definition": "paro meleń nevtema"
+   "Definition": "nevtems paro meľ (cäpamoso; seŕgedemaso)"
  },
  {
    "Word": "cheerful",
@@ -5393,11 +5385,11 @@
  },
  {
    "Word": "chemical",
-   "Definition": "himija"
+   "Definition": "himijań"
  },
  {
    "Word": "chemical",
-   "Definition": "himijań"
+   "Definition": "himija"
  },
  {
    "Word": "chemist",
@@ -5480,28 +5472,16 @@
    "Definition": "ulo"
  },
  {
-   "Word": "China",
-   "Definition": "Kitaj mastor"
- },
- {
    "Word": "china",
    "Definition": "farfor"
  },
  {
-   "Word": "Chinese",
-   "Definition": "Kitajeń"
- },
- {
-   "Word": "Chinese",
-   "Definition": "Kitajeń lomań"
- },
- {
-   "Word": "chip",
-   "Definition": "(wood) laksems"
- },
- {
    "Word": "chip",
    "Definition": "1. (glass) šteľkske 2. (rock) pokoľ 3. (wood) inzëďks; laksevks"
+ },
+ {
+   "Word": "chip",
+   "Definition": "(wood) ??laksems"
  },
  {
    "Word": "chips",
@@ -5558,26 +5538,6 @@
  {
    "Word": "chorus",
    "Definition": "hor"
- },
- {
-   "Word": "Christ",
-   "Definition": "Kristos"
- },
- {
-   "Word": "Christian",
-   "Definition": "kristianka; Kristosnëń kemicä"
- },
- {
-   "Word": "Christianity",
-   "Definition": "kristianstva"
- },
- {
-   "Word": "Christmas",
-   "Definition": "roštuva; roštova"
- },
- {
-   "Word": "Christmas present",
-   "Definition": "roštova kazne"
  },
  {
    "Word": "chronic",
@@ -5645,7 +5605,7 @@
  },
  {
    "Word": "circulate",
-   "Definition": "avšems"
+   "Definition": "javšems"
  },
  {
    "Word": "circulation",
@@ -5693,7 +5653,7 @@
  },
  {
    "Word": "city hall",
-   "Definition": "oš vetämoń kudo"
+   "Definition": "??oš vetämoń kudo"
  },
  {
    "Word": "civil rights",
@@ -5725,11 +5685,11 @@
  },
  {
    "Word": "claim",
-   "Definition": "(law) vešems prava eś keďalov"
+   "Definition": "(law) keďalov sajema"
  },
  {
    "Word": "claim",
-   "Definition": "(law) keďalov sajema"
+   "Definition": "(law) vešems prava eś keďalov"
  },
  {
    "Word": "claimant",
@@ -5849,11 +5809,11 @@
  },
  {
    "Word": "clear",
-   "Definition": "1. vanśkavtoms 2. čamdoms"
+   "Definition": "1. pačk nejavi 2. manej (day či) 3. parste čaŕkodeviks"
  },
  {
    "Word": "clear",
-   "Definition": "1. pačk nejavi 2. manej (day či) 3. parste čaŕkodeviks"
+   "Definition": "1. vanśkavtoms 2. čamdoms"
  },
  {
    "Word": "clearing",
@@ -5925,11 +5885,11 @@
  },
  {
    "Word": "close",
-   "Definition": "malaso"
+   "Definition": "pekstams; śolgoms"
  },
  {
    "Word": "close",
-   "Definition": "pekstams; śolgoms"
+   "Definition": "malaso"
  },
  {
    "Word": "closed",
@@ -6029,7 +5989,7 @@
  },
  {
    "Word": "coat",
-   "Definition": "1. (animal)  2. (clothing) kurtka"
+   "Definition": "1. (animal) ?? 2. (clothing) kurtka"
  },
  {
    "Word": "coating",
@@ -6101,11 +6061,11 @@
  },
  {
    "Word": "cold",
-   "Definition": "1. (sëredema) sudokstomo 2. (temperature) keľme; jakšamo"
+   "Definition": "keľme"
  },
  {
    "Word": "cold",
-   "Definition": "keľme"
+   "Definition": "1. (sëredema) sudokstomo 2. (temperature) keľme; jakšamo"
  },
  {
    "Word": "collaborate",
@@ -6285,7 +6245,7 @@
  },
  {
    "Word": "comment",
-   "Definition": "ovtams meľ"
+   "Definition": "jovtams meľ"
  },
  {
    "Word": "commentary",
@@ -6357,11 +6317,11 @@
  },
  {
    "Word": "companion",
-   "Definition": "alga"
+   "Definition": "jalga"
  },
  {
    "Word": "companionship",
-   "Definition": "algaksči"
+   "Definition": "jalgaksči"
  },
  {
    "Word": "company",
@@ -6381,7 +6341,7 @@
  },
  {
    "Word": "compartment",
-   "Definition": "avks"
+   "Definition": "javks"
  },
  {
    "Word": "compass",
@@ -6521,11 +6481,11 @@
  },
  {
    "Word": "compromise",
-   "Definition": "1. sams ve mels 2. noldams beräń kulä; kińgak langs"
+   "Definition": "ve mels samo"
  },
  {
    "Word": "compromise",
-   "Definition": "ve mels samo"
+   "Definition": "1. sams ve mels 2. noldams beräń kulä; kińgak langs"
  },
  {
    "Word": "compulsive",
@@ -6541,7 +6501,7 @@
  },
  {
    "Word": "comrade",
-   "Definition": "alga"
+   "Definition": "jalga"
  },
  {
    "Word": "conceal",
@@ -6561,7 +6521,7 @@
  },
  {
    "Word": "concentrate",
-   "Definition": "avoms meľ (vejke tevneń)"
+   "Definition": "javoms meľ (vejke tevneń)"
  },
  {
    "Word": "concentration",
@@ -6753,7 +6713,7 @@
  },
  {
    "Word": "congratulate",
-   "Definition": "ovtams (kineń) paro meľ"
+   "Definition": "jovtams (kineń) paro meľ"
  },
  {
    "Word": "congratulations",
@@ -6793,7 +6753,7 @@
  },
  {
    "Word": "consciousness",
-   "Definition": "ožo"
+   "Definition": "jožo"
  },
  {
    "Word": "consecutive",
@@ -6909,7 +6869,7 @@
  },
  {
    "Word": "consumption",
-   "Definition": "utavtoma"
+   "Definition": "jutavtoma"
  },
  {
    "Word": "contact",
@@ -7089,11 +7049,11 @@
  },
  {
    "Word": "convict",
-   "Definition": "lovoms čumoks"
+   "Definition": "pekstaź lomań"
  },
  {
    "Word": "convict",
-   "Definition": "pekstaź lomań"
+   "Definition": "lovoms čumoks"
  },
  {
    "Word": "conviction",
@@ -7113,11 +7073,11 @@
  },
  {
    "Word": "cook",
-   "Definition": "pidems; pidems-panems; anokstams jarsamopeľ"
+   "Definition": "pidicä-panicä"
  },
  {
    "Word": "cook",
-   "Definition": "pidicä-panicä"
+   "Definition": "pidems; pidems-panems; anokstams jarsamopeľ"
  },
  {
    "Word": "cooking",
@@ -7125,11 +7085,11 @@
  },
  {
    "Word": "cool",
-   "Definition": "keľmevtems; ekšelgavtoms"
+   "Definition": "ekše"
  },
  {
    "Word": "cool",
-   "Definition": "ekše"
+   "Definition": "keľmevtems; ekšelgavtoms"
  },
  {
    "Word": "cooperate",
@@ -7305,11 +7265,11 @@
  },
  {
    "Word": "counterfeit",
-   "Definition": "falsificirovams"
+   "Definition": "faľšivka"
  },
  {
    "Word": "counterfeit",
-   "Definition": "faľšivka"
+   "Definition": "falsificirovams"
  },
  {
    "Word": "countless",
@@ -7397,7 +7357,7 @@
  },
  {
    "Word": "cracker",
-   "Definition": "hlopuška"
+   "Definition": "??hlopuška"
  },
  {
    "Word": "cradle",
@@ -7409,7 +7369,7 @@
  },
  {
    "Word": "crafty",
-   "Definition": "ožov"
+   "Definition": "jožov"
  },
  {
    "Word": "cramp",
@@ -7433,7 +7393,7 @@
  },
  {
    "Word": "crawl",
-   "Definition": "utams nile piľge langso"
+   "Definition": "jutams nile piľge langso"
  },
  {
    "Word": "crazy",
@@ -7541,7 +7501,7 @@
  },
  {
    "Word": "crossing",
-   "Definition": "utamo tarka"
+   "Definition": "jutamo tarka"
  },
  {
    "Word": "crossroads",
@@ -7649,11 +7609,11 @@
  },
  {
    "Word": "cure",
-   "Definition": "1. pičkavtoms; menstäms orma 2. (tuvoń sïvelde) suvodems- kačakavtoms; saltoms (iläzo naksado)"
+   "Definition": "ormameńks"
  },
  {
    "Word": "cure",
-   "Definition": "ormameńks"
+   "Definition": "1. pičkavtoms; menstäms orma 2. (tuvoń sïvelde) suvodems- kačakavtoms; saltoms (iläzo naksado)"
  },
  {
    "Word": "curiosity",
@@ -7669,11 +7629,11 @@
  },
  {
    "Word": "current",
-   "Definition": "(water) čudelma"
+   "Definition": "nejeń škań. tečiń"
  },
  {
    "Word": "current",
-   "Definition": "nejeń škań. tečiń"
+   "Definition": "(water) čudelma"
  },
  {
    "Word": "currently",
@@ -7742,6 +7702,58 @@
  {
    "Word": "cyst",
    "Definition": "puzïŕ (rungoso); kasovks"
+ },
+ {
+   "Word": "Canada",
+   "Definition": "Kanada"
+ },
+ {
+   "Word": "Canadian",
+   "Definition": "Kanadań"
+ },
+ {
+   "Word": "Canadian",
+   "Definition": "Kanadań lomań"
+ },
+ {
+   "Word": "Catholic",
+   "Definition": "katolikeń"
+ },
+ {
+   "Word": "Catholic",
+   "Definition": "katolik"
+ },
+ {
+   "Word": "China",
+   "Definition": "Kitaj mastor"
+ },
+ {
+   "Word": "Chinese",
+   "Definition": "Kitajeń"
+ },
+ {
+   "Word": "Chinese",
+   "Definition": "Kitajeń lomań"
+ },
+ {
+   "Word": "Christ",
+   "Definition": "Kristos"
+ },
+ {
+   "Word": "Christian",
+   "Definition": "kristianka; Kristosnëń kemicä"
+ },
+ {
+   "Word": "Christianity",
+   "Definition": "kristianstva"
+ },
+ {
+   "Word": "Christmas",
+   "Definition": "roštuva; roštova"
+ },
+ {
+   "Word": "Christmas present",
+   "Definition": "roštova kazne"
  },
  {
    "Word": "dad",
@@ -7829,11 +7841,11 @@
  },
  {
    "Word": "dawn",
-   "Definition": "lisems činstëń"
+   "Definition": "čiń lisema; ašolgadoma"
  },
  {
    "Word": "dawn",
-   "Definition": "čiń lisema; ašolgadoma"
+   "Definition": "lisems činstëń"
  },
  {
    "Word": "day",
@@ -7916,10 +7928,6 @@
    "Definition": "manäms (kemezë avoľ istä)"
  },
  {
-   "Word": "December",
-   "Definition": "acamkov; acamokov; kemkavtovoce kov"
- },
- {
    "Word": "decency",
    "Definition": "priličija"
  },
@@ -7953,15 +7961,15 @@
  },
  {
    "Word": "declare",
-   "Definition": "ovtams; viďkstams"
- },
- {
-   "Word": "decline",
-   "Definition": "1. (fall) kaladoms 2. (refuse) otkazovams"
+   "Definition": "jovtams; viďkstams"
  },
  {
    "Word": "decline",
    "Definition": "alamolgadoma; kaladoma"
+ },
+ {
+   "Word": "decline",
+   "Definition": "1. (fall) kaladoms 2. (refuse) otkazovams"
  },
  {
    "Word": "decode",
@@ -8005,11 +8013,11 @@
  },
  {
    "Word": "deep",
-   "Definition": "vasov"
+   "Definition": "domka; sërej"
  },
  {
    "Word": "deep",
-   "Definition": "domka; sërej"
+   "Definition": "vasov"
  },
  {
    "Word": "deer",
@@ -8289,7 +8297,7 @@
  },
  {
    "Word": "describe",
-   "Definition": "ovtnems (kiń-buti); nevtems valso"
+   "Definition": "jovtnems (kiń-buti); nevtems valso"
  },
  {
    "Word": "description",
@@ -8297,11 +8305,11 @@
  },
  {
    "Word": "desert",
-   "Definition": "orgodems (tevstë; armijasto)"
+   "Definition": "čovarpaksä"
  },
  {
    "Word": "desert",
-   "Definition": "čovarpaksä"
+   "Definition": "orgodems (tevstë; armijasto)"
  },
  {
    "Word": "desertion",
@@ -8329,11 +8337,11 @@
  },
  {
    "Word": "desire",
-   "Definition": "mel(et)ь + ulems; mel(et)ь molems (mezeń) kis"
+   "Definition": "pravtoma; pokš meľ"
  },
  {
    "Word": "desire",
-   "Definition": "pravtoma; pokš meľ"
+   "Definition": "mel(et)ь + ulems; mel(et)ь molems (mezeń) kis"
  },
  {
    "Word": "desk",
@@ -8345,11 +8353,11 @@
  },
  {
    "Word": "despair",
-   "Definition": "araś sedej neže"
+   "Definition": "sedej neže araźči"
  },
  {
    "Word": "despair",
-   "Definition": "sedej neže araźči"
+   "Definition": "araś sedej neže"
  },
  {
    "Word": "desperate",
@@ -8393,11 +8401,11 @@
  },
  {
    "Word": "detach",
-   "Definition": "avoms"
+   "Definition": "javoms"
  },
  {
    "Word": "detachable",
-   "Definition": "avoviks"
+   "Definition": "javoviks"
  },
  {
    "Word": "detail",
@@ -8405,7 +8413,7 @@
  },
  {
    "Word": "detailed",
-   "Definition": "prevejstë aravtoź"
+   "Definition": "??prevejstë aravtoź"
  },
  {
    "Word": "detain",
@@ -8465,7 +8473,7 @@
  },
  {
    "Word": "devastate",
-   "Definition": "ažams-tapams"
+   "Definition": "jažams-tapams"
  },
  {
    "Word": "develop",
@@ -8477,7 +8485,7 @@
  },
  {
    "Word": "deviate",
-   "Definition": "avoms lijatneń ejstë"
+   "Definition": "javoms lijatneń ejstë"
  },
  {
    "Word": "deviation",
@@ -8593,7 +8601,7 @@
  },
  {
    "Word": "difference",
-   "Definition": "avovoma"
+   "Definition": "javovoma"
  },
  {
    "Word": "difficult",
@@ -8641,11 +8649,11 @@
  },
  {
    "Word": "dine",
-   "Definition": "arsams"
+   "Definition": "jarsams"
  },
  {
    "Word": "dining room",
-   "Definition": "arsamo nupaľ / kudo"
+   "Definition": "jarsamo nupaľ / kudo"
  },
  {
    "Word": "dinner",
@@ -8669,15 +8677,15 @@
  },
  {
    "Word": "direct",
-   "Definition": "vetäms"
- },
- {
-   "Word": "direct",
    "Definition": "vidstë(ń)"
  },
  {
+   "Word": "direct",
+   "Definition": "vetäms"
+ },
+ {
    "Word": "direction",
-   "Definition": "onks"
+   "Definition": "jonks"
  },
  {
    "Word": "directions",
@@ -8721,11 +8729,11 @@
  },
  {
    "Word": "disappear",
-   "Definition": "omatoms"
+   "Definition": "jomatoms"
  },
  {
    "Word": "disappearance",
-   "Definition": "omamo"
+   "Definition": "jomamo"
  },
  {
    "Word": "disappoint",
@@ -8845,11 +8853,11 @@
  },
  {
    "Word": "discriminate",
-   "Definition": "lepštäms (against somebody )"
+   "Definition": "??lepštäms (against somebody )"
  },
  {
    "Word": "discrimination",
-   "Definition": "lepštämo"
+   "Definition": "??lepštämo"
  },
  {
    "Word": "discuss",
@@ -8965,7 +8973,7 @@
  },
  {
    "Word": "disrupt",
-   "Definition": "avoms tevstë; ecems kiń jutks"
+   "Definition": "javoms tevstë; ecems kiń jutks"
  },
  {
    "Word": "disruption",
@@ -8989,15 +8997,15 @@
  },
  {
    "Word": "distinction",
-   "Definition": "avovoma"
+   "Definition": "javovoma"
  },
  {
    "Word": "distinguish",
-   "Definition": "avoms (vejke lijatneń ejstë)"
+   "Definition": "javoms (vejke lijatneń ejstë)"
  },
  {
    "Word": "distract",
-   "Definition": "avoms tevstë"
+   "Definition": "javoms tevstë"
  },
  {
    "Word": "distraction",
@@ -9009,11 +9017,11 @@
  },
  {
    "Word": "distribute",
-   "Definition": "avšems"
+   "Definition": "javšems"
  },
  {
    "Word": "distribution",
-   "Definition": "avšema"
+   "Definition": "javšema"
  },
  {
    "Word": "district",
@@ -9021,11 +9029,11 @@
  },
  {
    "Word": "distrust",
-   "Definition": "a kemems"
+   "Definition": "akemema"
  },
  {
    "Word": "distrust",
-   "Definition": "akemema"
+   "Definition": "a kemems"
  },
  {
    "Word": "disturb",
@@ -9061,7 +9069,7 @@
  },
  {
    "Word": "divide",
-   "Definition": "avoms (something mezejak)"
+   "Definition": "javoms (something mezejak)"
  },
  {
    "Word": "division",
@@ -9069,11 +9077,11 @@
  },
  {
    "Word": "divorce",
-   "Definition": "avoma"
+   "Definition": "javoma"
  },
  {
    "Word": "divorce",
-   "Definition": "avoms (a couple mirdť-niť)"
+   "Definition": "javoms (a couple mirdť-niť)"
  },
  {
    "Word": "dizzy",
@@ -9249,11 +9257,11 @@
  },
  {
    "Word": "dress",
-   "Definition": "oršams"
+   "Definition": "platija"
  },
  {
    "Word": "dress",
-   "Definition": "platija"
+   "Definition": "oršams"
  },
  {
    "Word": "dressing",
@@ -9333,11 +9341,11 @@
  },
  {
    "Word": "dry",
-   "Definition": "1. kośkems 2. kostäms"
+   "Definition": "kośke"
  },
  {
    "Word": "dry",
-   "Definition": "kośke"
+   "Definition": "1. kośkems 2. kostäms"
  },
  {
    "Word": "dryness",
@@ -9345,11 +9353,11 @@
  },
  {
    "Word": "duchess",
-   "Definition": "gercoginä"
+   "Definition": "??gercoginä"
  },
  {
    "Word": "duck",
-   "Definition": "aksärgo; šenže"
+   "Definition": "jaksärgo; šenže"
  },
  {
    "Word": "dumb",
@@ -9424,6 +9432,10 @@
    "Definition": "dinamo"
  },
  {
+   "Word": "December",
+   "Definition": "acamkov; acamokov; kemkavtovoce kov"
+ },
+ {
    "Word": "each",
    "Definition": "eŕva"
  },
@@ -9474,10 +9486,6 @@
  {
    "Word": "east",
    "Definition": "čilisema; čilisema jonks"
- },
- {
-   "Word": "Easter",
-   "Definition": "ineči"
  },
  {
    "Word": "eastern",
@@ -9581,7 +9589,7 @@
  },
  {
    "Word": "eject",
-   "Definition": "ortoms"
+   "Definition": "jortoms"
  },
  {
    "Word": "elaborate",
@@ -9593,11 +9601,11 @@
  },
  {
    "Word": "elder",
-   "Definition": "(person) pokš"
+   "Definition": "pokš"
  },
  {
    "Word": "elder",
-   "Definition": "pokš"
+   "Definition": "(person) pokš"
  },
  {
    "Word": "elect",
@@ -9725,11 +9733,11 @@
  },
  {
    "Word": "emotion",
-   "Definition": "ožomarämo"
+   "Definition": "jožomarämo"
  },
  {
    "Word": "emotional",
-   "Definition": "ožomarämoń"
+   "Definition": "jožomarämoń"
  },
  {
    "Word": "emperor",
@@ -9837,7 +9845,7 @@
  },
  {
    "Word": "enemy",
-   "Definition": "at; dušman"
+   "Definition": "jat; dušman"
  },
  {
    "Word": "energy",
@@ -9977,7 +9985,7 @@
  },
  {
    "Word": "equip",
-   "Definition": "orams"
+   "Definition": "jorams"
  },
  {
    "Word": "equipment",
@@ -10025,11 +10033,11 @@
  },
  {
    "Word": "escort",
-   "Definition": "iltems"
+   "Definition": "??ilti lomanť"
  },
  {
    "Word": "escort",
-   "Definition": "ilti lomanť"
+   "Definition": "iltems"
  },
  {
    "Word": "especially",
@@ -10066,18 +10074,6 @@
  {
    "Word": "etiquette",
    "Definition": "präń vetämo luv"
- },
- {
-   "Word": "Europe",
-   "Definition": "evropa; Jevropa"
- },
- {
-   "Word": "European",
-   "Definition": "evropań lomań"
- },
- {
-   "Word": "European",
-   "Definition": "evropań; Jevropań"
  },
  {
    "Word": "evacuate",
@@ -10289,11 +10285,11 @@
  },
  {
    "Word": "excuse",
-   "Definition": "1. noldams čumo 2. noldams (moleme)"
+   "Definition": "tuval (meks eź teje...)"
  },
  {
    "Word": "excuse",
-   "Definition": "tuval (meks eź teje...)"
+   "Definition": "1. noldams čumo 2. noldams (moleme)"
  },
  {
    "Word": "execute",
@@ -10401,7 +10397,7 @@
  },
  {
    "Word": "expenditure",
-   "Definition": "armakoń jutavtoma"
+   "Definition": "jarmakoń jutavtoma"
  },
  {
    "Word": "expense",
@@ -10568,6 +10564,22 @@
    "Definition": "seľmenejicä"
  },
  {
+   "Word": "Easter",
+   "Definition": "Ineči"
+ },
+ {
+   "Word": "Europe",
+   "Definition": "evropa; Jevropa"
+ },
+ {
+   "Word": "European",
+   "Definition": "evropań; Jevropań"
+ },
+ {
+   "Word": "European",
+   "Definition": "evropań lomań"
+ },
+ {
    "Word": "fable",
    "Definition": "fabula"
  },
@@ -10577,7 +10589,7 @@
  },
  {
    "Word": "fabulous",
-   "Definition": "ovksoń kondämo"
+   "Definition": "jovksoń kondämo"
  },
  {
    "Word": "face",
@@ -10613,19 +10625,19 @@
  },
  {
    "Word": "faint",
-   "Definition": "omavtoms jožo"
- },
- {
-   "Word": "faint",
    "Definition": "lavšo"
  },
  {
-   "Word": "fair",
-   "Definition": "(fun) jarmunka"
+   "Word": "faint",
+   "Definition": "jomavtoms jožo"
  },
  {
    "Word": "fair",
    "Definition": "(good) apak mańčeń"
+ },
+ {
+   "Word": "fair",
+   "Definition": "(fun) jarmunka"
  },
  {
    "Word": "fairy",
@@ -10633,7 +10645,7 @@
  },
  {
    "Word": "fairytale",
-   "Definition": "ovks"
+   "Definition": "jovks"
  },
  {
    "Word": "faith",
@@ -10709,11 +10721,11 @@
  },
  {
    "Word": "far",
-   "Definition": "vasolo"
+   "Definition": "vasolce; vasoloń"
  },
  {
    "Word": "far",
-   "Definition": "vasolce; vasoloń"
+   "Definition": "vasolo"
  },
  {
    "Word": "fare",
@@ -10769,7 +10781,7 @@
  },
  {
    "Word": "fast",
-   "Definition": "kirdems post"
+   "Definition": "erej; eräza; bojka"
  },
  {
    "Word": "fast",
@@ -10777,7 +10789,7 @@
  },
  {
    "Word": "fast",
-   "Definition": "erej; eräza; bojka"
+   "Definition": "kirdems post"
  },
  {
    "Word": "fast",
@@ -10789,11 +10801,11 @@
  },
  {
    "Word": "fat",
-   "Definition": "(substance) kuja"
+   "Definition": "kujav"
  },
  {
    "Word": "fat",
-   "Definition": "kujav"
+   "Definition": "(substance) kuja"
  },
  {
    "Word": "fatal",
@@ -10829,11 +10841,11 @@
  },
  {
    "Word": "favor",
-   "Definition": "lovoms (lijań koräs) vadräks"
+   "Definition": "paro (pandoms)"
  },
  {
    "Word": "favor",
-   "Definition": "paro (pandoms)"
+   "Definition": "lovoms (lijań koräs) vadräks"
  },
  {
    "Word": "favorable",
@@ -10876,10 +10888,6 @@
    "Definition": "(quality) jonks"
  },
  {
-   "Word": "February",
-   "Definition": "davolkov"
- },
- {
    "Word": "federal",
    "Definition": "federacijań"
  },
@@ -10909,11 +10917,11 @@
  },
  {
    "Word": "feeling",
-   "Definition": "ožamarämo"
+   "Definition": "jožamarämo"
  },
  {
    "Word": "fellowship",
-   "Definition": "alga jutko"
+   "Definition": "jalga jutko"
  },
  {
    "Word": "female",
@@ -11245,11 +11253,11 @@
  },
  {
    "Word": "flat",
-   "Definition": "(home; apartment) kvartera; fatera"
+   "Definition": "lapuža"
  },
  {
    "Word": "flat",
-   "Definition": "lapuža"
+   "Definition": "(home; apartment) kvartera; fatera"
  },
  {
    "Word": "flatten",
@@ -11297,7 +11305,7 @@
  },
  {
    "Word": "flexible",
-   "Definition": "olganä; mendäviks"
+   "Definition": "jolganä; mendäviks"
  },
  {
    "Word": "flight",
@@ -11417,7 +11425,7 @@
  },
  {
    "Word": "food",
-   "Definition": "arsamopeľ"
+   "Definition": "jarsamopeľ"
  },
  {
    "Word": "food poisoning",
@@ -11661,11 +11669,11 @@
  },
  {
    "Word": "free",
-   "Definition": "(person) oläkstomtoms"
+   "Definition": "(person) oläso; oläkstomtoź"
  },
  {
    "Word": "free",
-   "Definition": "(person) oläso; oläkstomtoź"
+   "Definition": "(person) oläkstomtoms"
  },
  {
    "Word": "free",
@@ -11717,23 +11725,19 @@
  },
  {
    "Word": "friction",
-   "Definition": "ozamo; frikcija"
- },
- {
-   "Word": "Friday",
-   "Definition": "pecä"
+   "Definition": "jozamo; frikcija"
  },
  {
    "Word": "friend",
-   "Definition": "alga; oja"
+   "Definition": "jalga; oja"
  },
  {
    "Word": "friendly",
-   "Definition": "algaks tejicä"
+   "Definition": "jalgaks tejicä"
  },
  {
    "Word": "friendship",
-   "Definition": "algaksči; ojaksči"
+   "Definition": "jalgaksči; ojaksči"
  },
  {
    "Word": "frigate",
@@ -11757,11 +11761,11 @@
  },
  {
    "Word": "front",
-   "Definition": "(war) front"
+   "Definition": "ikelce"
  },
  {
    "Word": "front",
-   "Definition": "ikelce"
+   "Definition": "(war) front"
  },
  {
    "Word": "frost",
@@ -11829,11 +11833,11 @@
  },
  {
    "Word": "function",
-   "Definition": "molems; jutams; robotams"
+   "Definition": "funkcija"
  },
  {
    "Word": "function",
-   "Definition": "funkcija"
+   "Definition": "molems; jutams; robotams"
  },
  {
    "Word": "fund",
@@ -11873,7 +11877,7 @@
  },
  {
    "Word": "furnish",
-   "Definition": "(supply) purnams-sërnäms"
+   "Definition": "??(supply) purnams-sërnäms"
  },
  {
    "Word": "furniture",
@@ -11893,19 +11897,27 @@
  },
  {
    "Word": "future",
-   "Definition": "1. sï ška 2. (grammar) sïcä ška"
- },
- {
-   "Word": "future",
    "Definition": "sï(cä) škań"
  },
  {
-   "Word": "gain",
-   "Definition": "kasoms"
+   "Word": "future",
+   "Definition": "1. sï ška 2. (grammar) sïcä ška"
+ },
+ {
+   "Word": "February",
+   "Definition": "davolkov"
+ },
+ {
+   "Word": "Friday",
+   "Definition": "pecä"
  },
  {
    "Word": "gain",
    "Definition": "lezë"
+ },
+ {
+   "Word": "gain",
+   "Definition": "kasoms"
  },
  {
    "Word": "gallery",
@@ -11913,7 +11925,7 @@
  },
  {
    "Word": "gamble",
-   "Definition": "ortoms čuvtsto; nalksems hazardso"
+   "Definition": "jortoms čuvtsto; nalksems hazardso"
  },
  {
    "Word": "gambler",
@@ -12009,11 +12021,11 @@
  },
  {
    "Word": "general",
-   "Definition": "(military) general"
+   "Definition": "eŕvań; vejsëń"
  },
  {
    "Word": "general",
-   "Definition": "eŕvań; vejsëń"
+   "Definition": "(military) general"
  },
  {
    "Word": "generally",
@@ -12224,10 +12236,6 @@
    "Definition": "seja"
  },
  {
-   "Word": "God",
-   "Definition": "Paz; Ineškipaz"
- },
- {
    "Word": "godchild",
    "Definition": "kŕostnoj ćora"
  },
@@ -12341,11 +12349,11 @@
  },
  {
    "Word": "grace",
-   "Definition": "arsamodo ikeleń ozolma"
+   "Definition": "jarsamodo ikeleń ozolma"
  },
  {
    "Word": "graceful",
-   "Definition": "valanä-melstujicä"
+   "Definition": "valanä-melstujicä??"
  },
  {
    "Word": "gracious",
@@ -12613,23 +12621,23 @@
  },
  {
    "Word": "ground",
-   "Definition": "kovgak a noldams"
- },
- {
-   "Word": "ground",
    "Definition": "moda"
  },
  {
-   "Word": "groundwork",
-   "Definition": "urtoń putoma"
+   "Word": "ground",
+   "Definition": "kovgak a noldams"
  },
  {
-   "Word": "group",
-   "Definition": "aravtoms gruppava; aravtoms pusmova"
+   "Word": "groundwork",
+   "Definition": "jurtoń putoma"
  },
  {
    "Word": "group",
    "Definition": "gruppa; pusmo"
+ },
+ {
+   "Word": "group",
+   "Definition": "aravtoms gruppava; aravtoms pusmova"
  },
  {
    "Word": "grove",
@@ -12653,7 +12661,7 @@
  },
  {
    "Word": "gruesome",
-   "Definition": "ožoponań stävtïcä"
+   "Definition": "jožoponań stävtïcä"
  },
  {
    "Word": "grumpy",
@@ -12705,11 +12713,11 @@
  },
  {
    "Word": "guide",
-   "Definition": "vetnems (turist)"
+   "Definition": "gid"
  },
  {
    "Word": "guide",
-   "Definition": "gid"
+   "Definition": "vetnems (turist)"
  },
  {
    "Word": "guidebook",
@@ -12809,11 +12817,11 @@
  },
  {
    "Word": "half",
-   "Definition": "peľ"
+   "Definition": "peľ; pele"
  },
  {
    "Word": "half",
-   "Definition": "peľ; pele"
+   "Definition": "peľ"
  },
  {
    "Word": "half-breed",
@@ -13005,11 +13013,11 @@
  },
  {
    "Word": "hatch",
-   "Definition": "1. (alsto) lisems 2. livtems"
+   "Definition": "narvavks"
  },
  {
    "Word": "hatch",
-   "Definition": "narvavks"
+   "Definition": "1. (alsto) lisems 2. livtems"
  },
  {
    "Word": "hatchet",
@@ -13017,11 +13025,11 @@
  },
  {
    "Word": "hate",
-   "Definition": "a večkems"
+   "Definition": "avečkema"
  },
  {
    "Word": "hate",
-   "Definition": "avečkema"
+   "Definition": "a večkems"
  },
  {
    "Word": "hateful",
@@ -13065,7 +13073,7 @@
  },
  {
    "Word": "hazy",
-   "Definition": "suvov (mastorks)"
+   "Definition": "suvov ??(mastorks)"
  },
  {
    "Word": "he",
@@ -13141,7 +13149,7 @@
  },
  {
    "Word": "heating",
-   "Definition": "avamo; eždema"
+   "Definition": "javamo; eždema"
  },
  {
    "Word": "heatwave",
@@ -13213,11 +13221,11 @@
  },
  {
    "Word": "help",
-   "Definition": "lezdams (kineńgak)"
+   "Definition": "lezë"
  },
  {
    "Word": "help",
-   "Definition": "lezë"
+   "Definition": "lezdams (kineńgak)"
  },
  {
    "Word": "helper",
@@ -13329,7 +13337,7 @@
  },
  {
    "Word": "hike",
-   "Definition": "akams viŕga-paksäva"
+   "Definition": "jakams viŕga-paksäva"
  },
  {
    "Word": "hiker",
@@ -13360,20 +13368,12 @@
    "Definition": "(delay) kardamo"
  },
  {
-   "Word": "Hindu",
-   "Definition": "indus"
- },
- {
-   "Word": "Hindu",
-   "Definition": "indusoń"
- },
- {
    "Word": "hinge",
    "Definition": "(door) petlä"
  },
  {
    "Word": "hint",
-   "Definition": "prevsputoma"
+   "Definition": "??prevsputoma"
  },
  {
    "Word": "hip",
@@ -13489,11 +13489,11 @@
  },
  {
    "Word": "homosexual",
-   "Definition": "gomoseksual"
+   "Definition": "gomoseksualoń"
  },
  {
    "Word": "homosexual",
-   "Definition": "gomoseksualoń"
+   "Definition": "gomoseksual"
  },
  {
    "Word": "honest",
@@ -13517,7 +13517,7 @@
  },
  {
    "Word": "honeymoon",
-   "Definition": "meďkov"
+   "Definition": "??meďkov"
  },
  {
    "Word": "honor",
@@ -13554,10 +13554,6 @@
  {
    "Word": "hopefully",
    "Definition": "erävi kemems; kememga"
- },
- {
-   "Word": "hopeless",
-   "Definition": "sedejneževteme"
  },
  {
    "Word": "hops",
@@ -13737,11 +13733,11 @@
  },
  {
    "Word": "humor",
-   "Definition": "umor"
+   "Definition": "jumor"
  },
  {
    "Word": "humorous",
-   "Definition": "umorov; jumor marto"
+   "Definition": "jumorov; jumor marto"
  },
  {
    "Word": "hundred",
@@ -13777,11 +13773,11 @@
  },
  {
    "Word": "hurt",
-   "Definition": "1. sëredems 2. sëreďks tejems; tombams"
+   "Definition": "tombaź"
  },
  {
    "Word": "hurt",
-   "Definition": "tombaź"
+   "Definition": "1. sëredems 2. sëreďks tejems; tombams"
  },
  {
    "Word": "hurtful",
@@ -13820,8 +13816,12 @@
    "Definition": "isterija"
  },
  {
-   "Word": "I",
-   "Definition": "mon"
+   "Word": "Hindu",
+   "Definition": "indusoń"
+ },
+ {
+   "Word": "Hindu",
+   "Definition": "indus"
  },
  {
    "Word": "ice",
@@ -14185,7 +14185,7 @@
  },
  {
    "Word": "inability",
-   "Definition": "oroktomoči; amaštomači"
+   "Definition": "joroktomoči; amaštomači"
  },
  {
    "Word": "inaccessible",
@@ -14261,7 +14261,7 @@
  },
  {
    "Word": "income",
-   "Definition": "soviëŕme; dohod"
+   "Definition": "sovieŕme; dohod"
  },
  {
    "Word": "incompatible",
@@ -14360,10 +14360,6 @@
    "Definition": "(book) indeks"
  },
  {
-   "Word": "Indian",
-   "Definition": "(american) indejeć"
- },
- {
    "Word": "indicate",
    "Definition": "nevtems"
  },
@@ -14421,7 +14417,7 @@
  },
  {
    "Word": "infantry",
-   "Definition": "algo vij"
+   "Definition": "jalgo vij"
  },
  {
    "Word": "infect",
@@ -14565,15 +14561,15 @@
  },
  {
    "Word": "initial",
-   "Definition": "vasence; vaseń"
- },
- {
-   "Word": "initial",
    "Definition": "inicial"
  },
  {
    "Word": "initial",
    "Definition": "putoms inicial"
+ },
+ {
+   "Word": "initial",
+   "Definition": "vasence; vaseń"
  },
  {
    "Word": "initially",
@@ -14665,11 +14661,11 @@
  },
  {
    "Word": "input",
-   "Definition": "ovtams meľ"
+   "Definition": "meleń jovtamo"
  },
  {
    "Word": "input",
-   "Definition": "meleń jovtamo"
+   "Definition": "jovtams meľ"
  },
  {
    "Word": "inquest",
@@ -14713,7 +14709,7 @@
  },
  {
    "Word": "insensitive",
-   "Definition": "ožomaricä"
+   "Definition": "jožomaricä"
  },
  {
    "Word": "insert",
@@ -14729,11 +14725,11 @@
  },
  {
    "Word": "inside",
-   "Definition": "potmo"
+   "Definition": "pots; potso"
  },
  {
    "Word": "inside",
-   "Definition": "pots; potso"
+   "Definition": "potmo"
  },
  {
    "Word": "inside",
@@ -14813,11 +14809,11 @@
  },
  {
    "Word": "instant",
-   "Definition": "mig; seľmemig"
+   "Definition": "seske(ń)"
  },
  {
    "Word": "instant",
-   "Definition": "seske(ń)"
+   "Definition": "mig; seľmemig"
  },
  {
    "Word": "instantly",
@@ -14881,11 +14877,11 @@
  },
  {
    "Word": "insult",
-   "Definition": "obidäms; savtoms kež; pokordams"
+   "Definition": "pokordoma"
  },
  {
    "Word": "insult",
-   "Definition": "pokordoma"
+   "Definition": "obidäms; savtoms kež; pokordams"
  },
  {
    "Word": "insulting",
@@ -15009,7 +15005,7 @@
  },
  {
    "Word": "intermission",
-   "Definition": "utkoška"
+   "Definition": "jutkoška"
  },
  {
    "Word": "intern",
@@ -15033,7 +15029,7 @@
  },
  {
    "Word": "interpretation",
-   "Definition": "utavtoma"
+   "Definition": "jutavtoma"
  },
  {
    "Word": "interpreter",
@@ -15069,7 +15065,7 @@
  },
  {
    "Word": "interval",
-   "Definition": "utko"
+   "Definition": "jutko"
  },
  {
    "Word": "intervene",
@@ -15209,7 +15205,7 @@
  },
  {
    "Word": "investment",
-   "Definition": "armakoń putoma"
+   "Definition": "jarmakoń putoma"
  },
  {
    "Word": "invincible",
@@ -15300,14 +15296,6 @@
    "Definition": "(to be) ulems"
  },
  {
-   "Word": "Islam",
-   "Definition": "islam"
- },
- {
-   "Word": "Islamic",
-   "Definition": "museľmanoń"
- },
- {
    "Word": "island",
    "Definition": "usija"
  },
@@ -15360,6 +15348,22 @@
    "Definition": "pľuš"
  },
  {
+   "Word": "I",
+   "Definition": "mon"
+ },
+ {
+   "Word": "Indian",
+   "Definition": "(american) indejeć"
+ },
+ {
+   "Word": "Islam",
+   "Definition": "islam"
+ },
+ {
+   "Word": "Islamic",
+   "Definition": "museľmanoń"
+ },
+ {
    "Word": "jacket",
    "Definition": "žiletka"
  },
@@ -15378,10 +15382,6 @@
  {
    "Word": "janitor",
    "Definition": "uborštik storož"
- },
- {
-   "Word": "January",
-   "Definition": "akšamokov"
  },
  {
    "Word": "jar",
@@ -15420,24 +15420,16 @@
    "Definition": "mol"
  },
  {
-   "Word": "Jew",
-   "Definition": "evrej"
- },
- {
    "Word": "jewel",
    "Definition": "pitnejkev"
  },
  {
    "Word": "jeweler",
-   "Definition": "uvelir"
+   "Definition": "juvelir"
  },
  {
    "Word": "jewelry",
    "Definition": "surkst-keďkst"
- },
- {
-   "Word": "Jewish",
-   "Definition": "1. evrej 2. evrejeń"
  },
  {
    "Word": "job",
@@ -15504,20 +15496,12 @@
    "Definition": "nolav"
  },
  {
-   "Word": "July",
-   "Definition": "meďkov"
- },
- {
    "Word": "jump",
    "Definition": "ťokadems"
  },
  {
    "Word": "junction",
    "Definition": "kiulo"
- },
- {
-   "Word": "June",
-   "Definition": "aštemakov"
  },
  {
    "Word": "jungle",
@@ -15529,7 +15513,7 @@
  },
  {
    "Word": "jurisdiction",
-   "Definition": "keďaloči"
+   "Definition": "??keďaloči"
  },
  {
    "Word": "juror",
@@ -15562,6 +15546,26 @@
  {
    "Word": "juvenile",
    "Definition": "od"
+ },
+ {
+   "Word": "January",
+   "Definition": "jakšamokov"
+ },
+ {
+   "Word": "Jew",
+   "Definition": "evrej"
+ },
+ {
+   "Word": "Jewish",
+   "Definition": "1. evrej 2. evrejeń"
+ },
+ {
+   "Word": "July",
+   "Definition": "meďkov"
+ },
+ {
+   "Word": "June",
+   "Definition": "aštemakov"
  },
  {
    "Word": "kangaroo",
@@ -15637,7 +15641,7 @@
  },
  {
    "Word": "kindness",
-   "Definition": "algaksčiń nevtema"
+   "Definition": "jalgaksčiń nevtema"
  },
  {
    "Word": "king",
@@ -16073,7 +16077,7 @@
  },
  {
    "Word": "leisure",
-   "Definition": "utkoška"
+   "Definition": "jutkoška"
  },
  {
    "Word": "lemon",
@@ -16213,11 +16217,11 @@
  },
  {
    "Word": "lie",
-   "Definition": "1. (position) aštems madeź 2. (untruth) kengeläms; mančems"
+   "Definition": "kengelema"
  },
  {
    "Word": "lie",
-   "Definition": "kengelema"
+   "Definition": "1. (position) aštems madeź 2. (untruth) kengeläms; mančems"
  },
  {
    "Word": "lieutenant",
@@ -16273,15 +16277,15 @@
  },
  {
    "Word": "lightning",
-   "Definition": "ondol"
- },
- {
-   "Word": "like",
-   "Definition": "večkevems; mels tujems"
+   "Definition": "jondol"
  },
  {
    "Word": "like",
    "Definition": "kondämo"
+ },
+ {
+   "Word": "like",
+   "Definition": "večkevems; mels tujems"
  },
  {
    "Word": "likely",
@@ -16309,11 +16313,11 @@
  },
  {
    "Word": "limp",
-   "Definition": "čamordoms"
+   "Definition": "čamorks"
  },
  {
    "Word": "limp",
-   "Definition": "čamorks"
+   "Definition": "čamordoms"
  },
  {
    "Word": "line",
@@ -16365,11 +16369,11 @@
  },
  {
    "Word": "list",
-   "Definition": "śormalems"
+   "Definition": "spiska"
  },
  {
    "Word": "list",
-   "Definition": "spiska"
+   "Definition": "śormalems"
  },
  {
    "Word": "listen",
@@ -16433,19 +16437,19 @@
  },
  {
    "Word": "load",
-   "Definition": "vačkams ulavs; gruzäms"
- },
- {
-   "Word": "load",
    "Definition": "ulav; gruz"
  },
  {
-   "Word": "loan",
-   "Definition": "1. pandomga sajems jarmak 2. pandomga maksoms jarmak"
+   "Word": "load",
+   "Definition": "vačkams ulavs; gruzäms"
  },
  {
    "Word": "loan",
    "Definition": "1. pandomga jarmakoń sajema 2. pandomga jarmakoń maksoma"
+ },
+ {
+   "Word": "loan",
+   "Definition": "1. pandomga sajems jarmak 2. pandomga maksoms jarmak"
  },
  {
    "Word": "lobby",
@@ -16545,11 +16549,11 @@
  },
  {
    "Word": "loss",
-   "Definition": "omavks"
+   "Definition": "jomavks"
  },
  {
    "Word": "lost",
-   "Definition": "omaź"
+   "Definition": "jomaź"
  },
  {
    "Word": "lot",
@@ -16605,11 +16609,11 @@
  },
  {
    "Word": "lower",
-   "Definition": "alkińgavtoms"
+   "Definition": "sede alkine"
  },
  {
    "Word": "lower",
-   "Definition": "sede alkine"
+   "Definition": "alkińgavtoms"
  },
  {
    "Word": "loyal",
@@ -16853,11 +16857,11 @@
  },
  {
    "Word": "manual",
-   "Definition": "instrukcija; teveń vetämo kniga"
+   "Definition": "kedsë"
  },
  {
    "Word": "manual",
-   "Definition": "kedsë"
+   "Definition": "instrukcija; teveń vetämo kniga"
  },
  {
    "Word": "manufacture",
@@ -16882,10 +16886,6 @@
  {
    "Word": "marble",
    "Definition": "(material) mramor"
- },
- {
-   "Word": "March",
-   "Definition": "kolmoce kov; ejśurokov"
  },
  {
    "Word": "march",
@@ -16997,7 +16997,7 @@
  },
  {
    "Word": "matching",
-   "Definition": "algaks"
+   "Definition": "jalgaks"
  },
  {
    "Word": "material",
@@ -17022,10 +17022,6 @@
  {
    "Word": "maximum",
    "Definition": "vesemede lamo"
- },
- {
-   "Word": "May",
-   "Definition": "vetece kov; panžikov; naramokov"
  },
  {
    "Word": "may",
@@ -17257,15 +17253,11 @@
  },
  {
    "Word": "middle",
-   "Definition": "kunška"
- },
- {
-   "Word": "middle",
    "Definition": "kunškań; kunška kuroń"
  },
  {
-   "Word": "Middle East",
-   "Definition": "Malaso čilisema jonks"
+   "Word": "middle",
+   "Definition": "kunška"
  },
  {
    "Word": "midnight",
@@ -17317,7 +17309,7 @@
  },
  {
    "Word": "mill",
-   "Definition": "ažavtoms veďkevsë"
+   "Definition": "jažavtoms veďkevsë"
  },
  {
    "Word": "million",
@@ -17333,11 +17325,11 @@
  },
  {
    "Word": "mine",
-   "Definition": "(military) mina"
+   "Definition": "moń"
  },
  {
    "Word": "mine",
-   "Definition": "moń"
+   "Definition": "(military) mina"
  },
  {
    "Word": "mine field",
@@ -17497,7 +17489,7 @@
  },
  {
    "Word": "mobility",
-   "Definition": "utamo; ve tarkaso aštema"
+   "Definition": "jutamo; ve tarkaso aštema"
  },
  {
    "Word": "mobilize",
@@ -17564,12 +17556,8 @@
    "Definition": "monastïŕ"
  },
  {
-   "Word": "Monday",
-   "Definition": "pondelnik"
- },
- {
    "Word": "money",
-   "Definition": "armak"
+   "Definition": "jarmak"
  },
  {
    "Word": "money order",
@@ -17609,7 +17597,7 @@
  },
  {
    "Word": "mood",
-   "Definition": "ožo; jožomarämo"
+   "Definition": "jožo; jožomarämo"
  },
  {
    "Word": "moon",
@@ -17637,11 +17625,11 @@
  },
  {
    "Word": "more",
-   "Definition": "ošťo"
+   "Definition": "sede lamo"
  },
  {
    "Word": "more",
-   "Definition": "sede lamo"
+   "Definition": "ošťo"
  },
  {
    "Word": "morning",
@@ -17880,6 +17868,22 @@
    "Definition": "mif; pingejovks"
  },
  {
+   "Word": "March",
+   "Definition": "kolmoce kov; ejśurokov"
+ },
+ {
+   "Word": "May",
+   "Definition": "vetece kov; panžikov; naramokov"
+ },
+ {
+   "Word": "Middle East",
+   "Definition": "Malaso čilisema jonks"
+ },
+ {
+   "Word": "Monday",
+   "Definition": "pondelnik"
+ },
+ {
    "Word": "nail",
    "Definition": "(metal) eske"
  },
@@ -17905,7 +17909,7 @@
  },
  {
    "Word": "narration",
-   "Definition": "ovtnema"
+   "Definition": "jovtnema"
  },
  {
    "Word": "narrow",
@@ -18021,11 +18025,11 @@
  },
  {
    "Word": "needless",
-   "Definition": "aëräviks; lišnoj"
+   "Definition": "aeräviks; lišnoj"
  },
  {
    "Word": "needy",
-   "Definition": "lezdamoń veti"
+   "Definition": "??lezdamoń veti"
  },
  {
    "Word": "negative",
@@ -18033,11 +18037,11 @@
  },
  {
    "Word": "neglect",
-   "Definition": "a zabotäms; a kajams seľme"
+   "Definition": "nebrežnosť"
  },
  {
    "Word": "neglect",
-   "Definition": "nebrežnosť"
+   "Definition": "a zabotäms; a kajams seľme"
  },
  {
    "Word": "negligence",
@@ -18049,7 +18053,7 @@
  },
  {
    "Word": "negotiate",
-   "Definition": "utavtoms tevde kortamo"
+   "Definition": "jutavtoms tevde kortamo"
  },
  {
    "Word": "negotiation",
@@ -18073,7 +18077,7 @@
  },
  {
    "Word": "nerve",
-   "Definition": "ožope; nerva"
+   "Definition": "jožope; nerva"
  },
  {
    "Word": "nervous",
@@ -18113,11 +18117,11 @@
  },
  {
    "Word": "next",
-   "Definition": "mejle; sede tov"
+   "Definition": "meľga molicä; malace"
  },
  {
    "Word": "next",
-   "Definition": "meľga molicä; malace"
+   "Definition": "mejle; sede tov"
  },
  {
    "Word": "nice",
@@ -18157,11 +18161,11 @@
  },
  {
    "Word": "no",
-   "Definition": "(response) araś"
+   "Definition": "vejkejak (araś)"
  },
  {
    "Word": "no",
-   "Definition": "vejkejak (araś)"
+   "Definition": "(response) araś"
  },
  {
    "Word": "nobody",
@@ -18273,7 +18277,7 @@
  },
  {
    "Word": "notify",
-   "Definition": "ovtams (veseń marämga)"
+   "Definition": "jovtams (veseń marämga)"
  },
  {
    "Word": "notion",
@@ -18301,11 +18305,7 @@
  },
  {
    "Word": "novelty",
-   "Definition": "od tev"
- },
- {
-   "Word": "November",
-   "Definition": "sundeŕkov"
+   "Definition": "??od tev"
  },
  {
    "Word": "now",
@@ -18321,7 +18321,7 @@
  },
  {
    "Word": "nuclear",
-   "Definition": "adernoj"
+   "Definition": "jadernoj"
  },
  {
    "Word": "nude",
@@ -18378,6 +18378,10 @@
  {
    "Word": "nutrition",
    "Definition": "andoma"
+ },
+ {
+   "Word": "November",
+   "Definition": "sundeŕkov"
  },
  {
    "Word": "oak",
@@ -18524,10 +18528,6 @@
    "Definition": "ineveď"
  },
  {
-   "Word": "October",
-   "Definition": "ožokov"
- },
- {
    "Word": "octopus",
    "Definition": "sprut; kavksopiľge"
  },
@@ -18577,11 +18577,11 @@
  },
  {
    "Word": "official",
-   "Definition": "prävt; činovnik"
+   "Definition": "služebnoj"
  },
  {
    "Word": "official",
-   "Definition": "služebnoj"
+   "Definition": "prävt; činovnik"
  },
  {
    "Word": "often",
@@ -18589,11 +18589,11 @@
  },
  {
    "Word": "oil",
-   "Definition": "vadnems ojsë"
+   "Definition": "oj"
  },
  {
    "Word": "oil",
-   "Definition": "oj"
+   "Definition": "vadnems ojsë"
  },
  {
    "Word": "oily",
@@ -18617,11 +18617,11 @@
  },
  {
    "Word": "on",
-   "Definition": "(light) langso"
+   "Definition": "langso"
  },
  {
    "Word": "on",
-   "Definition": "langso"
+   "Definition": "(light) langso"
  },
  {
    "Word": "once",
@@ -18637,15 +18637,15 @@
  },
  {
    "Word": "only",
-   "Definition": "ansäk"
- },
- {
-   "Word": "only",
-   "Definition": "ansäk"
- },
- {
-   "Word": "only",
    "Definition": "vejkine"
+ },
+ {
+   "Word": "only",
+   "Definition": "ansäk"
+ },
+ {
+   "Word": "only",
+   "Definition": "ansäk"
  },
  {
    "Word": "open",
@@ -18697,11 +18697,11 @@
  },
  {
    "Word": "opposite",
-   "Definition": "karado karšo"
+   "Definition": "karšo"
  },
  {
    "Word": "opposite",
-   "Definition": "karšo"
+   "Definition": "karado karšo"
  },
  {
    "Word": "opposition",
@@ -18745,11 +18745,11 @@
  },
  {
    "Word": "orange",
-   "Definition": "apelsin"
+   "Definition": "kiŕpeceń jakstere; oranževoj"
  },
  {
    "Word": "orange",
-   "Definition": "kiŕpeceń jakstere; oranževoj"
+   "Definition": "apelsin"
  },
  {
    "Word": "orchestra",
@@ -18873,15 +18873,15 @@
  },
  {
    "Word": "outside",
+   "Definition": "ušov; ušoso; ušova"
+ },
+ {
+   "Word": "outside",
    "Definition": "(object) lango"
  },
  {
    "Word": "outside",
    "Definition": "(open) ušov; ušoso; ušova"
- },
- {
-   "Word": "outside",
-   "Definition": "ušov; ušoso; ušova"
  },
  {
    "Word": "outsider",
@@ -18933,7 +18933,7 @@
  },
  {
    "Word": "overeat",
-   "Definition": "arsavoms (pek)"
+   "Definition": "jarsavoms (pek)"
  },
  {
    "Word": "overflow",
@@ -18945,7 +18945,7 @@
  },
  {
    "Word": "overlook",
-   "Definition": "ulems vesemede vere"
+   "Definition": "??ulems vesemede vere"
  },
  {
    "Word": "overnight",
@@ -18953,7 +18953,7 @@
  },
  {
    "Word": "overrule",
-   "Definition": "(court) ulems prävtoks"
+   "Definition": "(court) ??ulems prävtoks"
  },
  {
    "Word": "overrun",
@@ -18997,11 +18997,11 @@
  },
  {
    "Word": "own",
-   "Definition": "ulems"
+   "Definition": "eś"
  },
  {
    "Word": "own",
-   "Definition": "eś"
+   "Definition": "ulems"
  },
  {
    "Word": "owner",
@@ -19022,6 +19022,10 @@
  {
    "Word": "oyster",
    "Definition": "ustrica"
+ },
+ {
+   "Word": "October",
+   "Definition": "ožokov"
  },
  {
    "Word": "pack",
@@ -19065,11 +19069,11 @@
  },
  {
    "Word": "paint",
-   "Definition": "artoms; krasäms"
+   "Definition": "kraska"
  },
  {
    "Word": "paint",
-   "Definition": "kraska"
+   "Definition": "artoms; krasäms"
  },
  {
    "Word": "painter",
@@ -19181,11 +19185,11 @@
  },
  {
    "Word": "pardon",
-   "Definition": "noldams čumo"
+   "Definition": "čumoń noldamo"
  },
  {
    "Word": "pardon",
-   "Definition": "čumoń noldamo"
+   "Definition": "noldams čumo"
  },
  {
    "Word": "parents",
@@ -19197,11 +19201,11 @@
  },
  {
    "Word": "park",
-   "Definition": "lotkavtoms (mašina)"
+   "Definition": "park"
  },
  {
    "Word": "park",
-   "Definition": "park"
+   "Definition": "lotkavtoms (mašina)"
  },
  {
    "Word": "parking",
@@ -19229,7 +19233,7 @@
  },
  {
    "Word": "part",
-   "Definition": "avoms; sezems"
+   "Definition": "javoms; sezems"
  },
  {
    "Word": "partial",
@@ -19257,7 +19261,7 @@
  },
  {
    "Word": "partition",
-   "Definition": "avšema; javoma"
+   "Definition": "javšema; javoma"
  },
  {
    "Word": "partner",
@@ -19273,15 +19277,15 @@
  },
  {
    "Word": "pass",
-   "Definition": "(travel) ikeldems"
- },
- {
-   "Word": "pass",
    "Definition": "1. (mountain) pandojutko; ušteľje 2. (permit) jutavtoma; pitnevteme bilet"
  },
  {
+   "Word": "pass",
+   "Definition": "(travel) ikeldems"
+ },
+ {
    "Word": "pass out",
-   "Definition": "omavtoms jožo"
+   "Definition": "jomavtoms jožo"
  },
  {
    "Word": "passage",
@@ -19313,6 +19317,10 @@
  },
  {
    "Word": "past",
+   "Definition": "jutaź škań"
+ },
+ {
+   "Word": "past",
    "Definition": "(after) mejle"
  },
  {
@@ -19324,12 +19332,8 @@
    "Definition": "vakska"
  },
  {
-   "Word": "past",
-   "Definition": "utaź škań"
- },
- {
    "Word": "pastime",
-   "Definition": "utkoška"
+   "Definition": "jutkoška"
  },
  {
    "Word": "pastime pleasure",
@@ -19353,11 +19357,11 @@
  },
  {
    "Word": "patch",
-   "Definition": "pandoms (oršamopeľ)"
+   "Definition": "panks"
  },
  {
    "Word": "patch",
-   "Definition": "panks"
+   "Definition": "pandoms (oršamopeľ)"
  },
  {
    "Word": "patent",
@@ -19377,7 +19381,7 @@
  },
  {
    "Word": "path",
-   "Definition": "an; ki"
+   "Definition": "jan; ki"
  },
  {
    "Word": "patience",
@@ -19405,11 +19409,11 @@
  },
  {
    "Word": "pause",
-   "Definition": "lotksems"
+   "Definition": "pauza; ajutko; lotkamo"
  },
  {
    "Word": "pause",
-   "Definition": "pauza; ajutko; lotkamo"
+   "Definition": "lotksems"
  },
  {
    "Word": "pave",
@@ -19493,19 +19497,19 @@
  },
  {
    "Word": "pedestal",
-   "Definition": "ur"
+   "Definition": "jur"
  },
  {
    "Word": "pedestrian",
-   "Definition": "algo jutïcä"
- },
- {
-   "Word": "peel",
-   "Definition": "vatkams (lukšt)"
+   "Definition": "jalgo jutïcä"
  },
  {
    "Word": "peel",
    "Definition": "lukš"
+ },
+ {
+   "Word": "peel",
+   "Definition": "vatkams (lukšt)"
  },
  {
    "Word": "peg",
@@ -19581,7 +19585,7 @@
  },
  {
    "Word": "peppermint",
-   "Definition": "pereceń tikše"
+   "Definition": "??pereceń tikše"
  },
  {
    "Word": "per",
@@ -19813,11 +19817,11 @@
  },
  {
    "Word": "pick",
-   "Definition": "(fruit) kočkams"
+   "Definition": "(tool) kirka"
  },
  {
    "Word": "pick",
-   "Definition": "(tool) kirka"
+   "Definition": "(fruit) kočkams"
  },
  {
    "Word": "pickle",
@@ -19901,11 +19905,11 @@
  },
  {
    "Word": "pinch",
-   "Definition": "skiräms"
+   "Definition": "surprä; surpräška"
  },
  {
    "Word": "pinch",
-   "Definition": "surprä; surpräška"
+   "Definition": "skiräms"
  },
  {
    "Word": "pine",
@@ -19957,11 +19961,11 @@
  },
  {
    "Word": "place",
-   "Definition": "putoms; aravtoms"
+   "Definition": "tarka"
  },
  {
    "Word": "place",
-   "Definition": "tarka"
+   "Definition": "putoms; aravtoms"
  },
  {
    "Word": "plague",
@@ -20005,11 +20009,11 @@
  },
  {
    "Word": "plastic",
-   "Definition": "plastmass"
+   "Definition": "plastmassoń"
  },
  {
    "Word": "plastic",
-   "Definition": "plastmassoń"
+   "Definition": "plastmass"
  },
  {
    "Word": "plate",
@@ -20021,11 +20025,11 @@
  },
  {
    "Word": "play",
-   "Definition": "1. nalksems 2. sedäms (pianinaso)"
+   "Definition": "nalksema; velämo"
  },
  {
    "Word": "play",
-   "Definition": "nalksema; velämo"
+   "Definition": "1. nalksems 2. sedäms (pianinaso)"
  },
  {
    "Word": "player",
@@ -20049,11 +20053,11 @@
  },
  {
    "Word": "please",
-   "Definition": "ineskeť"
+   "Definition": "mels tujems; večkevems"
  },
  {
    "Word": "please",
-   "Definition": "mels tujems; večkevems"
+   "Definition": "ineskeť"
  },
  {
    "Word": "pleasing",
@@ -20153,7 +20157,7 @@
  },
  {
    "Word": "poison",
-   "Definition": "ad"
+   "Definition": "jad"
  },
  {
    "Word": "poisoning",
@@ -20509,7 +20513,7 @@
  },
  {
    "Word": "predict",
-   "Definition": "ovtams škado ikelev"
+   "Definition": "jovtams škado ikelev"
  },
  {
    "Word": "predictable",
@@ -20585,7 +20589,7 @@
  },
  {
    "Word": "prepare",
-   "Definition": "orams; anokstams"
+   "Definition": "jorams; anokstams"
  },
  {
    "Word": "preposition",
@@ -20609,15 +20613,15 @@
  },
  {
    "Word": "present",
+   "Definition": "tesë; toso"
+ },
+ {
+   "Word": "present",
    "Definition": "(gift) kazne"
  },
  {
    "Word": "present",
    "Definition": "kaznems"
- },
- {
-   "Word": "present",
-   "Definition": "tesë; toso"
  },
  {
    "Word": "presentable",
@@ -20765,11 +20769,11 @@
  },
  {
    "Word": "principal",
-   "Definition": "(school) školań prävt"
+   "Definition": "juroń; prävtoń"
  },
  {
    "Word": "principal",
-   "Definition": "uroń; prävtoń"
+   "Definition": "(school) školań prävt"
  },
  {
    "Word": "principality",
@@ -20781,11 +20785,11 @@
  },
  {
    "Word": "print",
-   "Definition": "1. teškstams tešteń-tešteń 2. noldams (gazeta)"
+   "Definition": "čalgavks"
  },
  {
    "Word": "print",
-   "Definition": "čalgavks"
+   "Definition": "1. teškstams tešteń-tešteń 2. noldams (gazeta)"
  },
  {
    "Word": "printer",
@@ -20861,11 +20865,11 @@
  },
  {
    "Word": "process",
-   "Definition": "panžoms process"
+   "Definition": "process; molema"
  },
  {
    "Word": "process",
-   "Definition": "process; molema"
+   "Definition": "??panžoms process"
  },
  {
    "Word": "processing",
@@ -20873,7 +20877,7 @@
  },
  {
    "Word": "proclaim",
-   "Definition": "ovtams marämga"
+   "Definition": "jovtams marämga"
  },
  {
    "Word": "procrastinate",
@@ -20913,11 +20917,11 @@
  },
  {
    "Word": "professional",
-   "Definition": "(business) tevenzë sodïcä"
+   "Definition": "professionalnoj; professija marto"
  },
  {
    "Word": "professional",
-   "Definition": "professionalnoj; professija marto"
+   "Definition": "(business) tevenzë sodïcä"
  },
  {
    "Word": "professor",
@@ -20933,11 +20937,11 @@
  },
  {
    "Word": "profit",
-   "Definition": "čočams jarmak; sajems iznävks"
+   "Definition": "jarmakoń samo; jarmakoń čočama"
  },
  {
    "Word": "profit",
-   "Definition": "armakoń samo; jarmakoń čočama"
+   "Definition": "čočams jarmak; sajems iznävks"
  },
  {
    "Word": "profitable",
@@ -21001,11 +21005,11 @@
  },
  {
    "Word": "prompt",
-   "Definition": "kurok"
+   "Definition": "kurokoń"
  },
  {
    "Word": "prompt",
-   "Definition": "kurokoń"
+   "Definition": "kurok"
  },
  {
    "Word": "pronoun",
@@ -21013,11 +21017,11 @@
  },
  {
    "Word": "pronounce",
-   "Definition": "ovtams"
+   "Definition": "jovtams"
  },
  {
    "Word": "pronunciation",
-   "Definition": "ovtamo"
+   "Definition": "jovtamo"
  },
  {
    "Word": "proof",
@@ -21197,7 +21201,7 @@
  },
  {
    "Word": "publicize",
-   "Definition": "ovtams veseń marämga"
+   "Definition": "jovtams veseń marämga"
  },
  {
    "Word": "publish",
@@ -21233,11 +21237,11 @@
  },
  {
    "Word": "pump",
-   "Definition": "kačajams nasozso"
+   "Definition": "nasoz"
  },
  {
    "Word": "pump",
-   "Definition": "nasoz"
+   "Definition": "kačajams nasozso"
  },
  {
    "Word": "pumpkin",
@@ -21281,7 +21285,7 @@
  },
  {
    "Word": "pure",
-   "Definition": "ahor; vańks"
+   "Definition": "jahor; vańks"
  },
  {
    "Word": "purple",
@@ -21313,11 +21317,11 @@
  },
  {
    "Word": "push",
-   "Definition": "ajgems; tulkadems"
+   "Definition": "tulkadema; ajgema"
  },
  {
    "Word": "push",
-   "Definition": "tulkadema; ajgema"
+   "Definition": "ajgems; tulkadems"
  },
  {
    "Word": "pushy",
@@ -21425,11 +21429,11 @@
  },
  {
    "Word": "queue",
-   "Definition": "aštems čipolaso"
+   "Definition": "čipola"
  },
  {
    "Word": "queue",
-   "Definition": "čipola"
+   "Definition": "aštems čipolaso"
  },
  {
    "Word": "quick",
@@ -21497,7 +21501,7 @@
  },
  {
    "Word": "raccoon",
-   "Definition": "enot"
+   "Definition": "jenot"
  },
  {
    "Word": "race",
@@ -21533,7 +21537,7 @@
  },
  {
    "Word": "radical",
-   "Definition": "uroń"
+   "Definition": "juroń"
  },
  {
    "Word": "radio",
@@ -21601,11 +21605,11 @@
  },
  {
    "Word": "raise",
-   "Definition": "(lift) kepedems"
+   "Definition": "(money) važodema jarmakoń kepedema"
  },
  {
    "Word": "raise",
-   "Definition": "(money) važodema jarmakoń kepedema"
+   "Definition": "(lift) kepedems"
  },
  {
    "Word": "raisin",
@@ -21625,7 +21629,7 @@
  },
  {
    "Word": "ramp",
-   "Definition": "sëď"
+   "Definition": "sëď ??"
  },
  {
    "Word": "ranch",
@@ -21697,11 +21701,11 @@
  },
  {
    "Word": "ration",
-   "Definition": "maksoms pajok"
+   "Definition": "racion; pajok"
  },
  {
    "Word": "ration",
-   "Definition": "racion; pajok"
+   "Definition": "maksoms pajok"
  },
  {
    "Word": "rational",
@@ -21821,7 +21825,7 @@
  },
  {
    "Word": "rear",
-   "Definition": "träms-kastoms"
+   "Definition": "udalce"
  },
  {
    "Word": "rear",
@@ -21829,7 +21833,7 @@
  },
  {
    "Word": "rear",
-   "Definition": "udalce"
+   "Definition": "träms-kastoms"
  },
  {
    "Word": "rearrange",
@@ -21917,7 +21921,7 @@
  },
  {
    "Word": "recession",
-   "Definition": "tujema; potamo"
+   "Definition": "??tujema; potamo"
  },
  {
    "Word": "recipe",
@@ -21937,7 +21941,7 @@
  },
  {
    "Word": "recite",
-   "Definition": "ovtnems prevstë"
+   "Definition": "jovtnems prevstë"
  },
  {
    "Word": "reckless",
@@ -21985,11 +21989,11 @@
  },
  {
    "Word": "record",
-   "Definition": "(music) śormadoms (kassetas; plastinkas)"
+   "Definition": "1. (account) registracija 2. (sport) rekordoń putoma 3. (music) plastinka"
  },
  {
    "Word": "record",
-   "Definition": "1. (account) registracija 2. (sport) rekordoń putoma 3. (music) plastinka"
+   "Definition": "(music) śormadoms (kassetas; plastinkas)"
  },
  {
    "Word": "recording",
@@ -22037,11 +22041,11 @@
  },
  {
    "Word": "red",
-   "Definition": "akstere"
+   "Definition": "jakstere"
  },
  {
    "Word": "reddish",
-   "Definition": "aksterdť mericä"
+   "Definition": "jaksterdť mericä"
  },
  {
    "Word": "reduce",
@@ -22121,11 +22125,11 @@
  },
  {
    "Word": "refund",
-   "Definition": "pandoms mekev"
+   "Definition": "jarmakoń mekev  pandoma"
  },
  {
    "Word": "refund",
-   "Definition": "armakoń mekev  pandoma"
+   "Definition": "pandoms mekev"
  },
  {
    "Word": "refusal",
@@ -22181,11 +22185,11 @@
  },
  {
    "Word": "regret",
-   "Definition": "anksema"
+   "Definition": "janksema"
  },
  {
    "Word": "regret",
-   "Definition": "anksems"
+   "Definition": "janksems"
  },
  {
    "Word": "regretfully",
@@ -22285,11 +22289,11 @@
  },
  {
    "Word": "release",
-   "Definition": "1. (free) oläkstomtoms 2. (issue) noldams"
+   "Definition": "1. (freedom) oläkstomtoma 2. (item) noldavks"
  },
  {
    "Word": "release",
-   "Definition": "1. (freedom) oläkstomtoma 2. (item) noldavks"
+   "Definition": "1. (free) oläkstomtoms 2. (issue) noldams"
  },
  {
    "Word": "relentless",
@@ -22385,11 +22389,11 @@
  },
  {
    "Word": "remittance",
-   "Definition": "armakoń kajamo (počtaso)"
+   "Definition": "jarmakoń kajamo (počtaso)"
  },
  {
    "Word": "remorse",
-   "Definition": "anksema"
+   "Definition": "janksema"
  },
  {
    "Word": "remote",
@@ -22421,11 +22425,11 @@
  },
  {
    "Word": "rent",
-   "Definition": "sivedems; sajems arendas; maksoms arendas"
+   "Definition": "erämotarkań sivedema jarmak"
  },
  {
    "Word": "rent",
-   "Definition": "erämotarkań sivedema jarmak"
+   "Definition": "sivedems; sajems arendas; maksoms arendas"
  },
  {
    "Word": "reorganize",
@@ -22433,11 +22437,11 @@
  },
  {
    "Word": "repair",
-   "Definition": "vitnems-petnems"
+   "Definition": "remont"
  },
  {
    "Word": "repair",
-   "Definition": "remont"
+   "Definition": "vitnems-petnems"
  },
  {
    "Word": "repay",
@@ -22589,11 +22593,11 @@
  },
  {
    "Word": "research",
-   "Definition": "vankšnoms; tonavtnems"
+   "Definition": "issledovanija; vankšnoma"
  },
  {
    "Word": "research",
-   "Definition": "issledovanija; vankšnoma"
+   "Definition": "vankšnoms; tonavtnems"
  },
  {
    "Word": "resemble",
@@ -22677,7 +22681,7 @@
  },
  {
    "Word": "respectively",
-   "Definition": "melcek melcek"
+   "Definition": "??melcek melcek"
  },
  {
    "Word": "respond",
@@ -22809,15 +22813,15 @@
  },
  {
    "Word": "retrieve",
-   "Definition": "akams (mezeń-buti kisë)"
- },
- {
-   "Word": "return",
-   "Definition": "(send) velävtoms počtaso"
+   "Definition": "jakams (mezeń-buti kisë)"
  },
  {
    "Word": "return",
    "Definition": "1. (receive) kilangsto velävtoma 2. (send) počtaso mekev velävtoma"
+ },
+ {
+   "Word": "return",
+   "Definition": "(send) velävtoms počtaso"
  },
  {
    "Word": "reunion",
@@ -22853,11 +22857,11 @@
  },
  {
    "Word": "reverse",
-   "Definition": "(back) polavtoms; velävtoms; potams"
+   "Definition": "1. (gear) mekevlangoń 2. (object) lija jonks 3. (situation) polavtovkst"
  },
  {
    "Word": "reverse",
-   "Definition": "1. (gear) mekevlangoń 2. (object) lija jonks 3. (situation) polavtovkst"
+   "Definition": "(back) ??polavtoms; velävtoms; potams"
  },
  {
    "Word": "revert",
@@ -22937,11 +22941,11 @@
  },
  {
    "Word": "ride",
-   "Definition": "1. (bicycle) ardoms 2. (horse) ardoms (laste)"
+   "Definition": "1. (car) ardoma 2. (horse) (laste) ardoma"
  },
  {
    "Word": "ride",
-   "Definition": "1. (car) ardoma 2. (horse) (laste) ardoma"
+   "Definition": "1. (bicycle) ardoms 2. (horse) ardoms (laste)"
  },
  {
    "Word": "ridge",
@@ -22965,7 +22969,7 @@
  },
  {
    "Word": "righteous",
-   "Definition": "pravednoj"
+   "Definition": "??pravednoj"
  },
  {
    "Word": "rigid",
@@ -22989,7 +22993,7 @@
  },
  {
    "Word": "rinse",
-   "Definition": "orvaldoms; jovardoms"
+   "Definition": "jorvaldoms; jovardoms"
  },
  {
    "Word": "riot",
@@ -23113,7 +23117,7 @@
  },
  {
    "Word": "root",
-   "Definition": "ur; undovks"
+   "Definition": "jur; undovks"
  },
  {
    "Word": "rope",
@@ -23137,11 +23141,11 @@
  },
  {
    "Word": "rough",
-   "Definition": "kazäkadoź"
+   "Definition": "kazämo"
  },
  {
    "Word": "rough",
-   "Definition": "kazämo"
+   "Definition": "kazäkadoź"
  },
  {
    "Word": "round",
@@ -23165,7 +23169,7 @@
  },
  {
    "Word": "rowboat",
-   "Definition": "ujemań venč (milesë panevi)"
+   "Definition": "??ujemań venč (milesë panevi)"
  },
  {
    "Word": "royal",
@@ -23173,7 +23177,7 @@
  },
  {
    "Word": "rub",
-   "Definition": "ozams; jozoldoms"
+   "Definition": "jozams; jozoldoms"
  },
  {
    "Word": "rubber",
@@ -23205,7 +23209,7 @@
  },
  {
    "Word": "ruins",
-   "Definition": "omamo; kuloma; čavovoma"
+   "Definition": "jomamo; kuloma; čavovoma"
  },
  {
    "Word": "rule",
@@ -23221,7 +23225,7 @@
  },
  {
    "Word": "rumor",
-   "Definition": "kulät"
+   "Definition": "kulät??"
  },
  {
    "Word": "rump",
@@ -23277,11 +23281,11 @@
  },
  {
    "Word": "sacrifice",
-   "Definition": "1. satstoms 2. anoks kandoms"
+   "Definition": "žertva; anoks"
  },
  {
    "Word": "sacrifice",
-   "Definition": "žertva; anoks"
+   "Definition": "1. satstoms 2. anoks kandoms"
  },
  {
    "Word": "sad",
@@ -23357,11 +23361,11 @@
  },
  {
    "Word": "salute",
-   "Definition": "maksoms česť (kineńgak)"
+   "Definition": "česteń maksoma"
  },
  {
    "Word": "salute",
-   "Definition": "česteń maksoma"
+   "Definition": "maksoms česť (kineńgak)"
  },
  {
    "Word": "salvation",
@@ -23444,10 +23448,6 @@
    "Definition": "savtoms (kineńgak)"
  },
  {
-   "Word": "Saturday",
-   "Definition": "subuta"
- },
- {
    "Word": "sauce",
    "Definition": "sous"
  },
@@ -23477,11 +23477,11 @@
  },
  {
    "Word": "say",
-   "Definition": "ovtams"
+   "Definition": "jovtams"
  },
  {
    "Word": "saying",
-   "Definition": "ovtamo; merema"
+   "Definition": "jovtamo; merema"
  },
  {
    "Word": "scab",
@@ -23545,7 +23545,7 @@
  },
  {
    "Word": "schedule",
-   "Definition": "melcek-melcek śormadks (spisok)"
+   "Definition": "??melcek-melcek śormadks (spisok)"
  },
  {
    "Word": "scholar",
@@ -23617,15 +23617,15 @@
  },
  {
    "Word": "screw",
-   "Definition": "(screw) vintäms"
- },
- {
-   "Word": "screw",
    "Definition": "vint"
  },
  {
+   "Word": "screw",
+   "Definition": "(screw) vintäms"
+ },
+ {
    "Word": "screwdriver",
-   "Definition": "1. otvortka 2. (drink) alkogol marto simemapeľ"
+   "Definition": "1. otvortka 2. (drink) ??alkogol marto simemapeľ"
  },
  {
    "Word": "scribble",
@@ -23693,7 +23693,7 @@
  },
  {
    "Word": "seasick",
-   "Definition": "inevedeń orma"
+   "Definition": "??inevedeń orma"
  },
  {
    "Word": "season",
@@ -23733,11 +23733,11 @@
  },
  {
    "Word": "secret",
-   "Definition": "salavači; śopoź tev"
+   "Definition": "śopoź; kekšeź; salavań"
  },
  {
    "Word": "secret",
-   "Definition": "śopoź; kekšeź; salavań"
+   "Definition": "salavači; śopoź tev"
  },
  {
    "Word": "secretary",
@@ -23797,7 +23797,7 @@
  },
  {
    "Word": "see off",
-   "Definition": "akams iltämo"
+   "Definition": "jakams iltämo"
  },
  {
    "Word": "seed",
@@ -23821,7 +23821,7 @@
  },
  {
    "Word": "segregate",
-   "Definition": "avoms (lomanť lijatneń ejstë kiśke ťusoń koräs)"
+   "Definition": "javoms (lomanť lijatneń ejstë kiśke ťusoń koräs)"
  },
  {
    "Word": "seize",
@@ -23861,7 +23861,7 @@
  },
  {
    "Word": "semicircle",
-   "Definition": "čiŕke"
+   "Definition": "??čiŕke"
  },
  {
    "Word": "seminar",
@@ -23885,7 +23885,7 @@
  },
  {
    "Word": "sensation",
-   "Definition": "ožomarämo"
+   "Definition": "jožomarämo"
  },
  {
    "Word": "sensational",
@@ -23901,11 +23901,11 @@
  },
  {
    "Word": "sensibility",
-   "Definition": "prevssajeviksči"
+   "Definition": "??prevssajeviksči"
  },
  {
    "Word": "sensible",
-   "Definition": "prevssajeviks"
+   "Definition": "??prevssajeviks"
  },
  {
    "Word": "sensitive",
@@ -23913,11 +23913,11 @@
  },
  {
    "Word": "sensitivity",
-   "Definition": "ožomarämo"
+   "Definition": "jožomarämo"
  },
  {
    "Word": "sensual",
-   "Definition": "potmojožoń"
+   "Definition": "??potmojožoń"
  },
  {
    "Word": "sentence",
@@ -23933,7 +23933,7 @@
  },
  {
    "Word": "sentimental",
-   "Definition": "ožomaricä; potmojožoń"
+   "Definition": "jožomaricä; potmojožoń"
  },
  {
    "Word": "sentry",
@@ -23945,15 +23945,11 @@
  },
  {
    "Word": "separate",
-   "Definition": "avoms"
+   "Definition": "javoms"
  },
  {
    "Word": "separation",
-   "Definition": "avoma"
- },
- {
-   "Word": "September",
-   "Definition": "taštomakov; vejksëce kov"
+   "Definition": "javoma"
  },
  {
    "Word": "sequence",
@@ -24049,7 +24045,7 @@
  },
  {
    "Word": "sewage",
-   "Definition": "ortovkst; rudazveď"
+   "Definition": "jortovkst; rudazveď"
  },
  {
    "Word": "sewer",
@@ -24089,11 +24085,11 @@
  },
  {
    "Word": "shallow",
-   "Definition": "mazä tarka"
+   "Definition": "mazä; alkine; adomka"
  },
  {
    "Word": "shallow",
-   "Definition": "mazä; alkine; adomka"
+   "Definition": "mazä tarka"
  },
  {
    "Word": "shame",
@@ -24125,7 +24121,7 @@
  },
  {
    "Word": "share",
-   "Definition": "avšems (with marto)"
+   "Definition": "javšems (with marto)"
  },
  {
    "Word": "shareholder",
@@ -24181,11 +24177,11 @@
  },
  {
    "Word": "shelter",
-   "Definition": "maksoms präń vanstoma tarka"
+   "Definition": "präń vanstoma tarka"
  },
  {
    "Word": "shelter",
-   "Definition": "präń vanstoma tarka"
+   "Definition": "maksoms präń vanstoma tarka"
  },
  {
    "Word": "shepherd",
@@ -24361,11 +24357,11 @@
  },
  {
    "Word": "sign",
-   "Definition": "putoms keď(tešks); śormadstoms"
+   "Definition": "tešks"
  },
  {
    "Word": "sign",
-   "Definition": "tešks"
+   "Definition": "putoms keď(tešks); śormadstoms"
  },
  {
    "Word": "signal",
@@ -24457,7 +24453,7 @@
  },
  {
    "Word": "sincerity",
-   "Definition": "panžado ojme"
+   "Definition": "??panžado ojme"
  },
  {
    "Word": "sinful",
@@ -24541,11 +24537,11 @@
  },
  {
    "Word": "skate",
-   "Definition": "(ice) kiräkstnems końkaso"
+   "Definition": "(ice) końka"
  },
  {
    "Word": "skate",
-   "Definition": "(ice) końka"
+   "Definition": "(ice) kiräkstnems końkaso"
  },
  {
    "Word": "skeleton",
@@ -24557,19 +24553,19 @@
  },
  {
    "Word": "sketch",
-   "Definition": "risovams; artoms"
- },
- {
-   "Word": "sketch",
    "Definition": "risunok; artovks"
  },
  {
-   "Word": "ski",
-   "Definition": "ardtnems soksso; čijems soksso"
+   "Word": "sketch",
+   "Definition": "risovams; artoms"
  },
  {
    "Word": "ski",
    "Definition": "soks"
+ },
+ {
+   "Word": "ski",
+   "Definition": "ardtnems soksso; čijems soksso"
  },
  {
    "Word": "skilful",
@@ -24593,7 +24589,7 @@
  },
  {
    "Word": "skirt",
-   "Definition": "ubka"
+   "Definition": "jubka"
  },
  {
    "Word": "skull",
@@ -24729,7 +24725,7 @@
  },
  {
    "Word": "sly",
-   "Definition": "ožov"
+   "Definition": "jožov"
  },
  {
    "Word": "small",
@@ -24749,19 +24745,19 @@
  },
  {
    "Word": "smell",
-   "Definition": "1. kačadoms; noldams čine 2. maräms čine"
- },
- {
-   "Word": "smell",
    "Definition": "1. čine 2. (sense) činemarämo"
  },
  {
-   "Word": "smile",
-   "Definition": "mizoldoms"
+   "Word": "smell",
+   "Definition": "1. kačadoms; noldams čine 2. maräms čine"
  },
  {
    "Word": "smile",
    "Definition": "mizolks"
+ },
+ {
+   "Word": "smile",
+   "Definition": "mizoldoms"
  },
  {
    "Word": "smithy",
@@ -24769,11 +24765,11 @@
  },
  {
    "Word": "smoke",
-   "Definition": "1. (tobacco) targams 2. kačakavtoms"
+   "Definition": "kačamo"
  },
  {
    "Word": "smoke",
-   "Definition": "kačamo"
+   "Definition": "1. (tobacco) targams 2. kačakavtoms"
  },
  {
    "Word": "smooth",
@@ -24801,7 +24797,7 @@
  },
  {
    "Word": "sneak",
-   "Definition": "utams salava"
+   "Definition": "jutams salava"
  },
  {
    "Word": "sneeze",
@@ -24989,7 +24985,7 @@
  },
  {
    "Word": "soup",
-   "Definition": "am"
+   "Definition": "jam"
  },
  {
    "Word": "sour",
@@ -25097,7 +25093,7 @@
  },
  {
    "Word": "speedboat",
-   "Definition": "bojka jaki venč"
+   "Definition": "??bojka jaki venč"
  },
  {
    "Word": "speedometer",
@@ -25117,7 +25113,7 @@
  },
  {
    "Word": "spend",
-   "Definition": "utavtoms (money jarmak; time ška)"
+   "Definition": "jutavtoms (money jarmak; time ška)"
  },
  {
    "Word": "spice",
@@ -25281,11 +25277,11 @@
  },
  {
    "Word": "spy",
-   "Definition": "vanstoms (kiń meľga)"
+   "Definition": "špion"
  },
  {
    "Word": "spy",
-   "Definition": "špion"
+   "Definition": "vanstoms (kiń meľga)"
  },
  {
    "Word": "spying",
@@ -25381,11 +25377,11 @@
  },
  {
    "Word": "stamp",
-   "Definition": "(seal) putoms pečať (meze langskak)"
+   "Definition": "1. (postage) marka 2. (seal) pečať"
  },
  {
    "Word": "stamp",
-   "Definition": "1. (postage) marka 2. (seal) pečať"
+   "Definition": "(seal) putoms pečať (meze langskak)"
  },
  {
    "Word": "stand",
@@ -25393,11 +25389,11 @@
  },
  {
    "Word": "standard",
-   "Definition": "standart; vejkeťkstamo luv"
+   "Definition": "standartoń koräs"
  },
  {
    "Word": "standard",
-   "Definition": "standartoń koräs"
+   "Definition": "standart; vejkeťkstamo luv"
  },
  {
    "Word": "standardize",
@@ -25425,11 +25421,11 @@
  },
  {
    "Word": "start",
-   "Definition": "1. (begin) ušodoms; karmams 2. (motor) noldams (motor)"
+   "Definition": "ušodoma"
  },
  {
    "Word": "start",
-   "Definition": "ušodoma"
+   "Definition": "1. (begin) ušodoms; karmams 2. (motor) noldams (motor)"
  },
  {
    "Word": "startle",
@@ -25453,7 +25449,7 @@
  },
  {
    "Word": "statement",
-   "Definition": "ovtamo"
+   "Definition": "jovtamo"
  },
  {
    "Word": "station",
@@ -25481,11 +25477,11 @@
  },
  {
    "Word": "stay",
-   "Definition": "kadovoms"
+   "Definition": "??ulema tarka"
  },
  {
    "Word": "stay",
-   "Definition": "ulema tarka"
+   "Definition": "kadovoms"
  },
  {
    "Word": "steam",
@@ -25521,11 +25517,11 @@
  },
  {
    "Word": "step",
-   "Definition": "eskeldems"
+   "Definition": "eskeľks"
  },
  {
    "Word": "step",
-   "Definition": "eskeľks"
+   "Definition": "eskeldems"
  },
  {
    "Word": "step-father",
@@ -25557,7 +25553,7 @@
  },
  {
    "Word": "stewardess",
-   "Definition": "oroplanso (lomań) meľga jakicä"
+   "Definition": "joroplanso (lomań) meľga jakicä"
  },
  {
    "Word": "stick",
@@ -25629,11 +25625,11 @@
  },
  {
    "Word": "stone",
-   "Definition": "kev"
+   "Definition": "keveń"
  },
  {
    "Word": "stone",
-   "Definition": "keveń"
+   "Definition": "kev"
  },
  {
    "Word": "stop",
@@ -25893,7 +25889,7 @@
  },
  {
    "Word": "subsidy",
-   "Definition": "armakso lezks"
+   "Definition": "jarmakso lezks"
  },
  {
    "Word": "substance",
@@ -26048,10 +26044,6 @@
    "Definition": "čipaj alo pijema"
  },
  {
-   "Word": "Sunday",
-   "Definition": "targoči; nedläči"
- },
- {
    "Word": "sunny",
    "Definition": "čipajev"
  },
@@ -26093,7 +26085,7 @@
  },
  {
    "Word": "supermarket",
-   "Definition": "arsamopeleń pokš lavka"
+   "Definition": "jarsamopeleń pokš lavka"
  },
  {
    "Word": "superstition",
@@ -26129,11 +26121,11 @@
  },
  {
    "Word": "supply",
-   "Definition": "orams"
+   "Definition": "taštavkst; joravkst"
  },
  {
    "Word": "supply",
-   "Definition": "taštavkst; joravkst"
+   "Definition": "jorams"
  },
  {
    "Word": "support",
@@ -26145,7 +26137,7 @@
  },
  {
    "Word": "suppose",
-   "Definition": "noldams; arsems"
+   "Definition": "??noldams; arsems"
  },
  {
    "Word": "supposedly",
@@ -26201,11 +26193,11 @@
  },
  {
    "Word": "surprise",
-   "Definition": "divavtoms"
+   "Definition": "divamo; supriz"
  },
  {
    "Word": "surprise",
-   "Definition": "divamo; supriz"
+   "Definition": "divavtoms"
  },
  {
    "Word": "surprising",
@@ -26213,11 +26205,11 @@
  },
  {
    "Word": "surrender",
-   "Definition": "maksoms prä (to kineń)"
+   "Definition": "präń maksoma"
  },
  {
    "Word": "surrender",
-   "Definition": "präń maksoma"
+   "Definition": "maksoms prä (to kineń)"
  },
  {
    "Word": "surround",
@@ -26241,7 +26233,7 @@
  },
  {
    "Word": "survival",
-   "Definition": "erämo"
+   "Definition": "?? erämo"
  },
  {
    "Word": "survive",
@@ -26253,15 +26245,15 @@
  },
  {
    "Word": "suspect",
-   "Definition": "lovoms čumondoviks; čumondoms"
- },
- {
-   "Word": "suspect",
    "Definition": "čumondoviks"
  },
  {
    "Word": "suspect",
    "Definition": "čumondoviks lomań"
+ },
+ {
+   "Word": "suspect",
+   "Definition": "lovoms čumondoviks; čumondoms"
  },
  {
    "Word": "suspend",
@@ -26353,11 +26345,11 @@
  },
  {
    "Word": "switch",
-   "Definition": "(change) polavtoms"
+   "Definition": "1. (change) polavtoma 2. (device) (svetëń) toloń madstemka"
  },
  {
    "Word": "switch",
-   "Definition": "1. (change) polavtoma 2. (device) (svetëń) toloń madstemka"
+   "Definition": "(change) polavtoms"
  },
  {
    "Word": "swollen",
@@ -26377,15 +26369,15 @@
  },
  {
    "Word": "sympathetic",
-   "Definition": "ožomaräź"
+   "Definition": "jožomaräź"
  },
  {
    "Word": "sympathize",
-   "Definition": "ožo maräms"
+   "Definition": "jožo maräms"
  },
  {
    "Word": "sympathy",
-   "Definition": "ožomarämo"
+   "Definition": "jožomarämo"
  },
  {
    "Word": "symptom",
@@ -26424,6 +26416,18 @@
    "Definition": "sistemań koräs"
  },
  {
+   "Word": "Saturday",
+   "Definition": "subuta"
+ },
+ {
+   "Word": "September",
+   "Definition": "taštomakov; vejksëce kov"
+ },
+ {
+   "Word": "Sunday",
+   "Definition": "targoči; nedläči"
+ },
+ {
    "Word": "table",
    "Definition": "stuvor; morgo"
  },
@@ -26433,7 +26437,7 @@
  },
  {
    "Word": "tack",
-   "Definition": "(surso lepštävicä) eske"
+   "Definition": "(surso ??lepštävicä) eske"
  },
  {
    "Word": "tact",
@@ -26469,7 +26473,7 @@
  },
  {
    "Word": "tale",
-   "Definition": "ovtnema"
+   "Definition": "jovtnema"
  },
  {
    "Word": "talent",
@@ -26633,7 +26637,7 @@
  },
  {
    "Word": "telecommunications",
-   "Definition": "telefon"
+   "Definition": "??telefon"
  },
  {
    "Word": "telegram",
@@ -26661,7 +26665,7 @@
  },
  {
    "Word": "temper",
-   "Definition": "ožo"
+   "Definition": "jožo"
  },
  {
    "Word": "temperamental",
@@ -26717,11 +26721,11 @@
  },
  {
    "Word": "tense",
-   "Definition": "(grammar) ška"
+   "Definition": "uskoź"
  },
  {
    "Word": "tense",
-   "Definition": "uskoź"
+   "Definition": "(grammar) ška"
  },
  {
    "Word": "tension",
@@ -26929,11 +26933,11 @@
  },
  {
    "Word": "these",
-   "Definition": "netne"
+   "Definition": "neť; netne"
  },
  {
    "Word": "these",
-   "Definition": "neť; netne"
+   "Definition": "netne"
  },
  {
    "Word": "thesis",
@@ -27069,7 +27073,7 @@
  },
  {
    "Word": "throttle",
-   "Definition": "(car) mejsë motoronteń molicä gazonť onkstavi"
+   "Definition": "(car) ??mejsë motoronteń molicä gazonť onkstavi"
  },
  {
    "Word": "through",
@@ -27081,11 +27085,11 @@
  },
  {
    "Word": "throw",
-   "Definition": "ortoma"
+   "Definition": "jortoma"
  },
  {
    "Word": "throw",
-   "Definition": "ortoms"
+   "Definition": "jortoms"
  },
  {
    "Word": "thumb",
@@ -27098,10 +27102,6 @@
  {
    "Word": "thunderstorm",
    "Definition": "puŕgine marto pizeme"
- },
- {
-   "Word": "Thursday",
-   "Definition": "ceťverk"
  },
  {
    "Word": "thus",
@@ -27133,11 +27133,11 @@
  },
  {
    "Word": "tidy",
-   "Definition": "vanśkavtoms"
+   "Definition": "vańks"
  },
  {
    "Word": "tidy",
-   "Definition": "vańks"
+   "Definition": "vanśkavtoms"
  },
  {
    "Word": "tie",
@@ -27157,7 +27157,7 @@
  },
  {
    "Word": "tighten",
-   "Definition": "teťkems"
+   "Definition": "??teťkems"
  },
  {
    "Word": "time",
@@ -27189,11 +27189,11 @@
  },
  {
    "Word": "tire",
-   "Definition": "1. sizems 2. sizevtems"
+   "Definition": "čaro"
  },
  {
    "Word": "tire",
-   "Definition": "čaro"
+   "Definition": "1. sizems 2. sizevtems"
  },
  {
    "Word": "tired",
@@ -27373,7 +27373,7 @@
  },
  {
    "Word": "toss",
-   "Definition": "ortoms"
+   "Definition": "jortoms"
  },
  {
    "Word": "total",
@@ -27425,7 +27425,7 @@
  },
  {
    "Word": "toward",
-   "Definition": "onov; pelev"
+   "Definition": "jonov; pelev"
  },
  {
    "Word": "towel",
@@ -27461,11 +27461,11 @@
  },
  {
    "Word": "trade",
-   "Definition": "mikšnems-ramsems"
+   "Definition": "tev; professija"
  },
  {
    "Word": "trade",
-   "Definition": "tev; professija"
+   "Definition": "mikšnems-ramsems"
  },
  {
    "Word": "trade show",
@@ -27509,11 +27509,11 @@
  },
  {
    "Word": "train",
-   "Definition": "1. tonavtoms (animal rakša) 2. tonavtoms (person lomań) 3. anokstams (sport sports)"
+   "Definition": "pojezd"
  },
  {
    "Word": "train",
-   "Definition": "pojezd"
+   "Definition": "1. tonavtoms (animal rakša) 2. tonavtoms (person lomań) 3. anokstams (sport sports)"
  },
  {
    "Word": "train station",
@@ -27545,11 +27545,11 @@
  },
  {
    "Word": "tranquilizer",
-   "Definition": "sëredemań lotkavtomapeľ"
+   "Definition": "??sëredemań lotkavtomapeľ"
  },
  {
    "Word": "transaction",
-   "Definition": "armakoń kučoma (bankso)"
+   "Definition": "jarmakoń kučoma (bankso)"
  },
  {
    "Word": "transfer",
@@ -27561,7 +27561,7 @@
  },
  {
    "Word": "translate",
-   "Definition": "utavtoms (lija kels)"
+   "Definition": "jutavtoms (lija kels)"
  },
  {
    "Word": "translation",
@@ -27613,7 +27613,7 @@
  },
  {
    "Word": "tray",
-   "Definition": "kandoma alks"
+   "Definition": "??kandoma alks"
  },
  {
    "Word": "treason",
@@ -27621,15 +27621,15 @@
  },
  {
    "Word": "treasure",
-   "Definition": "sokrovišta"
+   "Definition": "??sokrovišta"
  },
  {
    "Word": "treat",
-   "Definition": "vetäms prä"
+   "Definition": "??vetäms prä"
  },
  {
    "Word": "treatment",
-   "Definition": "präń vetämo"
+   "Definition": "??präń vetämo"
  },
  {
    "Word": "treaty",
@@ -27665,7 +27665,7 @@
  },
  {
    "Word": "trick",
-   "Definition": "ožo; manämo; tŕuk"
+   "Definition": "jožo; manämo; tŕuk"
  },
  {
    "Word": "trigger",
@@ -27713,7 +27713,7 @@
  },
  {
    "Word": "trumpet",
-   "Definition": "turba"
+   "Definition": "??turba"
  },
  {
    "Word": "trunk",
@@ -27741,11 +27741,11 @@
  },
  {
    "Word": "try",
-   "Definition": "1. (attempt) varčams 2. (court) sudijams"
+   "Definition": "varčamo"
  },
  {
    "Word": "try",
-   "Definition": "varčamo"
+   "Definition": "1. (attempt) varčams 2. (court) sudijams"
  },
  {
    "Word": "tub",
@@ -27754,10 +27754,6 @@
  {
    "Word": "tube",
    "Definition": "(pipe) cilem"
- },
- {
-   "Word": "Tuesday",
-   "Definition": "ovtornik"
  },
  {
    "Word": "tug boat",
@@ -27785,11 +27781,11 @@
  },
  {
    "Word": "tune",
-   "Definition": "luvs ladsems (sedämopeľ)"
+   "Definition": "nalksema (muzïkado)"
  },
  {
    "Word": "tune",
-   "Definition": "nalksema (muzïkado)"
+   "Definition": "luvs ladsems (sedämopeľ)"
  },
  {
    "Word": "tunnel",
@@ -27805,7 +27801,7 @@
  },
  {
    "Word": "turbulence",
-   "Definition": "vijev varma"
+   "Definition": "??vijev varma"
  },
  {
    "Word": "turbulent",
@@ -27817,15 +27813,15 @@
  },
  {
    "Word": "turmoil",
-   "Definition": "šalt"
- },
- {
-   "Word": "turn",
-   "Definition": "(move) velävtnems; veläms"
+   "Definition": "??šalt"
  },
  {
    "Word": "turn",
    "Definition": "1. (movement) čaroń velävtoma 2. (road kiń) meńks"
+ },
+ {
+   "Word": "turn",
+   "Definition": "(move) velävtnems; veläms"
  },
  {
    "Word": "turn off",
@@ -27833,7 +27829,7 @@
  },
  {
    "Word": "turn on",
-   "Definition": "1. kirvaztems (light tol) 2. noldams (radio; television; oven radio; televizor; duhovka) 3. kirvaztems (somebody kińgak); eždems"
+   "Definition": "Virhe:522"
  },
  {
    "Word": "turn over",
@@ -27889,11 +27885,11 @@
  },
  {
    "Word": "twitch",
-   "Definition": "sornoma"
+   "Definition": "??sornoma"
  },
  {
    "Word": "twitch",
-   "Definition": "sornoms"
+   "Definition": "??sornoms"
  },
  {
    "Word": "two",
@@ -27920,6 +27916,14 @@
    "Definition": "pečatïcä"
  },
  {
+   "Word": "Thursday",
+   "Definition": "ceťverk"
+ },
+ {
+   "Word": "Tuesday",
+   "Definition": "ovtornik"
+ },
+ {
    "Word": "udder",
    "Definition": "odar"
  },
@@ -27929,7 +27933,7 @@
  },
  {
    "Word": "ulcer",
-   "Definition": "azva; orvo; pekeorvo"
+   "Definition": "jazva; orvo; pekeorvo"
  },
  {
    "Word": "ultimate",
@@ -27989,7 +27993,7 @@
  },
  {
    "Word": "unconscious",
-   "Definition": "ožovtomo"
+   "Definition": "jožovtomo"
  },
  {
    "Word": "unconsciously",
@@ -28009,15 +28013,15 @@
  },
  {
    "Word": "underestimate",
-   "Definition": "ačaŕkodemga putoms alkińgavtoź pitne"
- },
- {
-   "Word": "underground",
-   "Definition": "(subway) metropoliten"
+   "Definition": "??ačaŕkodemga putoms alkińgavtoź pitne"
  },
  {
    "Word": "underground",
    "Definition": "modaalksoń"
+ },
+ {
+   "Word": "underground",
+   "Definition": "(subway) metropoliten"
  },
  {
    "Word": "underline",
@@ -28053,7 +28057,7 @@
  },
  {
    "Word": "understatement",
-   "Definition": "a kortamo; śopoma"
+   "Definition": "??a kortamo; śopoma"
  },
  {
    "Word": "undertake",
@@ -28085,7 +28089,7 @@
  },
  {
    "Word": "undo",
-   "Definition": "ukstams (śulmo)"
+   "Definition": "jukstams (śulmo)"
  },
  {
    "Word": "undress",
@@ -28093,7 +28097,7 @@
  },
  {
    "Word": "uneasy",
-   "Definition": "sedejstokicä"
+   "Definition": "??sedejstokicä"
  },
  {
    "Word": "uneducated",
@@ -28117,7 +28121,7 @@
  },
  {
    "Word": "unfair",
-   "Definition": "avoľ videstë tejeź"
+   "Definition": "??avoľ videstë tejeź"
  },
  {
    "Word": "unfaithful",
@@ -28189,7 +28193,7 @@
  },
  {
    "Word": "unimaginable",
-   "Definition": "aarsevicä"
+   "Definition": "??aarsevicä"
  },
  {
    "Word": "unimportant",
@@ -28213,7 +28217,7 @@
  },
  {
    "Word": "unit",
-   "Definition": "edinica"
+   "Definition": "jedinica"
  },
  {
    "Word": "unite",
@@ -28289,7 +28293,7 @@
  },
  {
    "Word": "unnecessary",
-   "Definition": "aëräviks"
+   "Definition": "aeräviks"
  },
  {
    "Word": "unpack",
@@ -28309,7 +28313,7 @@
  },
  {
    "Word": "unreasonable",
-   "Definition": "prevs sajeviks"
+   "Definition": "??prevs sajeviks"
  },
  {
    "Word": "unrest",
@@ -28337,7 +28341,7 @@
  },
  {
    "Word": "unsure",
-   "Definition": "avoľ keme"
+   "Definition": "??avoľ keme"
  },
  {
    "Word": "unthinkable",
@@ -28349,7 +28353,7 @@
  },
  {
    "Word": "untie",
-   "Definition": "uksems"
+   "Definition": "juksems"
  },
  {
    "Word": "until",
@@ -28429,11 +28433,11 @@
  },
  {
    "Word": "urgency",
-   "Definition": "pek eräviks ulema"
+   "Definition": "??pek eräviks ulema"
  },
  {
    "Word": "urgent",
-   "Definition": "pek eräviks"
+   "Definition": "??pek eräviks"
  },
  {
    "Word": "urine",
@@ -28441,7 +28445,7 @@
  },
  {
    "Word": "urn",
-   "Definition": "ceŕkovań pusmo"
+   "Definition": "??ceŕkovań pusmo"
  },
  {
    "Word": "us",
@@ -28449,11 +28453,11 @@
  },
  {
    "Word": "use",
-   "Definition": "noldams tevs"
+   "Definition": "tevsnoldamo"
  },
  {
    "Word": "use",
-   "Definition": "tevsnoldamo"
+   "Definition": "noldams tevs"
  },
  {
    "Word": "useful",
@@ -28521,11 +28525,11 @@
  },
  {
    "Word": "vague",
-   "Definition": "sede točnasto apak jovta"
+   "Definition": "??sede točnasto apak jovta"
  },
  {
    "Word": "vain",
-   "Definition": "stäkoń"
+   "Definition": "??stäkoń"
  },
  {
    "Word": "valiant",
@@ -28533,11 +28537,11 @@
  },
  {
    "Word": "valid",
-   "Definition": "alkuksoń; tevs noldaviks"
+   "Definition": "??alkuksoń; tevs noldaviks"
  },
  {
    "Word": "validity",
-   "Definition": "alkuksči; tevs noldaviksëń"
+   "Definition": "??alkuksči; tevs noldaviksëń"
  },
  {
    "Word": "valley",
@@ -28545,7 +28549,7 @@
  },
  {
    "Word": "valor",
-   "Definition": "apelema"
+   "Definition": "??apelema"
  },
  {
    "Word": "valuable",
@@ -28553,7 +28557,7 @@
  },
  {
    "Word": "valuation",
-   "Definition": "pitneń putoma"
+   "Definition": "??pitneń putoma"
  },
  {
    "Word": "value",
@@ -28597,7 +28601,7 @@
  },
  {
    "Word": "variety",
-   "Definition": "čovarks"
+   "Definition": "??čovarks"
  },
  {
    "Word": "various",
@@ -28653,7 +28657,7 @@
  },
  {
    "Word": "vent",
-   "Definition": "sovamo eli lisema varä"
+   "Definition": "??sovamo eli lisema varä"
  },
  {
    "Word": "ventilate",
@@ -28669,7 +28673,7 @@
  },
  {
    "Word": "verbal",
-   "Definition": "ovtaź"
+   "Definition": "jovtaź"
  },
  {
    "Word": "verdict",
@@ -28685,7 +28689,7 @@
  },
  {
    "Word": "versatile",
-   "Definition": "lamojonksoń"
+   "Definition": "??lamojonksoń"
  },
  {
    "Word": "verse",
@@ -28717,7 +28721,7 @@
  },
  {
    "Word": "veto",
-   "Definition": "a merema; (prävtoń) karšo molema"
+   "Definition": "??a merema; (prävtoń) karšo molema"
  },
  {
    "Word": "vibrate",
@@ -28725,7 +28729,7 @@
  },
  {
    "Word": "vicinity",
-   "Definition": "šabraksči; ??malasoči"
+   "Definition": "??šabraksči; ??malasoči"
  },
  {
    "Word": "victim",
@@ -28745,11 +28749,11 @@
  },
  {
    "Word": "vindicate",
-   "Definition": "nevtems"
+   "Definition": "??nevtems"
  },
  {
    "Word": "vindictive",
-   "Definition": "mstitelnoj"
+   "Definition": "??mstitelnoj"
  },
  {
    "Word": "vine",
@@ -28777,11 +28781,11 @@
  },
  {
    "Word": "violence",
-   "Definition": "vijsë beräń tev"
+   "Definition": "??vijsë beräń tev"
  },
  {
    "Word": "violent",
-   "Definition": "kežej"
+   "Definition": "??kežej"
  },
  {
    "Word": "violin",
@@ -28821,7 +28825,7 @@
  },
  {
    "Word": "visit",
-   "Definition": "akams inžeks; sakšnoms inžeks; tokams"
+   "Definition": "jakams inžeks; sakšnoms inžeks; tokams"
  },
  {
    "Word": "visitor",
@@ -28841,7 +28845,7 @@
  },
  {
    "Word": "vivid",
-   "Definition": "(description) seľms kajatïcä"
+   "Definition": "(description) ??seľms kajatïcä"
  },
  {
    "Word": "vocabulary",
@@ -28849,7 +28853,7 @@
  },
  {
    "Word": "vocation",
-   "Definition": "maštomači"
+   "Definition": "??maštomači"
  },
  {
    "Word": "voice",
@@ -28973,7 +28977,7 @@
  },
  {
    "Word": "walk",
-   "Definition": "utams; molems (algo)"
+   "Definition": "jutams; molems (algo)"
  },
  {
    "Word": "wall",
@@ -28993,15 +28997,15 @@
  },
  {
    "Word": "wander",
-   "Definition": "akams (viŕga-ukštorga)"
- },
- {
-   "Word": "want",
-   "Definition": "(desire) ulems melneń"
+   "Definition": "jakams (viŕga-ukštorga)"
  },
  {
    "Word": "want",
    "Definition": "1. (lack) asatïksči; araź 2. (need) erävoma"
+ },
+ {
+   "Word": "want",
+   "Definition": "(desire) ulems melneń"
  },
  {
    "Word": "war",
@@ -29033,7 +29037,7 @@
  },
  {
    "Word": "warn",
-   "Definition": "predupredäms; jovtams beräń tevde"
+   "Definition": "??predupredäms; jovtams beräń tevde"
  },
  {
    "Word": "warning",
@@ -29057,15 +29061,11 @@
  },
  {
    "Word": "wash",
-   "Definition": "1. (wash in general) šläms 2. (launder) muśkems 3. (wash head) pezëms"
- },
- {
-   "Word": "wash",
    "Definition": "muśkemat"
  },
  {
-   "Word": "washable",
-   "Definition": "muśkeviks"
+   "Word": "wash",
+   "Definition": "1. (wash in general) šläms 2. (launder) muśkems 3. (wash head) pezëms"
  },
  {
    "Word": "wasp",
@@ -29073,7 +29073,7 @@
  },
  {
    "Word": "waste",
-   "Definition": "ortovks; jomavks"
+   "Definition": "jortovks; jomavks"
  },
  {
    "Word": "wasteful",
@@ -29085,7 +29085,7 @@
  },
  {
    "Word": "watch",
-   "Definition": "1. (look) vanoms 2. (maintain) seľmeń kajamo 3. (observe) vanoms kije-buti meľga"
+   "Definition": "1. (look) vanoms 2. (maintain) ??seľmeń kajamo 3. (observe) vanoms kije-buti meľga"
  },
  {
    "Word": "watchful",
@@ -29097,11 +29097,11 @@
  },
  {
    "Word": "water",
-   "Definition": "1. valnoms (plants tikše) 2. simdems (animals rakšat vedte)"
+   "Definition": "veď"
  },
  {
    "Word": "water",
-   "Definition": "veď"
+   "Definition": "1. valnoms (plants tikše) 2. simdems (animals rakšat vedte)"
  },
  {
    "Word": "waterfall",
@@ -29184,10 +29184,6 @@
    "Definition": "(venčamoń) surks"
  },
  {
-   "Word": "Wednesday",
-   "Definition": "sereda; kunškači"
- },
- {
    "Word": "weed",
    "Definition": "dovań traur"
  },
@@ -29217,11 +29213,11 @@
  },
  {
    "Word": "weird",
-   "Definition": "tajinstvennoj"
+   "Definition": "??tajinstvennoj"
  },
  {
    "Word": "welcome",
-   "Definition": "ovtams lomanneń: \"paro sïť\"; vastoms"
+   "Definition": "jovtams lomanneń: \"paro sïť\"; vastoms"
  },
  {
    "Word": "well",
@@ -29305,11 +29301,11 @@
  },
  {
    "Word": "while",
-   "Definition": "-msto/-mstë; zärdo"
+   "Definition": "ška"
  },
  {
    "Word": "while",
-   "Definition": "ška"
+   "Definition": "-msto/-mstë; zärdo"
  },
  {
    "Word": "whine",
@@ -29329,7 +29325,7 @@
  },
  {
    "Word": "whisker",
-   "Definition": "1. (psakań) usat 2."
+   "Definition": "1. (psakań) usat 2. ??"
  },
  {
    "Word": "whisper",
@@ -29393,7 +29389,7 @@
  },
  {
    "Word": "wick",
-   "Definition": "fitiľ"
+   "Definition": "??fitiľ"
  },
  {
    "Word": "wicked",
@@ -29441,7 +29437,7 @@
  },
  {
    "Word": "wilful",
-   "Definition": "nazoj"
+   "Definition": "??nazoj"
  },
  {
    "Word": "will",
@@ -29473,11 +29469,11 @@
  },
  {
    "Word": "wind",
-   "Definition": "(clock) zävodäms"
+   "Definition": "varma"
  },
  {
    "Word": "wind",
-   "Definition": "varma"
+   "Definition": "(clock) zävodäms"
  },
  {
    "Word": "windmill",
@@ -29541,11 +29537,11 @@
  },
  {
    "Word": "wish",
-   "Definition": "1. ulems melneń 2. arsems; altams (someone kineńgak)"
+   "Definition": "meľ"
  },
  {
    "Word": "wish",
-   "Definition": "meľ"
+   "Definition": "1. ulems melneń 2. arsems; altams (someone kineńgak)"
  },
  {
    "Word": "witch",
@@ -29701,7 +29697,7 @@
  },
  {
    "Word": "wreckage",
-   "Definition": "ažavksoń lijadkst"
+   "Definition": "jažavksoń lijadkst"
  },
  {
    "Word": "wrench",
@@ -29736,6 +29732,10 @@
    "Definition": "a vide; a istä"
  },
  {
+   "Word": "Wednesday",
+   "Definition": "sereda; kunškači"
+ },
+ {
    "Word": "x-ray",
    "Definition": "rentgen"
  },
@@ -29749,11 +29749,11 @@
  },
  {
    "Word": "yawn",
-   "Definition": "kurgo avtnems"
+   "Definition": "kurgoń avtnema"
  },
  {
    "Word": "yawn",
-   "Definition": "kurgoń avtnema"
+   "Definition": "kurgo avtnems"
  },
  {
    "Word": "year",
@@ -29841,7 +29841,7 @@
  },
  {
    "Word": "zipper",
-   "Definition": "aki čočamka; zamok"
+   "Definition": "jaki čočamka; zamok"
  },
  {
    "Word": "zone",
