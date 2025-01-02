@@ -44225,7 +44225,7 @@
  },
  {
    "Word": "tyhjä",
-   "Definition": "čavo"
+   "Definition": "vačo"
  },
  {
    "Word": "tyhjäntoimittaja",
@@ -44301,6 +44301,10 @@
  },
  {
    "Word": "tylsä",
+   "Definition": "noška"
+ },
+ {
+   "Word": "tylsämielinen",
    "Definition": "čuvtola"
  },
  {
@@ -44308,52 +44312,48 @@
    "Definition": "noška"
  },
  {
-   "Word": "tylsämielinen",
+   "Word": "tynnyri",
    "Definition": "boćka; stojka"
  },
  {
-   "Word": "tynnyri",
+   "Word": "tynnyrin suuaukko",
    "Definition": "boćkakurgo"
  },
  {
-   "Word": "tynnyrin suuaukko",
+   "Word": "typerys",
    "Definition": "durak"
  },
  {
-   "Word": "typerys",
+   "Word": "tyrkkiä",
    "Definition": "tulkajems"
  },
  {
-   "Word": "tyrkkiä",
+   "Word": "tyrkätä",
    "Definition": "tulkadevems"
  },
  {
-   "Word": "tyrkätä",
+   "Word": "tyrmistyä",
    "Definition": "kundatoms"
  },
  {
-   "Word": "tyrmistyä",
+   "Word": "tyrä",
    "Definition": "grïža"
  },
  {
-   "Word": "tyrä",
+   "Word": "tyräkki",
    "Definition": "čoržav"
  },
  {
-   "Word": "tyräkki",
+   "Word": "tytistä",
    "Definition": "limbams"
  },
  {
-   "Word": "tytistä",
+   "Word": "tyttö",
    "Definition": "tejteŕ"
  },
  {
-   "Word": "tyttö",
-   "Definition": "tejteŕksči"
- },
- {
    "Word": "tyttöaika",
-   "Definition": "tejteŕka"
+   "Definition": "tejteŕksči"
  },
  {
    "Word": "tyttölapsi",
@@ -44361,23 +44361,23 @@
  },
  {
    "Word": "tyttönen",
-   "Definition": "odnasum"
+   "Definition": "tejteŕka"
  },
  {
    "Word": "tyttöystävä",
-   "Definition": "tejteŕ"
+   "Definition": "odnasum"
  },
  {
    "Word": "tytär",
-   "Definition": "meľ vitems"
+   "Definition": "tejteŕ"
  },
  {
    "Word": "tyydyttää",
-   "Definition": "stiľ"
+   "Definition": "meľ vitems"
  },
  {
    "Word": "tyyli",
-   "Definition": "stilistikań"
+   "Definition": "stiľ"
  },
  {
    "Word": "tyyli-",
@@ -44385,34 +44385,38 @@
  },
  {
    "Word": "tyylillinen",
-   "Definition": "stilist"
+   "Definition": "stilistikań"
  },
  {
    "Word": "tyyliniekka",
-   "Definition": "stilistika"
+   "Definition": "stilist"
  },
  {
    "Word": "tyylioppi",
-   "Definition": "zëheľ"
+   "Definition": "stilistika"
  },
  {
    "Word": "tyyni",
-   "Definition": "važdakšnoms"
+   "Definition": "zëheľ"
  },
  {
    "Word": "tyynny teliä",
-   "Definition": "lacems"
+   "Definition": "važdakšnoms"
  },
  {
    "Word": "tyynnytellä",
-   "Definition": "važdams; ojmavtoms"
+   "Definition": "lacems"
  },
  {
    "Word": "tyynnyttää",
-   "Definition": "ojmavks"
+   "Definition": "važdams; ojmavtoms"
  },
  {
    "Word": "tyynnytys",
+   "Definition": "ojmavks"
+ },
+ {
+   "Word": "tyyntyä",
    "Definition": "opšt merems, opšt tejems"
  },
  {
@@ -44420,16 +44424,12 @@
    "Definition": "opšt - opšt merems; opšt tejems"
  },
  {
-   "Word": "tyyntyä",
+   "Word": "tyyny",
    "Definition": "todov"
  },
  {
-   "Word": "tyyny",
-   "Definition": "nakidka"
- },
- {
    "Word": "tyynynpeite",
-   "Definition": "tip"
+   "Definition": "nakidka"
  },
  {
    "Word": "tyyppi",
@@ -44437,47 +44437,47 @@
  },
  {
    "Word": "tyyppi(kuva)",
-   "Definition": "meľ vitems"
+   "Definition": "tip"
  },
  {
    "Word": "tyytyä",
-   "Definition": "robota; služba; tev; trud"
+   "Definition": "meľ vitems"
  },
  {
    "Word": "työ",
-   "Definition": "robočej"
+   "Definition": "robota; služba; tev; trud"
  },
  {
    "Word": "työ-",
-   "Definition": "tabeľ"
+   "Definition": "robočej"
  },
  {
    "Word": "työaikataulu",
-   "Definition": "tabeľščik"
+   "Definition": "tabeľ"
  },
  {
    "Word": "työaikataulun (t. kontrollitaulun) hoitaja",
-   "Definition": "studija"
+   "Definition": "tabeľščik"
  },
  {
    "Word": "työhuone",
-   "Definition": "kundams"
+   "Definition": "studija"
  },
  {
    "Word": "työhön, ryhtyä toimeen",
-   "Definition": "orudija"
+   "Definition": "kundams"
  },
  {
    "Word": "työkalu",
-   "Definition": "instrument"
+   "Definition": "orudija"
  },
  {
    "Word": "työkalut",
-   "Definition": "stanok"
+   "Definition": "instrument"
  },
  {
    "Word": "työkone",
-   "Definition": "robotoposobnoj"
+   "Definition": "stanok"
  },
  {
    "Word": "työkuntoinen",
@@ -44485,223 +44485,223 @@
  },
  {
    "Word": "työkykyinen",
-   "Definition": "robotnica"
- },
- {
-   "Word": "työläinen",
-   "Definition": "robočej"
- },
- {
-   "Word": "työläis",
-   "Definition": "robotnica"
- },
- {
-   "Word": "työläisnainen",
-   "Definition": "tevev"
- },
- {
-   "Word": "työläs",
-   "Definition": "objekt"
- },
- {
-   "Word": "työmaa",
-   "Definition": "robotnik"
- },
- {
-   "Word": "työmies",
-   "Definition": "truženik"
- },
- {
-   "Word": "työmyyrä",
-   "Definition": "tejevks"
- },
- {
-   "Word": "työn lopputulos",
-   "Definition": "jovkstnems"
- },
- {
-   "Word": "työnnellä",
-   "Definition": "sotrudnik"
- },
- {
-   "Word": "työntekijä",
-   "Definition": "štat"
- },
- {
-   "Word": "työntekijäkunta",
-   "Definition": "kadrat"
- },
- {
-   "Word": "työntekijät",
-   "Definition": "robota"
- },
- {
-   "Word": "työnteko",
-   "Definition": "tulkadevems; evkstavoms; ecevems; ecems"
- },
- {
-   "Word": "työntyä",
-   "Definition": "jovkstams; tulkadems"
- },
- {
-   "Word": "työntää",
-   "Definition": "kopťams"
- },
- {
-   "Word": "työntää nokea",
-   "Definition": "tačka"
- },
- {
-   "Word": "työntökärryt",
-   "Definition": "tabeľ"
- },
- {
-   "Word": "työnumero",
-   "Definition": "ceh"
- },
- {
-   "Word": "työosasto",
-   "Definition": "služba"
- },
- {
-   "Word": "työpaikka",
-   "Definition": "masterskoj"
- },
- {
-   "Word": "työpaja",
-   "Definition": "stanok"
- },
- {
-   "Word": "työpenkki",
-   "Definition": "dispetčer"
- },
- {
-   "Word": "työprosessin valvoja",
-   "Definition": "sťakoči"
- },
- {
-   "Word": "työpäivä",
-   "Definition": "trudoči"
- },
- {
-   "Word": "työpäiväyksikkö",
-   "Definition": "otŕad"
- },
- {
-   "Word": "työryhmä",
-   "Definition": "zvena"
- },
- {
-   "Word": "työryhmä (kolhoosissa)",
-   "Definition": "stomams; truďams; funkcionirovams"
- },
- {
-   "Word": "työskennellä",
-   "Definition": "važodems"
- },
- {
-   "Word": "työskennellä (ahkerasti)",
-   "Definition": "rožodomoms"
- },
- {
-   "Word": "työskennellä innokkaasti",
-   "Definition": "śavtams"
- },
- {
-   "Word": "työskennellä paljon",
-   "Definition": "obrabotka"
- },
- {
-   "Word": "työstö",
-   "Definition": "halat"
- },
- {
-   "Word": "työtakki",
    "Definition": "robotoposobnoj"
  },
  {
-   "Word": "työteliäs",
-   "Definition": "attestat"
+   "Word": "työläinen",
+   "Definition": "robotnica"
  },
  {
-   "Word": "työtodistus",
-   "Definition": "sotrudnik"
- },
- {
-   "Word": "työtoveri",
-   "Definition": "bezrabotica"
- },
- {
-   "Word": "työttömyys",
-   "Definition": "bezrabotnoj"
- },
- {
-   "Word": "työtön",
-   "Definition": "smena"
- },
- {
-   "Word": "työvuoro",
+   "Word": "työläis",
    "Definition": "robočej"
  },
  {
+   "Word": "työläisnainen",
+   "Definition": "robotnica"
+ },
+ {
+   "Word": "työläs",
+   "Definition": "tevev"
+ },
+ {
+   "Word": "työmaa",
+   "Definition": "objekt"
+ },
+ {
+   "Word": "työmies",
+   "Definition": "robotnik"
+ },
+ {
+   "Word": "työmyyrä",
+   "Definition": "truženik"
+ },
+ {
+   "Word": "työn lopputulos",
+   "Definition": "tejevks"
+ },
+ {
+   "Word": "työnnellä",
+   "Definition": "jovkstnems"
+ },
+ {
+   "Word": "työntekijä",
+   "Definition": "sotrudnik"
+ },
+ {
+   "Word": "työntekijäkunta",
+   "Definition": "štat"
+ },
+ {
+   "Word": "työntekijät",
+   "Definition": "kadrat"
+ },
+ {
+   "Word": "työnteko",
+   "Definition": "robota"
+ },
+ {
+   "Word": "työntyä",
+   "Definition": "tulkadevems; evkstavoms; ecevems; ecems"
+ },
+ {
+   "Word": "työntää",
+   "Definition": "jovkstams; tulkadems"
+ },
+ {
+   "Word": "työntää nokea",
+   "Definition": "kopťams"
+ },
+ {
+   "Word": "työntökärryt",
+   "Definition": "tačka"
+ },
+ {
+   "Word": "työnumero",
+   "Definition": "tabeľ"
+ },
+ {
+   "Word": "työosasto",
+   "Definition": "ceh"
+ },
+ {
+   "Word": "työpaikka",
+   "Definition": "služba"
+ },
+ {
+   "Word": "työpaja",
+   "Definition": "masterskoj"
+ },
+ {
+   "Word": "työpenkki",
+   "Definition": "stanok"
+ },
+ {
+   "Word": "työprosessin valvoja",
+   "Definition": "dispetčer"
+ },
+ {
+   "Word": "työpäivä",
+   "Definition": "sťakoči"
+ },
+ {
+   "Word": "työpäiväyksikkö",
+   "Definition": "trudoči"
+ },
+ {
+   "Word": "työryhmä",
+   "Definition": "otŕad"
+ },
+ {
+   "Word": "työryhmä (kolhoosissa)",
+   "Definition": "zvena"
+ },
+ {
+   "Word": "työskennellä",
+   "Definition": "stomams; truďams; funkcionirovams"
+ },
+ {
+   "Word": "työskennellä (ahkerasti)",
+   "Definition": "važodems"
+ },
+ {
+   "Word": "työskennellä innokkaasti",
+   "Definition": "rožodomoms"
+ },
+ {
+   "Word": "työskennellä paljon",
+   "Definition": "śavtams"
+ },
+ {
+   "Word": "työstö",
+   "Definition": "obrabotka"
+ },
+ {
+   "Word": "työtakki",
+   "Definition": "halat"
+ },
+ {
+   "Word": "työteliäs",
+   "Definition": "robotoposobnoj"
+ },
+ {
+   "Word": "työtodistus",
+   "Definition": "attestat"
+ },
+ {
+   "Word": "työtoveri",
+   "Definition": "sotrudnik"
+ },
+ {
+   "Word": "työttömyys",
+   "Definition": "bezrabotica"
+ },
+ {
+   "Word": "työtön",
+   "Definition": "bezrabotnoj"
+ },
+ {
+   "Word": "työvuoro",
+   "Definition": "smena"
+ },
+ {
    "Word": "työväen-",
-   "Definition": "instrument"
+   "Definition": "robočej"
  },
  {
    "Word": "työvälineet",
-   "Definition": "teštevteme"
+   "Definition": "instrument"
  },
  {
    "Word": "tähdetön",
-   "Definition": "sozvezdija"
+   "Definition": "teštevteme"
  },
  {
    "Word": "tähdistö",
-   "Definition": "ceľams"
- },
- {
-   "Word": "tähdätä",
-   "Definition": "kolośams"
- },
- {
-   "Word": "tähkiä",
-   "Definition": "koloz"
- },
- {
-   "Word": "tähkä",
-   "Definition": "nardavks"
- },
- {
-   "Word": "tähteet",
-   "Definition": "tešte"
- },
- {
-   "Word": "tähti",
-   "Definition": "teštev"
- },
- {
-   "Word": "tähti-",
    "Definition": "sozvezdija"
  },
  {
-   "Word": "tähtikuvio",
+   "Word": "tähdätä",
+   "Definition": "ceľams"
+ },
+ {
+   "Word": "tähkiä",
+   "Definition": "kolośams"
+ },
+ {
+   "Word": "tähkä",
+   "Definition": "koloz"
+ },
+ {
+   "Word": "tähteet",
+   "Definition": "nardavks"
+ },
+ {
+   "Word": "tähti",
+   "Definition": "tešte"
+ },
+ {
+   "Word": "tähti-",
    "Definition": "teštev"
  },
  {
+   "Word": "tähtikuvio",
+   "Definition": "sozvezdija"
+ },
+ {
    "Word": "tähtinen",
-   "Definition": "sevŕuga"
+   "Definition": "teštev"
  },
  {
    "Word": "tähtisampi",
-   "Definition": "astronomija"
+   "Definition": "sevŕuga"
  },
  {
    "Word": "tähtitiede",
-   "Definition": "astronom"
+   "Definition": "astronomija"
  },
  {
    "Word": "tähtitieteilijä",
-   "Definition": "pricel"
+   "Definition": "astronom"
  },
  {
    "Word": "tähtäin",
@@ -44709,31 +44709,31 @@
  },
  {
    "Word": "tähtäys",
-   "Definition": "sems"
+   "Definition": "pricel"
  },
  {
    "Word": "tähän asti",
-   "Definition": "tečims"
+   "Definition": "sems"
  },
  {
    "Word": "tähän päivään asti",
-   "Definition": "sij"
+   "Definition": "tečims"
  },
  {
    "Word": "täi",
-   "Definition": "sijev"
+   "Definition": "sij"
  },
  {
    "Word": "täinen",
-   "Definition": "teskeń; testëń; tesëń"
+   "Definition": "sijev"
  },
  {
    "Word": "täkäläinen",
-   "Definition": "isťamo"
+   "Definition": "teskeń; testëń; tesëń"
  },
  {
    "Word": "tällainen",
-   "Definition": "te"
+   "Definition": "isťamo"
  },
  {
    "Word": "tämä",
@@ -44741,7 +44741,7 @@
  },
  {
    "Word": "tämä",
-   "Definition": "teči"
+   "Definition": "te"
  },
  {
    "Word": "tämä päivä",
@@ -44753,27 +44753,27 @@
  },
  {
    "Word": "tänään",
-   "Definition": "drangajems"
+   "Definition": "teči"
  },
  {
    "Word": "täristellä",
-   "Definition": "dernems; zujnems; sorkstnems; ternems"
+   "Definition": "drangajems"
  },
  {
    "Word": "täristä",
-   "Definition": "drangadems"
+   "Definition": "dernems; zujnems; sorkstnems; ternems"
  },
  {
    "Word": "täristää",
-   "Definition": "ternevtems"
+   "Definition": "drangadems"
  },
  {
    "Word": "tärisyttää",
-   "Definition": "glavnoj"
+   "Definition": "ternevtems"
  },
  {
    "Word": "tärkein",
-   "Definition": "eŕaviks"
+   "Definition": "glavnoj"
  },
  {
    "Word": "tärkeä",
@@ -44781,7 +44781,7 @@
  },
  {
    "Word": "tärkeä",
-   "Definition": "krahmal"
+   "Definition": "eŕaviks"
  },
  {
    "Word": "tärkkelys",
@@ -44789,31 +44789,31 @@
  },
  {
    "Word": "tärkkelysjauho",
-   "Definition": "krahmaľams"
+   "Definition": "krahmal"
  },
  {
    "Word": "tärkätä",
-   "Definition": "skipidar"
+   "Definition": "krahmaľams"
  },
  {
    "Word": "tärpätti",
-   "Definition": "punktuaľnosť"
+   "Definition": "skipidar"
  },
  {
    "Word": "täsmällisyys",
-   "Definition": "paťa"
+   "Definition": "punktuaľnosť"
  },
  {
    "Word": "täti",
-   "Definition": "soveršennoj"
+   "Definition": "paťa"
  },
  {
    "Word": "täydellinen",
-   "Definition": "komplektovams"
+   "Definition": "soveršennoj"
  },
  {
    "Word": "täydentää",
-   "Definition": "peškse"
+   "Definition": "komplektovams"
  },
  {
    "Word": "täynnä",
@@ -44829,11 +44829,11 @@
  },
  {
    "Word": "täysi",
-   "Definition": "komplekt"
+   "Definition": "peškse"
  },
  {
    "Word": "täysi määrä",
-   "Definition": "pansion"
+   "Definition": "komplekt"
  },
  {
    "Word": "täysihoito",
@@ -44841,7 +44841,7 @@
  },
  {
    "Word": "täysihoitola",
-   "Definition": "čučela"
+   "Definition": "pansion"
  },
  {
    "Word": "täytetty eläin",
@@ -44849,215 +44849,215 @@
  },
  {
    "Word": "täytetty lintu",
-   "Definition": "peškedems; topodems"
+   "Definition": "čučela"
  },
  {
    "Word": "täyttyä",
-   "Definition": "ispolniteľ"
+   "Definition": "peškedems; topodems"
  },
  {
    "Word": "täyttäjä",
-   "Definition": "tocťams"
+   "Definition": "ispolniteľ"
  },
  {
    "Word": "täyttää",
-   "Definition": "farširovams"
+   "Definition": "tocťams"
  },
  {
    "Word": "täyttää (murekkeella)",
-   "Definition": "topodems"
+   "Definition": "farširovams"
  },
  {
    "Word": "täyttää (vuosia)",
-   "Definition": "letems; savoms; eŕavoms"
+   "Definition": "topodems"
  },
  {
    "Word": "täytyä",
-   "Definition": "ekzekucija"
+   "Definition": "letems; savoms; eŕavoms"
  },
  {
    "Word": "täytäntöönpano",
-   "Definition": "tesë"
+   "Definition": "ekzekucija"
  },
  {
    "Word": "täällä",
-   "Definition": "neŕams"
+   "Definition": "tesë"
  },
  {
    "Word": "tökkiä",
-   "Definition": "šikadems"
+   "Definition": "neŕams"
  },
  {
    "Word": "tökätä",
-   "Definition": "banka"
+   "Definition": "šikadems"
  },
  {
    "Word": "tölkki",
-   "Definition": "dubor"
+   "Definition": "banka"
  },
  {
    "Word": "töminä",
-   "Definition": "topajems"
+   "Definition": "dubor"
  },
  {
    "Word": "tömisyttää",
-   "Definition": "dubordoms"
+   "Definition": "topajems"
  },
  {
    "Word": "tömisyttää jalkojaan",
-   "Definition": "topadems"
+   "Definition": "dubordoms"
  },
  {
    "Word": "tömäyttää",
-   "Definition": "ertems"
+   "Definition": "topadems"
  },
  {
    "Word": "tönäistä",
-   "Definition": "eškevems"
+   "Definition": "ertems"
  },
  {
    "Word": "törmätä",
-   "Definition": "vasodevems"
+   "Definition": "eškevems"
  },
  {
    "Word": "törmätä toisiinsa",
-   "Definition": "peskaŕ"
+   "Definition": "vasodevems"
  },
  {
    "Word": "törö",
-   "Definition": "ćoko"
+   "Definition": "peskaŕ"
  },
  {
    "Word": "töyhtö",
-   "Definition": "piteŕkaj"
+   "Definition": "ćoko"
  },
  {
    "Word": "töyhtöhyyppä",
-   "Definition": "reśmedems"
+   "Definition": "piteŕkaj"
  },
  {
    "Word": "töytäistä",
-   "Definition": "penzams"
+   "Definition": "reśmedems"
  },
  {
    "Word": "udella",
-   "Definition": "udmurtoń"
+   "Definition": "penzams"
  },
  {
    "Word": "udmurtin",
-   "Definition": "udmurt"
- },
- {
-   "Word": "udmurtti",
    "Definition": "udmurtoń"
  },
  {
+   "Word": "udmurtti",
+   "Definition": "udmurt"
+ },
+ {
    "Word": "udmurtti-",
-   "Definition": "ultimatum"
+   "Definition": "udmurtoń"
  },
  {
    "Word": "uhkavaatimus",
-   "Definition": "oznoms"
+   "Definition": "ultimatum"
  },
  {
    "Word": "uhrata",
-   "Definition": "žertva"
+   "Definition": "oznoms"
  },
  {
    "Word": "uhraus",
-   "Definition": "ozks"
+   "Definition": "žertva"
  },
  {
    "Word": "uhri",
-   "Definition": "ozaťa"
+   "Definition": "ozks"
  },
  {
    "Word": "uhripappi",
-   "Definition": "ekšeľams"
+   "Definition": "ozaťa"
  },
  {
    "Word": "uida",
-   "Definition": "ušoń"
+   "Definition": "ekšeľams"
  },
  {
    "Word": "uiko-",
-   "Definition": "pľaž"
- },
- {
-   "Word": "uimaranta",
-   "Definition": "ujića"
- },
- {
-   "Word": "uimari",
-   "Definition": "nuvsems"
- },
- {
-   "Word": "uinua",
-   "Definition": "ukšnoms"
- },
- {
-   "Word": "uiskennella",
-   "Definition": "vizdems"
- },
- {
-   "Word": "ujostella",
-   "Definition": "vizdema"
- },
- {
-   "Word": "ujous",
-   "Definition": "aťa"
- },
- {
-   "Word": "ukko",
-   "Definition": "normaľ"
- },
- {
-   "Word": "ukkomansikka",
-   "Definition": "puŕgine"
- },
- {
-   "Word": "ukkonen",
-   "Definition": "aťalgadoms"
- },
- {
-   "Word": "ukkoutua",
-   "Definition": "Ukrajina"
- },
- {
-   "Word": "Ukraina",
-   "Definition": "ukrajinskoj"
- },
- {
-   "Word": "ukrainalainen",
-   "Definition": "zaporožec"
- },
- {
-   "Word": "ukrainalainen auto",
-   "Definition": "ukrajinskoj"
- },
- {
-   "Word": "ukrainalais-",
-   "Definition": "ïrnëms"
- },
- {
-   "Word": "ulista",
-   "Definition": "otvaga"
- },
- {
-   "Word": "uljuus",
-   "Definition": "oformlenija"
- },
- {
-   "Word": "ulkoasu",
-   "Definition": "veneľks; ušo"
- },
- {
-   "Word": "ulkoilma",
    "Definition": "ušoń"
  },
  {
+   "Word": "uimaranta",
+   "Definition": "pľaž"
+ },
+ {
+   "Word": "uimari",
+   "Definition": "ujića"
+ },
+ {
+   "Word": "uinua",
+   "Definition": "nuvsems"
+ },
+ {
+   "Word": "uiskennella",
+   "Definition": "ukšnoms"
+ },
+ {
+   "Word": "ujostella",
+   "Definition": "vizdems"
+ },
+ {
+   "Word": "ujous",
+   "Definition": "vizdema"
+ },
+ {
+   "Word": "ukko",
+   "Definition": "aťa"
+ },
+ {
+   "Word": "ukkomansikka",
+   "Definition": "normaľ"
+ },
+ {
+   "Word": "ukkonen",
+   "Definition": "puŕgine"
+ },
+ {
+   "Word": "ukkoutua",
+   "Definition": "aťalgadoms"
+ },
+ {
+   "Word": "Ukraina",
+   "Definition": "Ukrajina"
+ },
+ {
+   "Word": "ukrainalainen",
+   "Definition": "ukrajinskoj"
+ },
+ {
+   "Word": "ukrainalainen auto",
+   "Definition": "zaporožec"
+ },
+ {
+   "Word": "ukrainalais-",
+   "Definition": "ukrajinskoj"
+ },
+ {
+   "Word": "ulista",
+   "Definition": "ïrnëms"
+ },
+ {
+   "Word": "uljuus",
+   "Definition": "otvaga"
+ },
+ {
+   "Word": "ulkoasu",
+   "Definition": "oformlenija"
+ },
+ {
+   "Word": "ulkoilma",
+   "Definition": "veneľks; ušo"
+ },
+ {
    "Word": "ulkoinen",
-   "Definition": "inostrannoj"
+   "Definition": "ušoń"
  },
  {
    "Word": "ulkolainen",
@@ -45069,83 +45069,83 @@
  },
  {
    "Word": "ulkomainen",
-   "Definition": "ušoso"
+   "Definition": "inostrannoj"
  },
  {
    "Word": "ulkona",
-   "Definition": "ťus; čačo"
+   "Definition": "ušoso"
  },
  {
    "Word": "ulkonäkö",
-   "Definition": "ušo"
+   "Definition": "ťus; čačo"
  },
  {
    "Word": "ulkopuoli",
-   "Definition": "ikelepeľks"
+   "Definition": "ušo"
  },
  {
    "Word": "ulkopuoli (vaatteen yms.)",
-   "Definition": "korobka"
+   "Definition": "ikelepeľks"
  },
  {
    "Word": "ulkoseinät",
-   "Definition": "nupaľ"
+   "Definition": "korobka"
  },
  {
    "Word": "ullakkokamari",
-   "Definition": "lisems-sovams"
+   "Definition": "nupaľ"
  },
  {
    "Word": "ulos ja sisään",
-   "Definition": "opiś"
+   "Definition": "lisems-sovams"
  },
  {
    "Word": "ulosmittaus",
-   "Definition": "gubuška"
+   "Definition": "opiś"
  },
  {
    "Word": "ulpukka",
-   "Definition": "uvnoms; urnoms"
+   "Definition": "gubuška"
  },
  {
    "Word": "ulvoa",
-   "Definition": "uvt"
+   "Definition": "uvnoms; urnoms"
  },
  {
    "Word": "ulvonta",
-   "Definition": "ťuk"
+   "Definition": "uvt"
  },
  {
    "Word": "umpikuja",
-   "Definition": "konservirovams"
+   "Definition": "ťuk"
  },
  {
    "Word": "umpioida",
-   "Definition": "on; udoma"
+   "Definition": "konservirovams"
  },
  {
    "Word": "uni",
-   "Definition": "mako"
+   "Definition": "on; udoma"
  },
  {
    "Word": "unikko",
-   "Definition": "mundir"
+   "Definition": "mako"
  },
  {
    "Word": "univormu",
-   "Definition": "madjar"
+   "Definition": "mundir"
  },
  {
    "Word": "unkarilainen",
-   "Definition": "stuvtoms"
+   "Definition": "madjar"
  },
  {
    "Word": "unohtaa",
-   "Definition": "stuvtovoms"
+   "Definition": "stuvtoms"
  },
  {
    "Word": "unohtua",
-   "Definition": "puh"
+   "Definition": "stuvtovoms"
  },
  {
    "Word": "untuvahöyhenet",
@@ -45157,83 +45157,83 @@
  },
  {
    "Word": "untuvavilla",
-   "Definition": "rusla"
+   "Definition": "puh"
  },
  {
    "Word": "uoma",
-   "Definition": "vajams"
+   "Definition": "rusla"
  },
  {
    "Word": "upota",
-   "Definition": "vajavtoms; čopavtoms"
+   "Definition": "vajams"
  },
  {
    "Word": "upottaa",
-   "Definition": "tombaka"
+   "Definition": "vajavtoms; čopavtoms"
  },
  {
    "Word": "upottava",
-   "Definition": "vajamka"
+   "Definition": "tombaka"
  },
  {
    "Word": "upottava paikka",
-   "Definition": "oficer"
+   "Definition": "vajamka"
  },
  {
    "Word": "upseeri",
-   "Definition": "čapo"
+   "Definition": "oficer"
  },
  {
    "Word": "ura",
-   "Definition": "podŕad"
+   "Definition": "čapo"
  },
  {
    "Word": "urakka",
-   "Definition": "fizkuľturnik"
+   "Definition": "podŕad"
  },
  {
    "Word": "urheilija",
-   "Definition": "sport"
+   "Definition": "fizkuľturnik"
  },
  {
    "Word": "urheilu",
-   "Definition": "stadion"
+   "Definition": "sport"
  },
  {
    "Word": "urheilukenttä",
-   "Definition": "fizkuľturań kružok"
+   "Definition": "stadion"
  },
  {
    "Word": "urheilukerho",
-   "Definition": "olimpiada"
+   "Definition": "fizkuľturań kružok"
  },
  {
    "Word": "urheilukisat",
-   "Definition": "otvaga"
+   "Definition": "olimpiada"
  },
  {
    "Word": "urheus",
-   "Definition": "maraľa"
+   "Definition": "otvaga"
  },
  {
    "Word": "urho",
-   "Definition": "gerojizma"
+   "Definition": "maraľa"
  },
  {
    "Word": "urhoollisuus",
-   "Definition": "špion"
+   "Definition": "gerojizma"
  },
  {
    "Word": "urkkija",
-   "Definition": "aťaka"
+   "Definition": "špion"
  },
  {
    "Word": "uros",
-   "Definition": "sëńškaj"
+   "Definition": "aťaka"
  },
  {
    "Word": "urossorsa",
-   "Definition": "podvig"
+   "Definition": "sëńškaj"
  },
  {
    "Word": "uroteko",
@@ -45241,62 +45241,66 @@
  },
  {
    "Word": "urotyö",
-   "Definition": "ćućov"
+   "Definition": "podvig"
  },
  {
    "Word": "urpu",
-   "Definition": "organ"
+   "Definition": "ćućov"
  },
  {
    "Word": "urut",
-   "Definition": "ŕad"
+   "Definition": "organ"
  },
  {
    "Word": "useat",
-   "Definition": "smeľčak"
+   "Definition": "ŕad"
  },
  {
    "Word": "uskalikko",
-   "Definition": "risk"
+   "Definition": "smeľčak"
  },
  {
    "Word": "uskallus",
-   "Definition": "smejams"
+   "Definition": "risk"
  },
  {
    "Word": "uskaltaa",
-   "Definition": "kemema; religija"
+   "Definition": "smejams"
  },
  {
    "Word": "usko",
-   "Definition": "kemems"
+   "Definition": "kemema; religija"
  },
  {
    "Word": "uskoa",
-   "Definition": "dogmat"
+   "Definition": "kemems"
  },
  {
    "Word": "uskonkappale",
-   "Definition": "reformacija"
+   "Definition": "dogmat"
  },
  {
    "Word": "uskonpuhdistus",
-   "Definition": "religija"
+   "Definition": "reformacija"
  },
  {
    "Word": "uskonto",
-   "Definition": "vnušenija"
+   "Definition": "religija"
  },
  {
    "Word": "uskottelu",
-   "Definition": "uzavtoms"
+   "Definition": "vnušenija"
  },
  {
    "Word": "usuttaa",
-   "Definition": "suv; tuman"
+   "Definition": "uzavtoms"
  },
  {
    "Word": "usva",
+   "Definition": "suv; tuman"
+ },
+ {
+   "Word": "usvainen",
    "Definition": "suvov"
  },
  {
@@ -45304,112 +45308,108 @@
    "Definition": "tumanov"
  },
  {
-   "Word": "usvainen",
+   "Word": "utare",
    "Definition": "odar"
  },
  {
-   "Word": "utare",
+   "Word": "utopia",
    "Definition": "utopija"
  },
  {
-   "Word": "utopia",
+   "Word": "utopisti",
    "Definition": "utopist"
  },
  {
-   "Word": "utopisti",
+   "Word": "utu",
    "Definition": "tuman"
  },
  {
-   "Word": "utu",
+   "Word": "uudelleen",
    "Definition": "tago"
  },
  {
-   "Word": "uudelleen",
+   "Word": "uudelleenjärjestely",
    "Definition": "reorganizacija"
  },
  {
-   "Word": "uudelleenjärjestely",
+   "Word": "uudestirakentaa",
    "Definition": "rekonstrujirovams"
  },
  {
-   "Word": "uudestirakentaa",
-   "Definition": "rekonstrukcija"
- },
- {
    "Word": "uudestirakentaminen",
-   "Definition": "rekonstruktivnoj"
+   "Definition": "rekonstrukcija"
  },
  {
    "Word": "uudestirakentamis-",
-   "Definition": "rekonstrukcija"
+   "Definition": "rekonstruktivnoj"
  },
  {
    "Word": "uudestirakentuminen",
-   "Definition": "zanaveska"
+   "Definition": "rekonstrukcija"
  },
  {
    "Word": "uudin",
-   "Definition": "celina"
+   "Definition": "zanaveska"
  },
  {
    "Word": "uudismaa",
-   "Definition": "odomtoms"
+   "Definition": "celina"
  },
  {
    "Word": "uudistaa",
-   "Definition": "reformator"
+   "Definition": "odomtoms"
  },
  {
    "Word": "uudistaja",
-   "Definition": "reprodukcija"
+   "Definition": "reformator"
  },
  {
    "Word": "uudistava mieltämistoiminta",
-   "Definition": "odkstomoms"
+   "Definition": "reprodukcija"
  },
  {
    "Word": "uudistua",
-   "Definition": "reforma"
+   "Definition": "odkstomoms"
  },
  {
    "Word": "uudistus",
-   "Definition": "pećka"
+   "Definition": "reforma"
  },
  {
    "Word": "uuni",
-   "Definition": "uhvat"
+   "Definition": "pećka"
  },
  {
    "Word": "uunihaarukka",
-   "Definition": "veškezem"
+   "Definition": "uhvat"
  },
  {
    "Word": "uunin vieressä oleva penkki",
-   "Definition": "kašlango"
+   "Definition": "veškezem"
  },
  {
    "Word": "uuninpankko",
-   "Definition": "tombalango"
+   "Definition": "kašlango"
  },
  {
    "Word": "uuninsuu",
-   "Definition": "sizems; stalgadoms; stomavoms; teľkemems"
+   "Definition": "tombalango"
  },
  {
    "Word": "uupua",
-   "Definition": "truženik"
+   "Definition": "sizems; stalgadoms; stomavoms; teľkemems"
  },
  {
    "Word": "uurastaja",
-   "Definition": "urna"
+   "Definition": "truženik"
  },
  {
    "Word": "uurna",
-   "Definition": "utra"
+   "Definition": "urna"
  },
  {
    "Word": "uurre (tynnyrissä, saavissa)",
-   "Definition": "od"
+   "Definition": "utra"
  },
  {
    "Word": "uusi",
@@ -45417,19 +45417,19 @@
  },
  {
    "Word": "uusi",
-   "Definition": "od ije"
+   "Definition": "od"
  },
  {
    "Word": "uusi vuosi",
-   "Definition": "ekstrakt"
+   "Definition": "od ije"
  },
  {
    "Word": "uute",
-   "Definition": "zametka; kuľa"
+   "Definition": "ekstrakt"
  },
  {
    "Word": "uutinen",
-   "Definition": "hronika"
+   "Definition": "zametka; kuľa"
  },
  {
    "Word": "uutisfilmi",
@@ -45441,31 +45441,31 @@
  },
  {
    "Word": "uutisosasto",
-   "Definition": "reportaž"
+   "Definition": "hronika"
  },
  {
    "Word": "uutistenhankinta",
-   "Definition": "reporťor"
+   "Definition": "reportaž"
  },
  {
    "Word": "uutistenhankkija",
-   "Definition": "ekstrakt"
+   "Definition": "reporťor"
  },
  {
    "Word": "uutos",
-   "Definition": "stomams"
+   "Definition": "ekstrakt"
  },
  {
    "Word": "uuvuttaa",
-   "Definition": "mućavtoms"
+   "Definition": "stomams"
  },
  {
    "Word": "uuvuttaa, näännyttää",
-   "Definition": "uzbek"
+   "Definition": "mućavtoms"
  },
  {
    "Word": "uzbekki",
-   "Definition": "uzbekeń"
+   "Definition": "uzbek"
  },
  {
    "Word": "uzbekki-",
@@ -45473,27 +45473,27 @@
  },
  {
    "Word": "uzbekkilainen",
-   "Definition": "pretenzija"
+   "Definition": "uzbekeń"
  },
  {
    "Word": "vaade",
-   "Definition": "čovijams"
+   "Definition": "pretenzija"
  },
  {
    "Word": "vaahdota",
-   "Definition": "čovijavtoms"
+   "Definition": "čovijams"
  },
  {
    "Word": "vaahdottaa",
-   "Definition": "ukštor"
+   "Definition": "čovijavtoms"
  },
  {
    "Word": "vaahtera",
-   "Definition": "penkś; čov"
+   "Definition": "ukštor"
  },
  {
    "Word": "vaahto",
-   "Definition": "čovov"
+   "Definition": "penkś; čov"
  },
  {
    "Word": "vaahtoava",
@@ -45505,34 +45505,38 @@
  },
  {
    "Word": "vaahtoisa",
-   "Definition": "nivelirovams"
+   "Definition": "čovov"
  },
  {
    "Word": "vaaita",
-   "Definition": "nivelirovka"
+   "Definition": "nivelirovams"
  },
  {
    "Word": "vaaitus",
-   "Definition": "nivelir"
+   "Definition": "nivelirovka"
  },
  {
    "Word": "vaaituskone",
-   "Definition": "rejka"
+   "Definition": "nivelir"
  },
  {
    "Word": "vaaitustanko",
-   "Definition": "vaks"
+   "Definition": "rejka"
  },
  {
    "Word": "vaaksa",
-   "Definition": "gerb"
+   "Definition": "vaks"
  },
  {
    "Word": "vaakuna",
-   "Definition": "valdo"
+   "Definition": "gerb"
  },
  {
    "Word": "vaalea",
+   "Definition": "valdo"
+ },
+ {
+   "Word": "vaaleahko",
    "Definition": "ašola"
  },
  {
@@ -45540,140 +45544,136 @@
    "Definition": "ašine"
  },
  {
-   "Word": "vaaleahko",
+   "Word": "vaalean-",
    "Definition": "ašnaza"
  },
  {
-   "Word": "vaalean-",
+   "Word": "vaaleanruunikko",
    "Definition": "savrasoj"
  },
  {
-   "Word": "vaaleanruunikko",
+   "Word": "vaaleta",
    "Definition": "ašolgadokšnoms; ašolgadoms; valdomkšnoms; valdomoms"
  },
  {
-   "Word": "vaaleta",
+   "Word": "vaaleus",
    "Definition": "valdoči"
  },
  {
-   "Word": "vaaleus",
+   "Word": "vaalia",
    "Definition": "meľ kirdems"
  },
  {
-   "Word": "vaalia",
+   "Word": "vaan",
    "Definition": "a"
  },
  {
-   "Word": "vaan",
+   "Word": "vaappua",
    "Definition": "ajmeldems"
  },
  {
-   "Word": "vaappua",
+   "Word": "vaarantaa",
    "Definition": "riskovams"
  },
  {
-   "Word": "vaarantaa",
+   "Word": "vaari",
    "Definition": "boďa"
  },
  {
-   "Word": "vaari",
+   "Word": "vaasi",
    "Definition": "vaza"
  },
  {
-   "Word": "vaasi",
-   "Definition": "garderob"
- },
- {
    "Word": "vaatekomero",
-   "Definition": "vešalka"
+   "Definition": "garderob"
  },
  {
    "Word": "vaatenaulakko",
-   "Definition": "garderob"
+   "Definition": "vešalka"
  },
  {
    "Word": "vaatesäilö",
-   "Definition": "obmundirovams"
+   "Definition": "garderob"
  },
  {
    "Word": "vaatettaa",
-   "Definition": "obmundirovanija"
+   "Definition": "obmundirovams"
  },
  {
    "Word": "vaatetus",
-   "Definition": "pretendovams"
+   "Definition": "obmundirovanija"
  },
  {
    "Word": "vaatia",
-   "Definition": "pretendent"
+   "Definition": "pretendovams"
  },
  {
    "Word": "vaatija",
-   "Definition": "skromnojči"
+   "Definition": "pretendent"
  },
  {
    "Word": "vaatimattomuus",
-   "Definition": "pretenzija"
+   "Definition": "skromnojči"
  },
  {
    "Word": "vaatimus",
-   "Definition": "parolks"
+   "Definition": "pretenzija"
  },
  {
    "Word": "vaatteen ulkopuoli",
-   "Definition": "oršamopeľ"
+   "Definition": "parolks"
  },
  {
    "Word": "vaatteet",
-   "Definition": "vedjinzej; inzej"
+   "Definition": "oršamopeľ"
  },
  {
    "Word": "vadelma",
-   "Definition": "inzejks"
+   "Definition": "vedjinzej; inzej"
  },
  {
    "Word": "vadelmapensas",
-   "Definition": "šta"
+   "Definition": "inzejks"
  },
  {
    "Word": "vaha",
-   "Definition": "vrednoj; zïjanov"
+   "Definition": "šta"
  },
  {
    "Word": "vahingollinen",
-   "Definition": "vrediteľ"
+   "Definition": "vrednoj; zïjanov"
  },
  {
    "Word": "vahingontekijä",
-   "Definition": "žaľ; zïjan"
+   "Definition": "vrediteľ"
  },
  {
    "Word": "vahinko",
-   "Definition": "vanstïća; vanïća"
+   "Definition": "žaľ; zïjan"
  },
  {
    "Word": "vahti",
-   "Definition": "vanoms; vanstnems; vanstoms; karauľams"
+   "Definition": "vanstïća; vanïća"
  },
  {
    "Word": "vahtia",
-   "Definition": "švejcar"
+   "Definition": "vanoms; vanstnems; vanstoms; karauľams"
  },
  {
    "Word": "vahtimestari",
-   "Definition": "storožka"
+   "Definition": "švejcar"
  },
  {
    "Word": "vahtitupa",
-   "Definition": "keme; nardev; taza"
+   "Definition": "storožka"
  },
  {
    "Word": "vahva",
-   "Definition": "sankcionirovams; fiksirovams"
+   "Definition": "keme; nardev; taza"
  },
  {
    "Word": "vahvistaa",
-   "Definition": "ciďardovtoms"
+   "Definition": "sankcionirovams; fiksirovams"
  },
  {
    "Word": "vahvistaa kestävyyttä",
@@ -45681,22 +45681,26 @@
  },
  {
    "Word": "vahvistaa vastustuskykyä",
-   "Definition": "oformlenija"
+   "Definition": "ciďardovtoms"
  },
  {
    "Word": "vahvistaminen",
-   "Definition": "kemekstams"
+   "Definition": "oformlenija"
  },
  {
    "Word": "vahvistua",
-   "Definition": "sankcija"
+   "Definition": "kemekstams"
  },
  {
    "Word": "vahvistus",
-   "Definition": "nardevči"
+   "Definition": "sankcija"
  },
  {
    "Word": "vahvuus",
+   "Definition": "nardevči"
+ },
+ {
+   "Word": "vai",
    "Definition": "eli; ili"
  },
  {
@@ -45704,232 +45708,228 @@
    "Definition": "ili"
  },
  {
-   "Word": "vai",
+   "Word": "vaieta",
    "Definition": "kaštmolems; sëtïjijelgadoms; čaťmonems"
  },
  {
-   "Word": "vaieta",
+   "Word": "vaihde",
    "Definition": "strelka"
  },
  {
-   "Word": "vaihde",
+   "Word": "vaihdemies",
    "Definition": "streločnik"
  },
  {
-   "Word": "vaihdemies",
+   "Word": "vaihe",
    "Definition": "etap"
  },
  {
-   "Word": "vaihe",
+   "Word": "vaihtaa",
    "Definition": "polavtnems; polavtoms"
  },
  {
-   "Word": "vaihtaa",
+   "Word": "vaihtaa ilmaa",
    "Definition": "ventilirovams"
  },
  {
-   "Word": "vaihtaa ilmaa",
+   "Word": "vaihtelevaisuus",
    "Definition": "kalejdoskop"
  },
  {
-   "Word": "vaihtelevaisuus",
+   "Word": "vaihtoraha",
    "Definition": "sdača"
  },
  {
-   "Word": "vaihtoraha",
+   "Word": "vaihtovaate",
    "Definition": "polavks"
  },
  {
-   "Word": "vaihtovaate",
-   "Definition": "staka"
- },
- {
    "Word": "vaikea",
    "Definition": "staka"
  },
  {
    "Word": "vaikea",
-   "Definition": "kuvsems"
+   "Definition": "staka"
  },
  {
    "Word": "vaikeroida",
-   "Definition": "stakači; stalmo"
+   "Definition": "kuvsems"
  },
  {
    "Word": "vaikeus",
-   "Definition": "stakalgavtoms"
+   "Definition": "stakači; stalmo"
  },
  {
    "Word": "vaikeuttaa",
-   "Definition": "stakalgadoms"
+   "Definition": "stakalgavtoms"
  },
  {
    "Word": "vaikeutua",
-   "Definition": "vpečatlenija"
+   "Definition": "stakalgadoms"
  },
  {
    "Word": "vaikutelma",
-   "Definition": "faktor"
+   "Definition": "vpečatlenija"
  },
  {
    "Word": "vaikutin",
-   "Definition": "dejstvovams"
+   "Definition": "faktor"
  },
  {
    "Word": "vaikuttaa",
-   "Definition": "effekt"
+   "Definition": "dejstvovams"
  },
  {
    "Word": "vaikutus",
-   "Definition": "vlijanija"
+   "Definition": "effekt"
  },
  {
    "Word": "vaikutusvalta",
-   "Definition": "tajmaskadoms"
+   "Definition": "vlijanija"
  },
  {
    "Word": "vaimentua",
-   "Definition": "vasta; koźajka; ni"
+   "Definition": "tajmaskadoms"
  },
  {
    "Word": "vaimo",
-   "Definition": "balduz"
+   "Definition": "vasta; koźajka; ni"
  },
  {
    "Word": "vaimon sisar",
-   "Definition": "balźa"
+   "Definition": "balduz"
  },
  {
    "Word": "vaimon veli",
-   "Definition": "nizańa"
+   "Definition": "balźa"
  },
  {
    "Word": "vaimon äiti",
-   "Definition": "anśak"
+   "Definition": "nizańa"
  },
  {
    "Word": "vain",
-   "Definition": "pokojnik"
+   "Definition": "anśak"
  },
  {
    "Word": "vainaja",
-   "Definition": "travams"
+   "Definition": "pokojnik"
  },
  {
    "Word": "vainota",
-   "Definition": "plašč"
+   "Definition": "travams"
  },
  {
    "Word": "vaippa",
-   "Definition": "novolems"
+   "Definition": "plašč"
  },
  {
    "Word": "vaipua",
-   "Definition": "arsevems; arsezevems"
+   "Definition": "novolems"
  },
  {
    "Word": "vaipua ajatuksiin",
-   "Definition": "instinkt"
+   "Definition": "arsevems; arsezevems"
  },
  {
    "Word": "vaisto",
-   "Definition": "čaťmonića"
+   "Definition": "instinkt"
  },
  {
    "Word": "vaitelias",
-   "Definition": "pŕabezaŕks"
+   "Definition": "čaťmonića"
  },
  {
    "Word": "vaiva",
-   "Definition": "mućavoms"
+   "Definition": "pŕabezaŕks"
  },
  {
    "Word": "vaivaantua",
-   "Definition": "kaleka"
+   "Definition": "mućavoms"
  },
  {
    "Word": "vaivainen",
-   "Definition": "bogadelńa"
+   "Definition": "kaleka"
  },
  {
    "Word": "vaivaistalo",
-   "Definition": "majavtoms; stomams"
+   "Definition": "bogadelńa"
  },
  {
    "Word": "vaivata",
-   "Definition": "ičems"
+   "Definition": "majavtoms; stomams"
  },
  {
    "Word": "vaivata (taikinaa yms.)",
-   "Definition": "majatoms"
+   "Definition": "ičems"
  },
  {
    "Word": "vaivata itseään",
-   "Definition": "saraj"
+   "Definition": "majatoms"
  },
  {
    "Word": "vaja",
-   "Definition": "rastrata"
+   "Definition": "saraj"
  },
  {
    "Word": "vajaus",
-   "Definition": "defekt"
+   "Definition": "rastrata"
  },
  {
    "Word": "vajavuus",
-   "Definition": "deficit"
+   "Definition": "defekt"
  },
  {
    "Word": "vaje",
-   "Definition": "vajams"
+   "Definition": "deficit"
  },
  {
    "Word": "vajota",
-   "Definition": "vajamka"
+   "Definition": "vajams"
  },
  {
    "Word": "vajottava paikka",
-   "Definition": "vakansija"
+   "Definition": "vajamka"
  },
  {
    "Word": "vakanssi",
-   "Definition": "ubežďonnoj"
+   "Definition": "vakansija"
  },
  {
    "Word": "vakaumuksellinen",
-   "Definition": "ubeždenija"
+   "Definition": "ubežďonnoj"
  },
  {
    "Word": "vakaumus",
-   "Definition": "stabilizirovams"
+   "Definition": "ubeždenija"
  },
  {
    "Word": "vakauttaa",
-   "Definition": "stabilizacija"
+   "Definition": "stabilizirovams"
  },
  {
    "Word": "vakauttaminen",
-   "Definition": "kemekstavoms"
+   "Definition": "stabilizacija"
  },
  {
    "Word": "vakiintua",
-   "Definition": "standarirovams"
+   "Definition": "kemekstavoms"
  },
  {
    "Word": "vakioida",
-   "Definition": "standart"
+   "Definition": "standarirovams"
  },
  {
    "Word": "vakiomalli",
-   "Definition": "borozda"
+   "Definition": "standart"
  },
  {
    "Word": "vako",
-   "Definition": "špion"
+   "Definition": "borozda"
  },
  {
    "Word": "vakoilija",
-   "Definition": "agentura"
+   "Definition": "špion"
  },
  {
    "Word": "vakoilijat",
@@ -45937,35 +45937,35 @@
  },
  {
    "Word": "vakoilu",
-   "Definition": "špion"
+   "Definition": "agentura"
  },
  {
    "Word": "vakooja",
-   "Definition": "ńaŕakš"
+   "Definition": "špion"
  },
  {
    "Word": "vakuus",
-   "Definition": "strahovams"
+   "Definition": "ńaŕakš"
  },
  {
    "Word": "vakuuttaa",
-   "Definition": "ubediteľnoj"
+   "Definition": "strahovams"
  },
  {
    "Word": "vakuuttava",
-   "Definition": "ubediteľnojstë"
+   "Definition": "ubediteľnoj"
  },
  {
    "Word": "vakuuttavasti",
-   "Definition": "ubeždenija"
+   "Definition": "ubediteľnojstë"
  },
  {
    "Word": "vakuuttelu",
-   "Definition": "ubežďonnoj"
+   "Definition": "ubeždenija"
  },
  {
    "Word": "vakuuttunut",
-   "Definition": "strahovka"
+   "Definition": "ubežďonnoj"
  },
  {
    "Word": "vakuutus",
@@ -45977,15 +45977,15 @@
  },
  {
    "Word": "vakuutusraha(t)",
-   "Definition": "priśaga"
+   "Definition": "strahovka"
  },
  {
    "Word": "vala",
-   "Definition": "valoms; ťoškavtoms"
+   "Definition": "priśaga"
  },
  {
    "Word": "valaa",
-   "Definition": "ilľustracija"
+   "Definition": "valoms; ťoškavtoms"
  },
  {
    "Word": "valaiseminen",
@@ -45993,71 +45993,71 @@
  },
  {
    "Word": "valaiseva esimerkki",
-   "Definition": "ilľustrirovams"
+   "Definition": "ilľustracija"
  },
  {
    "Word": "valaista",
-   "Definition": "litejščik"
+   "Definition": "ilľustrirovams"
  },
  {
    "Word": "valaja",
-   "Definition": "kit"
+   "Definition": "litejščik"
  },
  {
    "Word": "valas",
-   "Definition": "eždevems; ezëldems"
+   "Definition": "kit"
  },
  {
    "Word": "valehdella",
-   "Definition": "žojkadems"
+   "Definition": "eždevems; ezëldems"
  },
  {
    "Word": "valella, kastella",
-   "Definition": "fiľtrovams"
+   "Definition": "žojkadems"
  },
  {
    "Word": "valikoida",
-   "Definition": "prosveščenija"
+   "Definition": "fiľtrovams"
  },
  {
    "Word": "valistus",
-   "Definition": "kočkams"
+   "Definition": "prosveščenija"
  },
  {
    "Word": "valita",
-   "Definition": "izbirateľ"
+   "Definition": "kočkams"
  },
  {
    "Word": "valitsija",
-   "Definition": "peńaćams; urnems"
+   "Definition": "izbirateľ"
  },
  {
    "Word": "valittaa",
-   "Definition": "lajšića"
+   "Definition": "peńaćams; urnems"
  },
  {
    "Word": "valittava",
-   "Definition": "kľauza"
+   "Definition": "lajšića"
  },
  {
    "Word": "valitus",
-   "Definition": "sbruj"
+   "Definition": "kľauza"
  },
  {
    "Word": "valjaat",
-   "Definition": "kildems"
+   "Definition": "sbruj"
  },
  {
    "Word": "valjastaa",
-   "Definition": "ašolgadokšnoms; ašolgadoms"
+   "Definition": "kildems"
  },
  {
    "Word": "valjeta",
-   "Definition": "ašolgavtoms; beľavtoms; beľams"
+   "Definition": "ašolgadokšnoms; ašolgadoms"
  },
  {
    "Word": "valkaista",
-   "Definition": "beľamopeľ"
+   "Definition": "ašolgavtoms; beľavtoms; beľams"
  },
  {
    "Word": "valkaisuaine",
@@ -46065,267 +46065,267 @@
  },
  {
    "Word": "valkaisuväline",
-   "Definition": "pristań"
+   "Definition": "beľamopeľ"
  },
  {
    "Word": "valkama",
-   "Definition": "ašo"
+   "Definition": "pristań"
  },
  {
    "Word": "valkea",
-   "Definition": "ašoči"
+   "Definition": "ašo"
  },
  {
    "Word": "valkeus",
-   "Definition": "veďbaľaga"
+   "Definition": "ašoči"
  },
  {
    "Word": "valkohimme",
-   "Definition": "ašo"
+   "Definition": "veďbaľaga"
  },
  {
    "Word": "valkoinen",
-   "Definition": "belogvardejec"
- },
- {
-   "Word": "valkokaartilainen",
-   "Definition": "ekran"
- },
- {
-   "Word": "valkokangas",
-   "Definition": "veďlukš"
- },
- {
-   "Word": "valkolumme",
-   "Definition": "pejčuŕka"
- },
- {
-   "Word": "valkosipuli",
    "Definition": "ašo"
  },
  {
+   "Word": "valkokaartilainen",
+   "Definition": "belogvardejec"
+ },
+ {
+   "Word": "valkokangas",
+   "Definition": "ekran"
+ },
+ {
+   "Word": "valkolumme",
+   "Definition": "veďlukš"
+ },
+ {
+   "Word": "valkosipuli",
+   "Definition": "pejčuŕka"
+ },
+ {
    "Word": "valkuainen",
-   "Definition": "belok"
+   "Definition": "ašo"
  },
  {
    "Word": "valkuaisaine",
-   "Definition": "revoľucioner"
+   "Definition": "belok"
  },
  {
    "Word": "vallankumouksellinen",
-   "Definition": "revoľucija"
+   "Definition": "revoľucioner"
  },
  {
    "Word": "vallankumous",
-   "Definition": "revoľucionnoj dviženija"
+   "Definition": "revoľucija"
  },
  {
    "Word": "vallankumousliike",
-   "Definition": "zahvaťams"
+   "Definition": "revoľucionnoj dviženija"
  },
  {
    "Word": "vallata",
-   "Definition": "kolnevks; naboj"
+   "Definition": "zahvaťams"
  },
  {
    "Word": "vallaton",
-   "Definition": "nabojči"
+   "Definition": "kolnevks; naboj"
  },
  {
    "Word": "vallattomuus",
-   "Definition": "trenirovka"
+   "Definition": "nabojči"
  },
  {
    "Word": "valmennus",
-   "Definition": "trener"
+   "Definition": "trenirovka"
  },
  {
    "Word": "valmentaja",
-   "Definition": "anok"
+   "Definition": "trener"
  },
  {
    "Word": "valmis",
-   "Definition": "vitems-petems"
+   "Definition": "anok"
  },
  {
    "Word": "valmistaa",
-   "Definition": "silosovams"
+   "Definition": "vitems-petems"
  },
  {
    "Word": "valmistaa painorehua",
-   "Definition": "moŕams"
+   "Definition": "silosovams"
  },
  {
    "Word": "valmistaa uuttamalla",
-   "Definition": "anokstïća"
+   "Definition": "moŕams"
  },
  {
    "Word": "valmistaja",
-   "Definition": "jorams"
+   "Definition": "anokstïća"
  },
  {
    "Word": "valmistautua",
-   "Definition": "purnams-sërńams"
+   "Definition": "jorams"
  },
  {
    "Word": "valmistautua lähtemään",
-   "Definition": "izdelija"
+   "Definition": "purnams-sërńams"
  },
  {
    "Word": "valmiste",
-   "Definition": "gastronomija"
+   "Definition": "izdelija"
  },
  {
    "Word": "valmisteet",
-   "Definition": "anokstavoms; kenerems"
+   "Definition": "gastronomija"
  },
  {
    "Word": "valmistua",
-   "Definition": "fabrikacija"
+   "Definition": "anokstavoms; kenerems"
  },
  {
    "Word": "valmistus",
-   "Definition": "anokči"
+   "Definition": "fabrikacija"
  },
  {
    "Word": "valmius",
-   "Definition": "valdo"
+   "Definition": "anokči"
  },
  {
    "Word": "valo",
-   "Definition": "semafor"
+   "Definition": "valdo"
  },
  {
    "Word": "valo-opastin",
-   "Definition": "optika"
+   "Definition": "semafor"
  },
  {
    "Word": "valo-oppi",
-   "Definition": "valdov"
+   "Definition": "optika"
  },
  {
    "Word": "valoisa",
-   "Definition": "valdoči"
+   "Definition": "valdov"
  },
  {
    "Word": "valoisuus",
-   "Definition": "fotokartočka"
+   "Definition": "valdoči"
  },
  {
    "Word": "valokuva",
-   "Definition": "fotograf"
+   "Definition": "fotokartočka"
  },
  {
    "Word": "valokuvaaja",
-   "Definition": "fotografija"
+   "Definition": "fotograf"
  },
  {
    "Word": "valokuvaamo",
-   "Definition": "fotografirovams"
- },
- {
-   "Word": "valokuvata",
    "Definition": "fotografija"
  },
  {
+   "Word": "valokuvata",
+   "Definition": "fotografirovams"
+ },
+ {
    "Word": "valokuvaus",
-   "Definition": "fotoapparat"
+   "Definition": "fotografija"
  },
  {
    "Word": "valokuvauskone",
-   "Definition": "prožektor"
+   "Definition": "fotoapparat"
  },
  {
    "Word": "valonheitin",
-   "Definition": "valdovtomo"
+   "Definition": "prožektor"
  },
  {
    "Word": "valoton",
-   "Definition": "valdïne"
+   "Definition": "valdovtomo"
  },
  {
    "Word": "valotuikku",
-   "Definition": "bditeľnosť"
+   "Definition": "valdïne"
  },
  {
    "Word": "valppaus",
-   "Definition": "vaľcovka"
+   "Definition": "bditeľnosť"
  },
  {
    "Word": "valssain",
-   "Definition": "vaľs"
- },
- {
-   "Word": "valssi",
    "Definition": "vaľcovka"
  },
  {
+   "Word": "valssi",
+   "Definition": "vaľs"
+ },
+ {
    "Word": "valssikone",
-   "Definition": "vlasť; deržava"
+   "Definition": "vaľcovka"
  },
  {
    "Word": "valta",
-   "Definition": "režim"
+   "Definition": "vlasť; deržava"
  },
  {
    "Word": "valta(komento)",
-   "Definition": "prestol"
+   "Definition": "režim"
  },
  {
    "Word": "valtaistuin",
-   "Definition": "doverennosť"
+   "Definition": "prestol"
  },
  {
    "Word": "valtakirja",
-   "Definition": "deržava"
+   "Definition": "doverennosť"
  },
  {
    "Word": "valtakunnanomena",
-   "Definition": "imperija"
+   "Definition": "deržava"
  },
  {
    "Word": "valtakunta",
-   "Definition": "ineveď; okean"
+   "Definition": "imperija"
  },
  {
    "Word": "valtameri",
-   "Definition": "šosse"
+   "Definition": "ineveď; okean"
  },
  {
    "Word": "valtatie",
-   "Definition": "šturma"
+   "Definition": "šosse"
  },
  {
    "Word": "valtaus",
-   "Definition": "puľs"
+   "Definition": "šturma"
  },
  {
    "Word": "valtimo",
-   "Definition": "gosudarstva"
+   "Definition": "puľs"
  },
  {
    "Word": "valtio",
-   "Definition": "dotacija"
+   "Definition": "gosudarstva"
  },
  {
    "Word": "valtionapu",
-   "Definition": "stihija"
+   "Definition": "dotacija"
  },
  {
    "Word": "valtoimet voimat",
-   "Definition": "kozïŕ"
+   "Definition": "stihija"
  },
  {
    "Word": "valtti",
-   "Definition": "polnomočija"
+   "Definition": "kozïŕ"
  },
  {
    "Word": "valtuus",
-   "Definition": "delegacija"
+   "Definition": "polnomočija"
  },
  {
    "Word": "valtuuskunta",
-   "Definition": "upolnomočennoj"
+   "Definition": "delegacija"
  },
  {
    "Word": "valtuusmies",
@@ -46333,86 +46333,90 @@
  },
  {
    "Word": "valtuutettu",
-   "Definition": "delegnrovams"
+   "Definition": "upolnomočennoj"
  },
  {
    "Word": "valtuuttaa",
-   "Definition": "doverennosť"
+   "Definition": "delegnrovams"
  },
  {
    "Word": "valtuutus",
-   "Definition": "valovoms; nuŕgems; polderdems; torodems"
+   "Definition": "doverennosť"
  },
  {
    "Word": "valua",
-   "Definition": "ristnems"
+   "Definition": "valovoms; nuŕgems; polderdems; torodems"
  },
  {
    "Word": "valua (kyyneleet)",
-   "Definition": "ťursë - ťursë čudems"
+   "Definition": "ristnems"
  },
  {
    "Word": "valua virtanaan",
-   "Definition": "litejščik"
+   "Definition": "ťursë - ťursë čudems"
  },
  {
    "Word": "valuri",
-   "Definition": "nurťams"
+   "Definition": "litejščik"
  },
  {
    "Word": "valuttaa",
-   "Definition": "vaľuta"
+   "Definition": "nurťams"
  },
  {
    "Word": "valuutta",
-   "Definition": "čudožov"
+   "Definition": "vaľuta"
  },
  {
    "Word": "valvatti",
-   "Definition": "kontrolirovams"
+   "Definition": "čudožov"
  },
  {
    "Word": "valvoa",
-   "Definition": "nadzirateľ"
+   "Definition": "kontrolirovams"
  },
  {
    "Word": "valvoja",
-   "Definition": "kontroľ"
+   "Definition": "nadzirateľ"
  },
  {
    "Word": "valvojat",
-   "Definition": "nadzor"
- },
- {
-   "Word": "valvonta",
    "Definition": "kontroľ"
  },
  {
+   "Word": "valvonta",
+   "Definition": "nadzor"
+ },
+ {
    "Word": "valvontalaitos",
-   "Definition": "tombamo"
+   "Definition": "kontroľ"
  },
  {
    "Word": "vamma",
-   "Definition": "fanera"
+   "Definition": "tombamo"
  },
  {
    "Word": "vaneri",
-   "Definition": "fanerań"
+   "Definition": "fanera"
  },
  {
    "Word": "vaneri-",
-   "Definition": "ťuremščik"
+   "Definition": "fanerań"
  },
  {
    "Word": "vanginvartija",
-   "Definition": "arestovams"
+   "Definition": "ťuremščik"
  },
  {
    "Word": "vangita",
-   "Definition": "arest"
+   "Definition": "arestovams"
  },
  {
    "Word": "vangitseminen",
+   "Definition": "arest"
+ },
+ {
+   "Word": "vanha",
    "Definition": "tašto"
  },
  {
@@ -46420,104 +46424,100 @@
    "Definition": "sedikeleń; sïre; tašto"
  },
  {
-   "Word": "vanha",
+   "Word": "vanha virsu",
    "Definition": "laťakaŕ"
  },
  {
-   "Word": "vanha virsu",
+   "Word": "vanhemman veljen vaimo",
    "Definition": "uŕaž"
  },
  {
-   "Word": "vanhemman veljen vaimo",
+   "Word": "vanhentua",
    "Definition": "aťalgadoms; sïredems; taštomoms"
  },
  {
-   "Word": "vanhentua",
+   "Word": "vanheta",
    "Definition": "sïredems; taštomoms"
  },
  {
-   "Word": "vanheta",
+   "Word": "vanhimman pojan vaimon käyttämä kutsumanimi nuorimman pojan vaimosta",
    "Definition": "peneŕva"
  },
  {
-   "Word": "vanhimman pojan vaimon käyttämä kutsumanimi nuorimman pojan vaimosta",
+   "Word": "vanhin",
    "Definition": "staršina"
  },
  {
-   "Word": "vanhin",
+   "Word": "vanhoillinen",
    "Definition": "konservator"
  },
  {
-   "Word": "vanhoillinen",
+   "Word": "vanhus",
    "Definition": "aťa"
  },
  {
-   "Word": "vanhus",
+   "Word": "vanhuus",
    "Definition": "sïreči"
  },
  {
-   "Word": "vanhuus",
+   "Word": "vanilja",
    "Definition": "vaniľ"
  },
  {
-   "Word": "vanilja",
+   "Word": "vankeus",
    "Definition": "plen"
  },
  {
-   "Word": "vankeus",
+   "Word": "vanki",
    "Definition": "uznik"
  },
  {
-   "Word": "vanki",
+   "Word": "vankijoukko",
    "Definition": "etap"
  },
  {
-   "Word": "vankijoukko",
+   "Word": "vankikoppi",
    "Definition": "kazemat"
  },
  {
-   "Word": "vankikoppi",
+   "Word": "vankila",
    "Definition": "ostrog; ťuŕma"
  },
  {
-   "Word": "vankila",
+   "Word": "vankka",
    "Definition": "fundamentaľnoj"
  },
  {
-   "Word": "vankka",
+   "Word": "vankkurit",
    "Definition": "oblok"
  },
  {
-   "Word": "vankkurit",
+   "Word": "vannas",
    "Definition": "lemeh"
  },
  {
-   "Word": "vannas",
+   "Word": "vanne",
    "Definition": "kiŕks; obod; pinks"
  },
  {
-   "Word": "vanne",
+   "Word": "vannoa",
    "Definition": "pežedems"
  },
  {
-   "Word": "vannoa",
+   "Word": "vannoa (jumalan nimessä), vakuuttaa vannoen",
    "Definition": "božams"
  },
  {
-   "Word": "vannoa (jumalan nimessä), vakuuttaa vannoen",
+   "Word": "vannottaa (jumalan nimessä)",
    "Definition": "božavtoms"
  },
  {
-   "Word": "vannottaa (jumalan nimessä)",
+   "Word": "vanu",
    "Definition": "vatka"
  },
  {
-   "Word": "vanu",
-   "Definition": "keverdems"
- },
- {
    "Word": "vanuttaa",
-   "Definition": "borozďams"
+   "Definition": "keverdems"
  },
  {
    "Word": "vaota",
@@ -46525,43 +46525,43 @@
  },
  {
    "Word": "vaottaa",
-   "Definition": "dobrovolec"
+   "Definition": "borozďams"
  },
  {
    "Word": "vapaaehtoinen",
-   "Definition": "privolija"
+   "Definition": "dobrovolec"
  },
  {
    "Word": "vapaus",
-   "Definition": "idems; menstems; noldams; oľakstomtoms; oľalgavtoms"
+   "Definition": "privolija"
  },
  {
    "Word": "vapauttaa",
-   "Definition": "emansipacija"
+   "Definition": "idems; menstems; noldams; oľakstomtoms; oľalgavtoms"
  },
  {
    "Word": "vapauttaminen",
-   "Definition": "menems; noldavoms; oľakstomoms; oľalgadoms"
- },
- {
-   "Word": "vapautua",
    "Definition": "emansipacija"
  },
  {
+   "Word": "vapautua",
+   "Definition": "menems; noldavoms; oľakstomoms; oľalgadoms"
+ },
+ {
    "Word": "vapautuminen",
-   "Definition": "idevks"
+   "Definition": "emansipacija"
  },
  {
    "Word": "vapautus",
-   "Definition": "sornoms-tarnoms; tarnoms; ternems"
+   "Definition": "idevks"
  },
  {
    "Word": "vapista",
-   "Definition": "sornovtoms"
+   "Definition": "sornoms-tarnoms; tarnoms; ternems"
  },
  {
    "Word": "vapisuttaa",
-   "Definition": "majovka"
+   "Definition": "sornovtoms"
  },
  {
    "Word": "vappujuhla",
@@ -46569,10 +46569,14 @@
  },
  {
    "Word": "vappukokous",
-   "Definition": "rezerva"
+   "Definition": "majovka"
  },
  {
    "Word": "vara",
+   "Definition": "rezerva"
+ },
+ {
+   "Word": "varakas",
    "Definition": "śupav; jarmakov"
  },
  {
@@ -46580,116 +46584,112 @@
    "Definition": "eriks"
  },
  {
-   "Word": "varakas",
+   "Word": "varakkuus",
    "Definition": "uliči"
  },
  {
-   "Word": "varakkuus",
+   "Word": "varallisuusasema",
    "Definition": "sostojanija"
  },
  {
-   "Word": "varallisuusasema",
-   "Definition": "fond"
- },
- {
    "Word": "varanto",
-   "Definition": "krah"
+   "Definition": "fond"
  },
  {
    "Word": "vararikko",
-   "Definition": "or"
+   "Definition": "krah"
  },
  {
    "Word": "varas",
-   "Definition": "utkodoms"
+   "Definition": "or"
  },
  {
    "Word": "varastaa",
-   "Definition": "gaboŕams"
+   "Definition": "utkodoms"
  },
  {
    "Word": "varastella",
-   "Definition": "fond; sklad"
+   "Definition": "gaboŕams"
  },
  {
    "Word": "varasto",
-   "Definition": "kladovoj"
+   "Definition": "fond; sklad"
  },
  {
    "Word": "varasto(huone)",
-   "Definition": "labaz"
+   "Definition": "kladovoj"
  },
  {
    "Word": "varastohuone",
-   "Definition": "fond"
+   "Definition": "labaz"
  },
  {
    "Word": "varat",
-   "Definition": "anokstams"
+   "Definition": "fond"
  },
  {
    "Word": "varata",
-   "Definition": "zańams"
+   "Definition": "anokstams"
  },
  {
    "Word": "varata paikka",
-   "Definition": "brońa"
+   "Definition": "zańams"
  },
  {
    "Word": "varaus",
-   "Definition": "variacija"
+   "Definition": "brońa"
  },
  {
    "Word": "variaatio",
-   "Definition": "variant"
+   "Definition": "variacija"
  },
  {
    "Word": "variantti",
-   "Definition": "depo"
+   "Definition": "variant"
  },
  {
    "Word": "varikko",
-   "Definition": "čučela"
+   "Definition": "depo"
  },
  {
    "Word": "variksenpelätin",
-   "Definition": "varjirovams"
+   "Definition": "čučela"
  },
  {
    "Word": "varioida",
-   "Definition": "varaka"
+   "Definition": "varjirovams"
  },
  {
    "Word": "varis",
-   "Definition": "peverems"
+   "Definition": "varaka"
  },
  {
    "Word": "varista",
-   "Definition": "zaščiťams; štiťams"
+   "Definition": "peverems"
  },
  {
    "Word": "varjella",
-   "Definition": "ohrana"
+   "Definition": "zaščiťams; štiťams"
  },
  {
    "Word": "varjelu",
-   "Definition": "sulej"
+   "Definition": "ohrana"
  },
  {
    "Word": "varjo",
-   "Definition": "tuševams"
+   "Definition": "sulej"
  },
  {
    "Word": "varjostaa",
-   "Definition": "ekran"
+   "Definition": "tuševams"
  },
  {
    "Word": "varjostin",
-   "Definition": "salams-kolams"
+   "Definition": "ekran"
  },
  {
    "Word": "varkautta",
-   "Definition": "udostoverenija"
+   "Definition": "salams-kolams"
  },
  {
    "Word": "varmennus",
@@ -46697,111 +46697,111 @@
  },
  {
    "Word": "varmistaminen",
-   "Definition": "faťavtoms"
+   "Definition": "udostoverenija"
  },
  {
    "Word": "varoittaa",
-   "Definition": "predupreždenija"
+   "Definition": "faťavtoms"
  },
  {
    "Word": "varoitus",
-   "Definition": "signal"
+   "Definition": "predupreždenija"
  },
  {
    "Word": "varoitusmerkki",
-   "Definition": "oźaka"
+   "Definition": "signal"
  },
  {
    "Word": "varpunen",
-   "Definition": "oźaske"
+   "Definition": "oźaka"
  },
  {
    "Word": "varpusenpoikanen",
-   "Definition": "vašo; parnë"
+   "Definition": "oźaske"
  },
  {
    "Word": "varsa",
-   "Definition": "strelka"
+   "Definition": "vašo; parnë"
  },
  {
    "Word": "varsi",
-   "Definition": "vašijams"
+   "Definition": "strelka"
  },
  {
    "Word": "varsoa",
-   "Definition": "pivsëma"
+   "Definition": "vašijams"
  },
  {
    "Word": "varsta",
-   "Definition": "speciaľna"
+   "Definition": "pivsëma"
  },
  {
    "Word": "varta vasten",
-   "Definition": "rungo; sëŕ; figura;kambraz"
+   "Definition": "speciaľna"
  },
  {
    "Word": "vartalo",
-   "Definition": "storož"
+   "Definition": "rungo; sëŕ; figura;kambraz"
  },
  {
    "Word": "vartija",
-   "Definition": "piket"
+   "Definition": "storož"
  },
  {
    "Word": "vartio",
-   "Definition": "dozornoj"
+   "Definition": "piket"
  },
  {
    "Word": "vartio-",
-   "Definition": "post"
- },
- {
-   "Word": "vartio(paikka)",
-   "Definition": "vanstoms; karauľams"
- },
- {
-   "Word": "vartioida",
-   "Definition": "storožka"
- },
- {
-   "Word": "vartiokoju",
-   "Definition": "ohrana"
- },
- {
-   "Word": "vartiomiehet",
    "Definition": "dozornoj"
  },
  {
-   "Word": "vartiomies",
-   "Definition": "patruľ"
+   "Word": "vartio(paikka)",
+   "Definition": "post"
  },
  {
-   "Word": "vartiosotilas",
+   "Word": "vartioida",
+   "Definition": "vanstoms; karauľams"
+ },
+ {
+   "Word": "vartiokoju",
+   "Definition": "storožka"
+ },
+ {
+   "Word": "vartiomiehet",
    "Definition": "ohrana"
  },
  {
+   "Word": "vartiomies",
+   "Definition": "dozornoj"
+ },
+ {
+   "Word": "vartiosotilas",
+   "Definition": "patruľ"
+ },
+ {
    "Word": "vartiosto",
-   "Definition": "privivka"
+   "Definition": "ohrana"
  },
  {
    "Word": "varttaminen",
-   "Definition": "čačoms-kasoms"
+   "Definition": "privivka"
  },
  {
    "Word": "varttua",
-   "Definition": "garnizon"
+   "Definition": "čačoms-kasoms"
  },
  {
    "Word": "varuskunta",
-   "Definition": "vooružams; obespečams"
+   "Definition": "garnizon"
  },
  {
    "Word": "varustaa",
-   "Definition": "oborudovams"
+   "Definition": "vooružams; obespečams"
  },
  {
    "Word": "varustaa (kalustolla tai kojeilla)",
-   "Definition": "snaŕaženija"
+   "Definition": "oborudovams"
  },
  {
    "Word": "varustaminen",
@@ -46809,11 +46809,11 @@
  },
  {
    "Word": "varustautuminen",
-   "Definition": "prinadležnosť"
+   "Definition": "snaŕaženija"
  },
  {
    "Word": "varuste",
-   "Definition": "snaŕaženija"
+   "Definition": "prinadležnosť"
  },
  {
    "Word": "varusteet",
@@ -46821,151 +46821,151 @@
  },
  {
    "Word": "varustus",
-   "Definition": "amunicija"
+   "Definition": "snaŕaženija"
  },
  {
    "Word": "varustus(esineet)",
-   "Definition": "vaz"
+   "Definition": "amunicija"
  },
  {
    "Word": "vasa",
-   "Definition": "molotka"
+   "Definition": "vaz"
  },
  {
    "Word": "vasara",
-   "Definition": "vazelin"
+   "Definition": "molotka"
  },
  {
    "Word": "vaseliini",
-   "Definition": "kerš"
+   "Definition": "vazelin"
  },
  {
    "Word": "vasen",
-   "Definition": "kerš boka"
+   "Definition": "kerš"
  },
  {
    "Word": "vasen puoli",
-   "Definition": "vaz; vedrekš"
+   "Definition": "kerš boka"
  },
  {
    "Word": "vasikka",
-   "Definition": "vazïjams"
+   "Definition": "vaz; vedrekš"
  },
  {
    "Word": "vasikoida",
-   "Definition": "tensť"
+   "Definition": "vazïjams"
  },
  {
    "Word": "vasta",
-   "Definition": "ekvivalent"
+   "Definition": "tensť"
  },
  {
    "Word": "vasta-arvo",
-   "Definition": "prijomnik"
+   "Definition": "ekvivalent"
  },
  {
    "Word": "vastaanotin",
-   "Definition": "prijom"
+   "Definition": "prijomnik"
  },
  {
    "Word": "vastaanotto",
-   "Definition": "prijomnoj"
+   "Definition": "prijom"
  },
  {
    "Word": "vastaanotto-",
-   "Definition": "aktiv"
+   "Definition": "prijomnoj"
  },
  {
    "Word": "vastaavat",
-   "Definition": "ekvivalent"
+   "Definition": "aktiv"
  },
  {
    "Word": "vastaavuus",
-   "Definition": "kontrnastuplenija"
- },
- {
-   "Word": "vastahyökkäys",
-   "Definition": "rezonans"
- },
- {
-   "Word": "vastakaiku",
-   "Definition": "kontrast"
- },
- {
-   "Word": "vastakohta(isuus)",
-   "Definition": "partńor"
- },
- {
-   "Word": "vastanäyttelijä",
-   "Definition": "protivnik"
- },
- {
-   "Word": "vastapelaaja",
-   "Definition": "otvečams"
- },
- {
-   "Word": "vastata",
-   "Definition": "replika"
- },
- {
-   "Word": "vastaus",
-   "Definition": "reakcija"
- },
- {
-   "Word": "vastavaikutus",
-   "Definition": "kontrrazvedka"
- },
- {
-   "Word": "vastavakoilu",
-   "Definition": "kontrrevoľucioner"
- },
- {
-   "Word": "vastavallankumouksellinen",
-   "Definition": "kontrrevoľucija"
- },
- {
-   "Word": "vastavallankumous",
-   "Definition": "replika"
- },
- {
-   "Word": "vastaväite",
-   "Definition": "opponent"
- },
- {
-   "Word": "vastaväittäjä",
-   "Definition": "langa"
- },
- {
-   "Word": "vasten",
-   "Definition": "nulgoťks"
- },
- {
-   "Word": "vastenmielinen",
    "Definition": "ekvivalent"
  },
  {
-   "Word": "vastine",
-   "Definition": "karšo molems"
+   "Word": "vastahyökkäys",
+   "Definition": "kontrnastuplenija"
  },
  {
-   "Word": "vastustaa",
+   "Word": "vastakaiku",
+   "Definition": "rezonans"
+ },
+ {
+   "Word": "vastakohta(isuus)",
+   "Definition": "kontrast"
+ },
+ {
+   "Word": "vastanäyttelijä",
+   "Definition": "partńor"
+ },
+ {
+   "Word": "vastapelaaja",
    "Definition": "protivnik"
  },
  {
+   "Word": "vastata",
+   "Definition": "otvečams"
+ },
+ {
+   "Word": "vastaus",
+   "Definition": "replika"
+ },
+ {
+   "Word": "vastavaikutus",
+   "Definition": "reakcija"
+ },
+ {
+   "Word": "vastavakoilu",
+   "Definition": "kontrrazvedka"
+ },
+ {
+   "Word": "vastavallankumouksellinen",
+   "Definition": "kontrrevoľucioner"
+ },
+ {
+   "Word": "vastavallankumous",
+   "Definition": "kontrrevoľucija"
+ },
+ {
+   "Word": "vastaväite",
+   "Definition": "replika"
+ },
+ {
+   "Word": "vastaväittäjä",
+   "Definition": "opponent"
+ },
+ {
+   "Word": "vasten",
+   "Definition": "langa"
+ },
+ {
+   "Word": "vastenmielinen",
+   "Definition": "nulgoťks"
+ },
+ {
+   "Word": "vastine",
+   "Definition": "ekvivalent"
+ },
+ {
+   "Word": "vastustaa",
+   "Definition": "karšo molems"
+ },
+ {
    "Word": "vastustaja",
-   "Definition": "immunitet"
+   "Definition": "protivnik"
  },
  {
    "Word": "vastustuskyky",
-   "Definition": "otvet"
+   "Definition": "immunitet"
  },
  {
    "Word": "vastuu",
-   "Definition": "korzina"
+   "Definition": "otvet"
  },
  {
    "Word": "vasu",
-   "Definition": "bredńa"
+   "Definition": "korzina"
  },
  {
    "Word": "vata",
@@ -46973,39 +46973,39 @@
  },
  {
    "Word": "vatanuotta",
-   "Definition": "taza"
+   "Definition": "bredńa"
  },
  {
    "Word": "vati",
-   "Definition": "peke"
+   "Definition": "taza"
  },
  {
    "Word": "vatsa",
-   "Definition": "pekekeď"
+   "Definition": "peke"
  },
  {
    "Word": "vatsakalvo",
-   "Definition": "potmojožo"
+   "Definition": "pekekeď"
  },
  {
    "Word": "vatsan tila",
-   "Definition": "pekekiśke"
+   "Definition": "potmojožo"
  },
  {
    "Word": "vatsanahka",
-   "Definition": "ajeľ"
+   "Definition": "pekekiśke"
  },
  {
    "Word": "vatsanalushihna",
-   "Definition": "pekalks"
+   "Definition": "ajeľ"
  },
  {
    "Word": "vatsanpohja",
-   "Definition": "pekeorma"
+   "Definition": "pekalks"
  },
  {
    "Word": "vatsatauti",
-   "Definition": "vedjinzej"
+   "Definition": "pekeorma"
  },
  {
    "Word": "vattu",
@@ -47013,147 +47013,147 @@
  },
  {
    "Word": "vatukka",
-   "Definition": "uroveń"
+   "Definition": "vedjinzej"
  },
  {
    "Word": "vatupassi",
-   "Definition": "tempa"
+   "Definition": "uroveń"
  },
  {
    "Word": "vauhti",
-   "Definition": "mahovik"
+   "Definition": "tempa"
  },
  {
    "Word": "vauhtipyörä",
-   "Definition": "vagon"
+   "Definition": "mahovik"
  },
  {
    "Word": "vaunu",
-   "Definition": "kupe"
+   "Definition": "vagon"
  },
  {
    "Word": "vaunuosasto",
-   "Definition": "povozka"
+   "Definition": "kupe"
  },
  {
    "Word": "vaunut",
-   "Definition": "kareta"
+   "Definition": "povozka"
  },
  {
    "Word": "vaunut (nelipyöräiset umpinaiset)",
-   "Definition": "eriks"
+   "Definition": "kareta"
  },
  {
    "Word": "vauras",
-   "Definition": "avarija"
+   "Definition": "eriks"
  },
  {
    "Word": "vaurio",
-   "Definition": "sorkstnems"
+   "Definition": "avarija"
  },
  {
    "Word": "vavahdella",
-   "Definition": "tarck - tarck tejems"
+   "Definition": "sorkstnems"
  },
  {
    "Word": "vavahtaa (odottamatta)",
-   "Definition": "vetnems; vetsems"
+   "Definition": "tarck - tarck tejems"
  },
  {
    "Word": "vedellä",
-   "Definition": "bakalda"
+   "Definition": "vetnems; vetsems"
  },
  {
    "Word": "veden täyttämä kuoppa",
-   "Definition": "potop"
+   "Definition": "bakalda"
  },
  {
    "Word": "vedenpaisumus",
-   "Definition": "pečatams"
+   "Definition": "potop"
  },
  {
    "Word": "vedostaa",
-   "Definition": "apellirovams"
+   "Definition": "pečatams"
  },
  {
    "Word": "vedota",
-   "Definition": "vegetarianec"
+   "Definition": "apellirovams"
  },
  {
    "Word": "vegetariaani",
-   "Definition": "orudovams"
+   "Definition": "vegetarianec"
  },
  {
    "Word": "vehkeillä",
-   "Definition": "tovśuro"
+   "Definition": "orudovams"
  },
  {
    "Word": "vehnä",
-   "Definition": "kalaća"
+   "Definition": "tovśuro"
  },
  {
    "Word": "vehnäleipä",
-   "Definition": "bulka"
+   "Definition": "kalaća"
  },
  {
    "Word": "vehnänen",
-   "Definition": "plut"
+   "Definition": "bulka"
  },
  {
    "Word": "veijari",
-   "Definition": "bratke"
- },
- {
-   "Word": "veikkoseni",
-   "Definition": "figura"
- },
- {
-   "Word": "veistokuva",
-   "Definition": "skuľptura; figura"
- },
- {
-   "Word": "veistos",
-   "Definition": "laksems; čapoms"
- },
- {
-   "Word": "veistää",
    "Definition": "plut"
  },
  {
-   "Word": "veitikka",
-   "Definition": "pejeľ"
- },
- {
-   "Word": "veitsi",
-   "Definition": "vekseľ"
- },
- {
-   "Word": "vekseli",
-   "Definition": "čarodej"
- },
- {
-   "Word": "velho",
-   "Definition": "brat; sedejpeľks"
- },
- {
-   "Word": "veli",
+   "Word": "veikkoseni",
    "Definition": "bratke"
  },
  {
+   "Word": "veistokuva",
+   "Definition": "figura"
+ },
+ {
+   "Word": "veistos",
+   "Definition": "skuľptura; figura"
+ },
+ {
+   "Word": "veistää",
+   "Definition": "laksems; čapoms"
+ },
+ {
+   "Word": "veitikka",
+   "Definition": "plut"
+ },
+ {
+   "Word": "veitsi",
+   "Definition": "pejeľ"
+ },
+ {
+   "Word": "vekseli",
+   "Definition": "vekseľ"
+ },
+ {
+   "Word": "velho",
+   "Definition": "čarodej"
+ },
+ {
+   "Word": "veli",
+   "Definition": "brat; sedejpeľks"
+ },
+ {
    "Word": "veliseni",
-   "Definition": "bratovams"
+   "Definition": "bratke"
  },
  {
    "Word": "veljeillä",
-   "Definition": "plemännik"
+   "Definition": "bratovams"
  },
  {
    "Word": "veljenpoika",
-   "Definition": "plemännica"
+   "Definition": "plemännik"
  },
  {
    "Word": "veljentytär",
-   "Definition": "bratstva"
+   "Definition": "plemännica"
  },
  {
    "Word": "veljeskunta",
@@ -47161,23 +47161,23 @@
  },
  {
    "Word": "veljeys",
-   "Definition": "dolk"
+   "Definition": "bratstva"
  },
  {
    "Word": "velka",
-   "Definition": "dolgijams"
+   "Definition": "dolk"
  },
  {
    "Word": "velkaantua",
-   "Definition": "kabala"
+   "Definition": "dolgijams"
  },
  {
    "Word": "velkaorjuus",
-   "Definition": "kabaľams"
+   "Definition": "kabala"
  },
  {
    "Word": "velkaorjuuttaa",
-   "Definition": "kabala"
+   "Definition": "kabaľams"
  },
  {
    "Word": "velkaorjuutus",
@@ -47185,27 +47185,27 @@
  },
  {
    "Word": "velkasitoumus",
-   "Definition": "kreditor"
+   "Definition": "kabala"
  },
  {
    "Word": "velkoja",
-   "Definition": "vecajam"
+   "Definition": "kreditor"
  },
  {
    "Word": "velli",
-   "Definition": "velodrom"
+   "Definition": "vecajam"
  },
  {
    "Word": "velodromi",
-   "Definition": "debet"
+   "Definition": "velodrom"
  },
  {
    "Word": "veloituspuoli",
-   "Definition": "ripańa; tužo"
+   "Definition": "debet"
  },
  {
    "Word": "veltto",
-   "Definition": "obäzateľstva"
+   "Definition": "ripańa; tužo"
  },
  {
    "Word": "velvoite",
@@ -47213,42 +47213,46 @@
  },
  {
    "Word": "velvoitus",
-   "Definition": "obäzannosť"
+   "Definition": "obäzateľstva"
  },
  {
    "Word": "velvollisuus",
-   "Definition": "ruzava"
+   "Definition": "obäzannosť"
  },
  {
    "Word": "venakko",
-   "Definition": "šľupka"
+   "Definition": "ruzava"
  },
  {
    "Word": "vene",
-   "Definition": "klapan"
+   "Definition": "šľupka"
  },
  {
    "Word": "venttiili",
-   "Definition": "venemevtems; venstems"
+   "Definition": "klapan"
  },
  {
    "Word": "venyttää",
-   "Definition": "teŕgev"
+   "Definition": "venemevtems; venstems"
  },
  {
    "Word": "venyvä",
-   "Definition": "venemems; targavoms"
+   "Definition": "teŕgev"
  },
  {
    "Word": "venyä",
-   "Definition": "Rossija"
+   "Definition": "venemems; targavoms"
  },
  {
    "Word": "Venäjä",
-   "Definition": "rusks"
+   "Definition": "Rossija"
  },
  {
    "Word": "venäjäksi",
+   "Definition": "rusks"
+ },
+ {
+   "Word": "venäläinen",
    "Definition": "ruzoń"
  },
  {
@@ -47256,16 +47260,12 @@
    "Definition": "ruz"
  },
  {
-   "Word": "venäläinen",
+   "Word": "venäläisnainen",
    "Definition": "ruzava"
  },
  {
-   "Word": "venäläisnainen",
-   "Definition": "russificirovams"
- },
- {
    "Word": "venäläistää",
-   "Definition": "glagoloń"
+   "Definition": "russificirovams"
  },
  {
    "Word": "verbaali-",
@@ -47273,59 +47273,59 @@
  },
  {
    "Word": "verbaalinen",
-   "Definition": "glagol"
+   "Definition": "glagoloń"
  },
  {
    "Word": "verbi",
-   "Definition": "donor"
+   "Definition": "glagol"
  },
  {
    "Word": "verenluovuttaja",
-   "Definition": "sveža"
+   "Definition": "donor"
  },
  {
    "Word": "veres",
-   "Definition": "šaršav"
+   "Definition": "sveža"
  },
  {
    "Word": "verho",
-   "Definition": "drapirovams"
+   "Definition": "šaršav"
  },
  {
    "Word": "verhostaa",
-   "Definition": "čavoms"
+   "Definition": "drapirovams"
  },
  {
    "Word": "verhota",
-   "Definition": "veŕ"
+   "Definition": "čavoms"
  },
  {
    "Word": "veri",
-   "Definition": "opravdams"
+   "Definition": "veŕ"
  },
  {
    "Word": "verifioida",
-   "Definition": "tombaveŕ"
+   "Definition": "opravdams"
  },
  {
    "Word": "verikuhmu",
-   "Definition": "bojńa"
- },
- {
-   "Word": "verilöyly",
-   "Definition": "verev"
- },
- {
-   "Word": "verinen",
    "Definition": "tombaveŕ"
  },
  {
+   "Word": "verilöyly",
+   "Definition": "bojńa"
+ },
+ {
+   "Word": "verinen",
+   "Definition": "verev"
+ },
+ {
    "Word": "veripahka",
-   "Definition": "sukna"
+   "Definition": "tombaveŕ"
  },
  {
    "Word": "verka",
-   "Definition": "suknań"
+   "Definition": "sukna"
  },
  {
    "Word": "verka-",
@@ -47333,15 +47333,15 @@
  },
  {
    "Word": "verkainen",
+   "Definition": "suknań"
+ },
+ {
+   "Word": "verkkainen",
    "Definition": "tužo"
  },
  {
    "Word": "verkkainen",
    "Definition": "valka"
- },
- {
-   "Word": "verkkainen",
-   "Definition": "setka"
  },
  {
    "Word": "verkko",
@@ -47353,47 +47353,47 @@
  },
  {
    "Word": "verkkopaita",
-   "Definition": "veteľ"
+   "Definition": "setka"
  },
  {
    "Word": "verkkosäkki",
-   "Definition": "pošlina"
+   "Definition": "veteľ"
  },
  {
    "Word": "vero",
-   "Definition": "barščina"
+   "Definition": "pošlina"
  },
  {
    "Word": "veropäivätyö",
-   "Definition": "nedojimka"
- },
- {
-   "Word": "verorästi",
-   "Definition": "obložams"
- },
- {
-   "Word": "verottaa",
    "Definition": "barščina"
  },
  {
+   "Word": "verorästi",
+   "Definition": "nedojimka"
+ },
+ {
+   "Word": "verottaa",
+   "Definition": "obložams"
+ },
+ {
    "Word": "verotyö",
-   "Definition": "ťaglovoj"
+   "Definition": "barščina"
  },
  {
    "Word": "verovelvollinen",
-   "Definition": "turo"
+   "Definition": "ťaglovoj"
  },
  {
    "Word": "verran",
-   "Definition": "otroska"
+   "Definition": "turo"
  },
  {
    "Word": "verso",
-   "Definition": "masterskoj"
+   "Definition": "otroska"
  },
  {
    "Word": "verstas",
-   "Definition": "sravnenija"
+   "Definition": "masterskoj"
  },
  {
    "Word": "vertaaminen",
@@ -47401,47 +47401,47 @@
  },
  {
    "Word": "vertailu",
-   "Definition": "para"
- },
- {
-   "Word": "vertainen",
    "Definition": "sravnenija"
  },
  {
+   "Word": "vertainen",
+   "Definition": "para"
+ },
+ {
    "Word": "vertaus",
-   "Definition": "pritča"
+   "Definition": "sravnenija"
  },
  {
    "Word": "vertaus(kertomus)",
-   "Definition": "emblema"
+   "Definition": "pritča"
  },
  {
    "Word": "vertauskuva",
-   "Definition": "otroska"
+   "Definition": "emblema"
  },
  {
    "Word": "vesa",
-   "Definition": "veď"
+   "Definition": "otroska"
  },
  {
    "Word": "vesi",
-   "Definition": "veďbuka"
+   "Definition": "veď"
  },
  {
    "Word": "vesi hämähäkki",
-   "Definition": "veďkirdema"
+   "Definition": "veďbuka"
  },
  {
    "Word": "vesiallas",
-   "Definition": "bassejna"
+   "Definition": "veďkirdema"
  },
  {
    "Word": "vesialue",
-   "Definition": "veďnulko"
+   "Definition": "bassejna"
  },
  {
    "Word": "vesiheinä",
-   "Definition": "vodoprovod"
+   "Definition": "veďnulko"
  },
  {
    "Word": "vesijohto",
@@ -47449,55 +47449,55 @@
  },
  {
    "Word": "vesijohtolaitos",
-   "Definition": "azarśči"
+   "Definition": "vodoprovod"
  },
  {
    "Word": "vesikauhu",
-   "Definition": "ormaza"
+   "Definition": "azarśči"
  },
  {
    "Word": "vesikauhuinen",
-   "Definition": "arbuz"
+   "Definition": "ormaza"
  },
  {
    "Word": "vesimeloni",
-   "Definition": "veďgev"
+   "Definition": "arbuz"
  },
  {
    "Word": "vesimylly",
-   "Definition": "vodokačka"
+   "Definition": "veďgev"
  },
  {
    "Word": "vesipumppuasema",
-   "Definition": "veďveľavks"
+   "Definition": "vodokačka"
  },
  {
    "Word": "vesipyörre",
-   "Definition": "voďanka"
+   "Definition": "veďveľavks"
  },
  {
    "Word": "vesipöhö",
-   "Definition": "bassejna"
+   "Definition": "voďanka"
  },
  {
    "Word": "vesistöalue",
-   "Definition": "veďkirdema"
+   "Definition": "bassejna"
  },
  {
    "Word": "vesisäiliö",
-   "Definition": "orošams"
+   "Definition": "veďkirdema"
  },
  {
    "Word": "vesittää",
-   "Definition": "irrigacija"
+   "Definition": "orošams"
  },
  {
    "Word": "vesitys",
-   "Definition": "uroveń"
+   "Definition": "irrigacija"
  },
  {
    "Word": "vesivaaka",
-   "Definition": "akvareľ"
+   "Definition": "uroveń"
  },
  {
    "Word": "vesivärimaalaus",
@@ -47505,59 +47505,59 @@
  },
  {
    "Word": "vesivärit",
-   "Definition": "tualet"
+   "Definition": "akvareľ"
  },
  {
    "Word": "vessa",
-   "Definition": "azgondekšnems"
+   "Definition": "tualet"
  },
  {
    "Word": "vetelehtiä",
-   "Definition": "tombaka"
+   "Definition": "azgondekšnems"
  },
  {
    "Word": "vetelä",
-   "Definition": "vecakavtoms"
+   "Definition": "tombaka"
  },
  {
    "Word": "vetelöittää",
-   "Definition": "vecakadoms"
+   "Definition": "vecakavtoms"
  },
  {
    "Word": "vetelöityä",
-   "Definition": "veteran"
+   "Definition": "vecakadoms"
  },
  {
    "Word": "veteraani",
-   "Definition": "vedev; vecana"
+   "Definition": "veteran"
  },
  {
    "Word": "vetinen",
-   "Definition": "avaŕkaj"
+   "Definition": "vedev; vecana"
  },
  {
    "Word": "vetistelijä",
-   "Definition": "skvozńak"
+   "Definition": "avaŕkaj"
  },
  {
    "Word": "veto",
-   "Definition": "jomka"
+   "Definition": "skvozńak"
  },
  {
    "Word": "vetoisa",
-   "Definition": "vozzvanija"
+   "Definition": "jomka"
  },
  {
    "Word": "vetoomus",
-   "Definition": "ťagač"
+   "Definition": "vozzvanija"
  },
  {
    "Word": "vetovaunu",
-   "Definition": "lokomotiv; parovik"
+   "Definition": "ťagač"
  },
  {
    "Word": "veturi",
-   "Definition": "mašinist"
+   "Definition": "lokomotiv; parovik"
  },
  {
    "Word": "veturimies",
@@ -47565,106 +47565,110 @@
  },
  {
    "Word": "veturinkuljettaja",
-   "Definition": "vodorod"
+   "Definition": "mašinist"
  },
  {
    "Word": "vety",
-   "Definition": "vetića"
+   "Definition": "vodorod"
  },
  {
    "Word": "vetäjä",
-   "Definition": "targavoms"
+   "Definition": "vetića"
  },
  {
    "Word": "vetäytyä",
-   "Definition": "kukolńams; kukoŕgadoms"
+   "Definition": "targavoms"
  },
  {
    "Word": "vetäytyä kokoon",
-   "Definition": "uskoms"
+   "Definition": "kukolńams; kukoŕgadoms"
  },
  {
    "Word": "vetää",
-   "Definition": "targams"
+   "Definition": "uskoms"
  },
  {
    "Word": "vetää (esim. magneetilla)",
-   "Definition": "zavoďams"
+   "Definition": "targams"
  },
  {
    "Word": "vetää (kello)",
-   "Definition": "svisťams"
+   "Definition": "zavoďams"
  },
  {
    "Word": "vetää kireälle (nuoraa)",
-   "Definition": "duraskavtoms"
+   "Definition": "svisťams"
  },
  {
    "Word": "vetää nenästä",
-   "Definition": "potavtoms"
+   "Definition": "duraskavtoms"
  },
  {
    "Word": "vetää taaksepäin",
-   "Definition": "kikstams; čeŕkstams"
+   "Definition": "potavtoms"
  },
  {
    "Word": "vetää viiva",
-   "Definition": "defekt"
+   "Definition": "kikstams; čeŕkstams"
  },
  {
    "Word": "viallisuus",
-   "Definition": "veťams; vijems; neľgems; pačtems; jakavtoms"
+   "Definition": "defekt"
  },
  {
    "Word": "viedä",
-   "Definition": "eksportirovams"
+   "Definition": "veťams; vijems; neľgems; pačtems; jakavtoms"
  },
  {
    "Word": "viedä (maasta)",
-   "Definition": "livtems"
+   "Definition": "eksportirovams"
  },
  {
    "Word": "viedä (pois)",
-   "Definition": "sovavtoms"
+   "Definition": "livtems"
  },
  {
    "Word": "viedä sisään",
-   "Definition": "topavtoms"
+   "Definition": "sovavtoms"
  },
  {
    "Word": "viedä täytäntöön",
-   "Definition": "jožov"
+   "Definition": "topavtoms"
  },
  {
    "Word": "viekas",
-   "Definition": "jožovči"
+   "Definition": "jožov"
  },
  {
    "Word": "viekkaus",
-   "Definition": "mančems; mańams"
+   "Definition": "jožovči"
  },
  {
    "Word": "viekoitella",
-   "Definition": "kanalizacija"
+   "Definition": "mančems; mańams"
  },
  {
    "Word": "viemäri(laitos)",
-   "Definition": "eksport"
+   "Definition": "kanalizacija"
  },
  {
    "Word": "vientikauppa",
-   "Definition": "inže"
+   "Definition": "eksport"
  },
  {
    "Word": "vierailija",
-   "Definition": "gastrolirovams; gostevams"
+   "Definition": "inže"
  },
  {
    "Word": "vierailla",
-   "Definition": "gastroľ"
+   "Definition": "gastrolirovams; gostevams"
  },
  {
    "Word": "vierailunäytäntö",
+   "Definition": "gastroľ"
+ },
+ {
+   "Word": "vieras",
    "Definition": "lomaneń"
  },
  {
@@ -47672,40 +47676,36 @@
    "Definition": "jat"
  },
  {
-   "Word": "vieras",
+   "Word": "vieraskäynti",
    "Definition": "vizit"
  },
  {
-   "Word": "vieraskäynti",
+   "Word": "vierasmies",
    "Definition": "pońatoj"
  },
  {
-   "Word": "vierasmies",
+   "Word": "viereinen",
    "Definition": "šabra"
  },
  {
-   "Word": "viereinen",
+   "Word": "vieressä",
    "Definition": "vaksso"
  },
  {
-   "Word": "vieressä",
+   "Word": "vierittää",
    "Definition": "keverdems"
  },
  {
-   "Word": "vierittää",
+   "Word": "vieriä",
    "Definition": "kiŕakstoms"
  },
  {
-   "Word": "vieriä",
+   "Word": "vieroittaa",
    "Definition": "kactams"
  },
  {
-   "Word": "vieroittaa",
-   "Definition": "susla"
- },
- {
    "Word": "vierre",
-   "Definition": "estafeta"
+   "Definition": "susla"
  },
  {
    "Word": "viesti",
@@ -47725,30 +47725,34 @@
  },
  {
    "Word": "viestinuinti",
-   "Definition": "sväź"
+   "Definition": "estafeta"
  },
  {
    "Word": "viestitys",
-   "Definition": "pružina"
+   "Definition": "sväź"
  },
  {
    "Word": "vieteri",
-   "Definition": "aštems; jutavtoms"
+   "Definition": "pružina"
  },
  {
    "Word": "viettää",
-   "Definition": "prazdnovams"
+   "Definition": "aštems; jutavtoms"
  },
  {
    "Word": "viettää juhlaa",
-   "Definition": "ojmsems"
+   "Definition": "prazdnovams"
  },
  {
    "Word": "viettää lomaa",
-   "Definition": "kež"
+   "Definition": "ojmsems"
  },
  {
    "Word": "viha",
+   "Definition": "kež"
+ },
+ {
+   "Word": "vihainen",
    "Definition": "kežev; kežej"
  },
  {
@@ -47756,36 +47760,32 @@
    "Definition": "kežej"
  },
  {
-   "Word": "vihainen",
+   "Word": "vihamielisyys",
    "Definition": "vardońči"
  },
  {
-   "Word": "vihamielisyys",
+   "Word": "vihamies",
    "Definition": "neprijateľ"
  },
  {
-   "Word": "vihamies",
+   "Word": "vihannes",
    "Definition": "emež"
  },
  {
-   "Word": "vihannes",
+   "Word": "vihanpito",
    "Definition": "vražda"
  },
  {
-   "Word": "vihanpito",
+   "Word": "vihastua",
    "Definition": "blagojgadoms"
  },
  {
-   "Word": "vihastua",
+   "Word": "vihastuttaa",
    "Definition": "aksorgavtoms"
  },
  {
-   "Word": "vihastuttaa",
-   "Definition": "okojniki"
- },
- {
    "Word": "vihdoin",
-   "Definition": "svistok"
+   "Definition": "okojniki"
  },
  {
    "Word": "vihellin",
@@ -47793,55 +47793,55 @@
  },
  {
    "Word": "vihellys",
-   "Definition": "veškems; guďams"
+   "Definition": "svistok"
  },
  {
    "Word": "viheltää",
-   "Definition": "piželdëms"
+   "Definition": "veškems; guďams"
  },
  {
    "Word": "viheriöidä",
-   "Definition": "piželgadoms"
+   "Definition": "piželdëms"
  },
  {
    "Word": "vihertyä",
-   "Definition": "venčams"
+   "Definition": "piželgadoms"
  },
  {
    "Word": "vihkiä",
-   "Definition": "tetraď"
+   "Definition": "venčams"
  },
  {
    "Word": "vihko",
-   "Definition": "tetradka"
+   "Definition": "tetraď"
  },
  {
    "Word": "vihkonen",
-   "Definition": "suvtnems"
+   "Definition": "tetradka"
  },
  {
    "Word": "vihmoa",
-   "Definition": "puľverizator"
+   "Definition": "suvtnems"
  },
  {
    "Word": "vihmuri",
-   "Definition": "juv"
+   "Definition": "puľverizator"
  },
  {
    "Word": "vihne",
-   "Definition": "śavov"
+   "Definition": "juv"
  },
  {
    "Word": "vihneinen",
-   "Definition": "jat"
+   "Definition": "śavov"
  },
  {
    "Word": "vihollinen",
-   "Definition": "vražda"
+   "Definition": "jat"
  },
  {
    "Word": "vihollisuus",
-   "Definition": "piže"
+   "Definition": "vražda"
  },
  {
    "Word": "vihreä",
@@ -47849,39 +47849,39 @@
  },
  {
    "Word": "vihreä",
-   "Definition": "tensť"
+   "Definition": "piže"
  },
  {
    "Word": "vihta",
-   "Definition": "davol"
+   "Definition": "tensť"
  },
  {
    "Word": "vihuri",
-   "Definition": "petak"
+   "Definition": "davol"
  },
  {
    "Word": "viiden kopeekan raha",
-   "Definition": "vetece"
+   "Definition": "petak"
  },
  {
    "Word": "viides",
-   "Definition": "vetecede"
+   "Definition": "vetece"
  },
  {
    "Word": "viidettä kertaa",
-   "Definition": "ledemapeľ; peľuma"
+   "Definition": "vetecede"
  },
  {
    "Word": "viikate",
-   "Definition": "nedľa"
+   "Definition": "ledemapeľ; peľuma"
  },
  {
    "Word": "viikko",
-   "Definition": "napilnik"
+   "Definition": "nedľa"
  },
  {
    "Word": "viila",
-   "Definition": "slesaŕ"
+   "Definition": "napilnik"
  },
  {
    "Word": "viilaaja",
@@ -47889,11 +47889,11 @@
  },
  {
    "Word": "viilari",
-   "Definition": "ekšelgavtoms"
+   "Definition": "slesaŕ"
  },
  {
    "Word": "viilentää",
-   "Definition": "ekše"
+   "Definition": "ekšelgavtoms"
  },
  {
    "Word": "viileä",
@@ -47901,15 +47901,15 @@
  },
  {
    "Word": "viileä",
-   "Definition": "fanera"
+   "Definition": "ekše"
  },
  {
    "Word": "viilu",
-   "Definition": "fanerań"
+   "Definition": "fanera"
  },
  {
    "Word": "viilu-",
-   "Definition": "mejelce"
+   "Definition": "fanerań"
  },
  {
    "Word": "viime",
@@ -47917,15 +47917,15 @@
  },
  {
    "Word": "viimeinen",
-   "Definition": "vïpusknik"
+   "Definition": "mejelce"
  },
  {
    "Word": "viimeisen luokan oppilas",
-   "Definition": "meleń"
+   "Definition": "vïpusknik"
  },
  {
    "Word": "viimevuotinen",
-   "Definition": "čeńks"
+   "Definition": "meleń"
  },
  {
    "Word": "viina",
@@ -47933,7 +47933,7 @@
  },
  {
    "Word": "viini",
-   "Definition": "vinograd"
+   "Definition": "čeńks"
  },
  {
    "Word": "viiniköynnös",
@@ -47941,39 +47941,39 @@
  },
  {
    "Word": "viinirypäleet",
-   "Definition": "vinogradnik"
+   "Definition": "vinograd"
  },
  {
    "Word": "viinitarha",
-   "Definition": "pečť; suskomo"
+   "Definition": "vinogradnik"
  },
  {
    "Word": "viipale",
-   "Definition": "veľamot; čeke"
+   "Definition": "pečť; suskomo"
  },
  {
    "Word": "viipsinpuut",
-   "Definition": "aštevems"
+   "Definition": "veľamot; čeke"
  },
  {
    "Word": "viipyä",
-   "Definition": "vïmpel"
+   "Definition": "aštevems"
  },
  {
    "Word": "viiri",
-   "Definition": "kočkodïk"
+   "Definition": "vïmpel"
  },
  {
    "Word": "viiriäinen",
-   "Definition": "čeŕks"
+   "Definition": "kočkodïk"
  },
  {
    "Word": "viiru",
-   "Definition": "strelka"
+   "Definition": "čeŕks"
  },
  {
    "Word": "viisari",
-   "Definition": "prevej"
+   "Definition": "strelka"
  },
  {
    "Word": "viisas",
@@ -47981,55 +47981,55 @@
  },
  {
    "Word": "viisas",
-   "Definition": "udemijams; jožijams; jožovgadoms"
+   "Definition": "prevej"
  },
  {
    "Word": "viisastua",
-   "Definition": "prevejči"
+   "Definition": "udemijams; jožijams; jožovgadoms"
  },
  {
    "Word": "viisaus",
-   "Definition": "vete"
+   "Definition": "prevejči"
  },
  {
    "Word": "viisi",
-   "Definition": "veteksť"
+   "Definition": "vete"
  },
  {
    "Word": "viisi kertaa",
-   "Definition": "petak"
+   "Definition": "veteksť"
  },
  {
    "Word": "viisikopeekkainen",
-   "Definition": "vetenzams"
+   "Definition": "petak"
  },
  {
    "Word": "viisinkertaistaa",
-   "Definition": "keveteje"
+   "Definition": "vetenzams"
  },
  {
    "Word": "viisitoista",
-   "Definition": "čiŕ"
+   "Definition": "keveteje"
  },
  {
    "Word": "viisto",
-   "Definition": "ukazams"
+   "Definition": "čiŕ"
  },
  {
    "Word": "viitata",
-   "Definition": "primečanija"
+   "Definition": "ukazams"
  },
  {
    "Word": "viite",
-   "Definition": "veteškaksť"
+   "Definition": "primečanija"
  },
  {
    "Word": "viitisen kertaa",
-   "Definition": "halat"
+   "Definition": "veteškaksť"
  },
  {
    "Word": "viitta",
-   "Definition": "žestikulirovams"
+   "Definition": "halat"
  },
  {
    "Word": "viittilöidä",
@@ -48037,110 +48037,114 @@
  },
  {
    "Word": "viittoilla",
-   "Definition": "semafor"
+   "Definition": "žestikulirovams"
  },
  {
    "Word": "viittoilu(viestitys)",
-   "Definition": "čeŕks"
+   "Definition": "semafor"
  },
  {
    "Word": "viiva",
-   "Definition": "kiks"
+   "Definition": "čeŕks"
  },
  {
    "Word": "viiva - juova",
-   "Definition": "linovams"
+   "Definition": "kiks"
  },
  {
    "Word": "viivata",
-   "Definition": "kikstnems"
+   "Definition": "linovams"
  },
  {
    "Word": "viivoitella",
-   "Definition": "linejka"
+   "Definition": "kikstnems"
  },
  {
    "Word": "viivoitin",
-   "Definition": "grafams; kikstams; linovams"
+   "Definition": "linejka"
  },
  {
    "Word": "viivoittaa",
-   "Definition": "sëznëms"
+   "Definition": "grafams; kikstams; linovams"
  },
  {
    "Word": "viivytellä",
-   "Definition": "čumo; čumoči"
+   "Definition": "sëznëms"
  },
  {
    "Word": "vika",
-   "Definition": "viknems; cijnems"
+   "Definition": "čumo; čumoči"
  },
  {
    "Word": "vikistä",
-   "Definition": "eŕaza"
+   "Definition": "viknems; cijnems"
  },
  {
    "Word": "vikkelä",
-   "Definition": "tarč"
+   "Definition": "eŕaza"
  },
  {
    "Word": "vikuri (hevosesta)",
-   "Definition": "artačams"
+   "Definition": "tarč"
  },
  {
    "Word": "vikuroida",
-   "Definition": "počaksams"
+   "Definition": "artačams"
  },
  {
    "Word": "vilistä",
-   "Definition": "źorna; śuro"
+   "Definition": "počaksams"
  },
  {
    "Word": "vilja",
-   "Definition": "judma"
+   "Definition": "źorna; śuro"
  },
  {
    "Word": "viljakaukalo",
-   "Definition": "uboročnoj"
+   "Definition": "judma"
  },
  {
    "Word": "viljankorjuu-",
-   "Definition": "elevator"
+   "Definition": "uboročnoj"
  },
  {
    "Word": "viljavarasto",
-   "Definition": "kultivirovams"
+   "Definition": "elevator"
  },
  {
    "Word": "viljellä",
-   "Definition": "plantacija"
+   "Definition": "kultivirovams"
  },
  {
    "Word": "viljelmä",
-   "Definition": "kuľtura"
- },
- {
-   "Word": "viljely",
    "Definition": "plantacija"
  },
  {
-   "Word": "viljelys",
+   "Word": "viljely",
    "Definition": "kuľtura"
  },
  {
+   "Word": "viljelys",
+   "Definition": "plantacija"
+ },
+ {
    "Word": "viljelyskasvi",
-   "Definition": "potrava"
+   "Definition": "kuľtura"
  },
  {
    "Word": "viljelysten vahingoittaminen",
-   "Definition": "varštams; varštams"
+   "Definition": "potrava"
  },
  {
    "Word": "vilkaista",
-   "Definition": "živijams"
+   "Definition": "varštams; varštams"
  },
  {
    "Word": "vilkastua",
+   "Definition": "živijams"
+ },
+ {
+   "Word": "vilkastuttaa",
    "Definition": "živijavtoms"
  },
  {
@@ -48148,60 +48152,56 @@
    "Definition": "aktivizirovams"
  },
  {
-   "Word": "vilkastuttaa",
+   "Word": "vilkauttaa (silmää)",
    "Definition": "končtams"
  },
  {
-   "Word": "vilkauttaa (silmää)",
+   "Word": "vilkkua",
    "Definition": "cipajems"
  },
  {
-   "Word": "vilkkua",
+   "Word": "vilkuttaa (silmää)",
    "Definition": "končnems"
  },
  {
-   "Word": "vilkuttaa (silmää)",
+   "Word": "villa",
    "Definition": "pona"
  },
  {
-   "Word": "villa",
+   "Word": "villainen",
    "Definition": "ponań"
  },
  {
-   "Word": "villainen",
+   "Word": "villapaita",
    "Definition": "svitra"
  },
  {
-   "Word": "villapaita",
+   "Word": "villapusero",
    "Definition": "džemper"
  },
  {
-   "Word": "villapusero",
+   "Word": "villi",
    "Definition": "idem"
  },
  {
-   "Word": "villi",
+   "Word": "villi-ihminen",
    "Definition": "dikaŕ"
  },
  {
-   "Word": "villi-ihminen",
+   "Word": "villihanhi",
    "Definition": "idemka"
  },
  {
-   "Word": "villihanhi",
+   "Word": "villihärkä",
    "Definition": "tur"
  },
  {
-   "Word": "villihärkä",
+   "Word": "villiintyä",
    "Definition": "dikojgadoms; idemkstams"
  },
  {
-   "Word": "villiintyä",
-   "Definition": "rozbojnik"
- },
- {
    "Word": "villikko",
-   "Definition": "ovtumaŕ"
+   "Definition": "rozbojnik"
  },
  {
    "Word": "villiruusu",
@@ -48209,15 +48209,15 @@
  },
  {
    "Word": "villiruusun marja",
-   "Definition": "kaban"
+   "Definition": "ovtumaŕ"
  },
  {
    "Word": "villisika",
-   "Definition": "dikojgadoms"
+   "Definition": "kaban"
  },
  {
    "Word": "villiytyä",
-   "Definition": "vańks"
+   "Definition": "dikojgadoms"
  },
  {
    "Word": "vilpittömyys",
@@ -48225,47 +48225,47 @@
  },
  {
    "Word": "vilpitön",
-   "Definition": "sveža"
+   "Definition": "vańks"
  },
  {
    "Word": "vilpoinen",
-   "Definition": "prostuďavoms"
+   "Definition": "sveža"
  },
  {
    "Word": "vilustua",
-   "Definition": "prostuďams"
+   "Definition": "prostuďavoms"
  },
  {
    "Word": "vilustuttaa",
-   "Definition": "azarśči"
+   "Definition": "prostuďams"
  },
  {
    "Word": "vimma",
-   "Definition": "sïremems"
+   "Definition": "azarśči"
  },
  {
    "Word": "vimmastua",
-   "Definition": "beśavtoms"
+   "Definition": "sïremems"
  },
  {
    "Word": "vimmastuttaa",
-   "Definition": "otčajannoj"
+   "Definition": "beśavtoms"
  },
  {
    "Word": "vimmattu",
-   "Definition": "cijnezevems"
+   "Definition": "otčajannoj"
  },
  {
    "Word": "vingahtaa",
-   "Definition": "guďams; zujnems; lakordoms; cijnems"
+   "Definition": "cijnezevems"
  },
  {
    "Word": "vinkua",
-   "Definition": "cirnems"
+   "Definition": "guďams; zujnems; lakordoms; cijnems"
  },
  {
    "Word": "vinkua (sika, porsas)",
-   "Definition": "čiŕ"
+   "Definition": "cirnems"
  },
  {
    "Word": "vino",
@@ -48273,47 +48273,47 @@
  },
  {
    "Word": "vino-",
-   "Definition": "kosojgadoms"
+   "Definition": "čiŕ"
  },
  {
    "Word": "vinoutua",
-   "Definition": "lebodka"
+   "Definition": "kosojgadoms"
  },
  {
    "Word": "vinssi",
-   "Definition": "rićaga"
+   "Definition": "lebodka"
  },
  {
    "Word": "vintturi",
-   "Definition": "motïžams"
+   "Definition": "rićaga"
  },
  {
    "Word": "vione voima",
-   "Definition": "ciciga"
+   "Definition": "motïžams"
  },
  {
    "Word": "vipu",
-   "Definition": "rïčag"
+   "Definition": "ciciga"
  },
  {
    "Word": "vipusin",
-   "Definition": "prokuror"
+   "Definition": "rïčag"
  },
  {
    "Word": "virallinen syyttäjä",
-   "Definition": "oformlenija"
+   "Definition": "prokuror"
  },
  {
    "Word": "viralliseen muotoon laatiminen",
-   "Definition": "služaščej"
+   "Definition": "oformlenija"
  },
  {
    "Word": "viranhaltija",
-   "Definition": "učreždenija"
+   "Definition": "služaščej"
  },
  {
    "Word": "virasto",
-   "Definition": "volokita"
+   "Definition": "učreždenija"
  },
  {
    "Word": "virastohitaus",
@@ -48321,171 +48321,171 @@
  },
  {
    "Word": "virastokankeus",
-   "Definition": "cimbolks"
+   "Definition": "volokita"
  },
  {
    "Word": "vire(et)",
-   "Definition": "iľvedevks; mańavks"
+   "Definition": "cimbolks"
  },
  {
    "Word": "virhe",
-   "Definition": "jamśa"
+   "Definition": "iľvedevks; mańavks"
  },
  {
    "Word": "virhe kudonnassa",
-   "Definition": "brak"
+   "Definition": "jamśa"
  },
  {
    "Word": "virheellinen kappale",
-   "Definition": "gramotnoj"
+   "Definition": "brak"
  },
  {
    "Word": "virheetön",
-   "Definition": "stimul"
+   "Definition": "gramotnoj"
  },
  {
    "Word": "virike",
-   "Definition": "targams"
+   "Definition": "stimul"
  },
  {
    "Word": "virittää",
-   "Definition": "dolžnosť; post; služba"
+   "Definition": "targams"
  },
  {
    "Word": "virka",
-   "Definition": "dolžnostnoj"
+   "Definition": "dolžnosť; post; služba"
  },
  {
    "Word": "virka-",
-   "Definition": "čin"
+   "Definition": "dolžnostnoj"
  },
  {
    "Word": "virka-arvo",
-   "Definition": "služaščej"
+   "Definition": "čin"
  },
  {
    "Word": "virkailija",
-   "Definition": "služba"
+   "Definition": "služaščej"
  },
  {
    "Word": "virkapaikka",
-   "Definition": "mundir"
- },
- {
-   "Word": "virkapuku",
-   "Definition": "burokratizma"
- },
- {
-   "Word": "virkavalta",
-   "Definition": "kaźonščina"
- },
- {
-   "Word": "virkavaltaisuus",
    "Definition": "služba"
  },
  {
+   "Word": "virkapuku",
+   "Definition": "mundir"
+ },
+ {
+   "Word": "virkavalta",
+   "Definition": "burokratizma"
+ },
+ {
+   "Word": "virkavaltaisuus",
+   "Definition": "kaźonščina"
+ },
+ {
    "Word": "virkavelvollisuus",
-   "Definition": "fraza"
+   "Definition": "služba"
  },
  {
    "Word": "virke",
-   "Definition": "bodrojči"
+   "Definition": "fraza"
  },
  {
    "Word": "virkeys",
-   "Definition": "eŕaza"
+   "Definition": "bodrojči"
  },
  {
    "Word": "virkeä",
-   "Definition": "živijams"
+   "Definition": "eŕaza"
  },
  {
    "Word": "virkistyä",
-   "Definition": "pškadems"
+   "Definition": "živijams"
  },
  {
    "Word": "virkkaa",
-   "Definition": "živojgalems"
+   "Definition": "pškadems"
  },
  {
    "Word": "virkoilla",
-   "Definition": "vika"
+   "Definition": "živojgalems"
  },
  {
    "Word": "virna",
-   "Definition": "estonec"
+   "Definition": "vika"
  },
  {
    "Word": "virolainen",
-   "Definition": "živojgadoms"
+   "Definition": "estonec"
  },
  {
    "Word": "virota",
-   "Definition": "čudems"
+   "Definition": "živojgadoms"
  },
  {
    "Word": "virrata",
-   "Definition": "vajgeľpe"
+   "Definition": "čudems"
  },
  {
    "Word": "virsta",
-   "Definition": "kaŕ"
+   "Definition": "vajgeľpe"
  },
  {
    "Word": "virsu",
-   "Definition": "kaŕks"
+   "Definition": "kaŕ"
  },
  {
    "Word": "virsunpaula",
-   "Definition": "kaŕpileks"
+   "Definition": "kaŕks"
  },
  {
    "Word": "virsunreikä",
-   "Definition": "struja"
+   "Definition": "kaŕpileks"
  },
  {
    "Word": "virta",
-   "Definition": "begemot"
+   "Definition": "struja"
  },
  {
    "Word": "virtahepo",
-   "Definition": "cep"
+   "Definition": "begemot"
  },
  {
    "Word": "virtapiiri",
-   "Definition": "kontur"
+   "Definition": "cep"
  },
  {
    "Word": "virtapiiri (radion)",
-   "Definition": "veďčudema"
+   "Definition": "kontur"
  },
  {
    "Word": "virtaus",
-   "Definition": "virtuoz"
+   "Definition": "veďčudema"
  },
  {
    "Word": "virtuoosi",
-   "Definition": "čičavka"
+   "Definition": "virtuoz"
  },
  {
    "Word": "virvilä",
-   "Definition": "ciledems; čoledems"
+   "Definition": "čičavka"
  },
  {
    "Word": "visertää",
-   "Definition": "vizit"
+   "Definition": "ciledems; čoledems"
  },
  {
    "Word": "visiitti",
-   "Definition": "vïrkadems"
+   "Definition": "vizit"
  },
  {
    "Word": "viskata",
-   "Definition": "rukšťadems"
+   "Definition": "vïrkadems"
  },
  {
    "Word": "viskata (pois), heittää (pois), sylkäistä (pois)",
-   "Definition": "vejalka"
+   "Definition": "rukšťadems"
  },
  {
    "Word": "viskuri",
@@ -48493,94 +48493,98 @@
  },
  {
    "Word": "viskuukone",
-   "Definition": "sïj"
+   "Definition": "vejalka"
  },
  {
    "Word": "visva",
-   "Definition": "vitamin"
+   "Definition": "sïj"
  },
  {
    "Word": "vitamiini",
-   "Definition": "riśme"
+   "Definition": "vitamin"
  },
  {
    "Word": "vitja",
-   "Definition": "cep"
+   "Definition": "riśme"
  },
  {
    "Word": "vitja(t)",
-   "Definition": "vitrina"
+   "Definition": "cep"
  },
  {
    "Word": "vitriini",
-   "Definition": "ilev; jolo"
+   "Definition": "vitrina"
  },
  {
    "Word": "vitsa",
-   "Definition": "šuťams"
+   "Definition": "ilev; jolo"
  },
  {
    "Word": "vitsailla",
-   "Definition": "pleteń"
+   "Definition": "šuťams"
  },
  {
    "Word": "vitsasaita",
-   "Definition": "pleťuška"
+   "Definition": "pleteń"
  },
  {
    "Word": "vitsasköri",
-   "Definition": "kazńa"
+   "Definition": "pleťuška"
  },
  {
    "Word": "vitsaus",
-   "Definition": "anekdot; mizolks"
+   "Definition": "kazńa"
  },
  {
    "Word": "vitsi",
-   "Definition": "vïrk"
+   "Definition": "anekdot; mizolks"
  },
  {
    "Word": "viuh",
-   "Definition": "vïžnëms"
+   "Definition": "vïrk"
  },
  {
    "Word": "viuhahtaa",
-   "Definition": "vejer"
- },
- {
-   "Word": "viuhka",
    "Definition": "vïžnëms"
  },
  {
+   "Word": "viuhka",
+   "Definition": "vejer"
+ },
+ {
    "Word": "viuhua",
-   "Definition": "skripač"
+   "Definition": "vïžnëms"
  },
  {
    "Word": "viulisti",
-   "Definition": "skripka"
- },
- {
-   "Word": "viulu",
    "Definition": "skripač"
  },
  {
+   "Word": "viulu",
+   "Definition": "skripka"
+ },
+ {
    "Word": "viulutaiteilija",
-   "Definition": "ožolt - ožolt merems"
+   "Definition": "skripač"
  },
  {
    "Word": "vivahtaa keltaiseen",
-   "Definition": "ašolk - ašolk molems"
+   "Definition": "ožolt - ožolt merems"
  },
  {
    "Word": "vivahtaa valkealle",
-   "Definition": "vobla"
+   "Definition": "ašolk - ašolk molems"
  },
  {
    "Word": "vobla (eräs kalalaji)",
-   "Definition": "kapodems"
+   "Definition": "vobla"
  },
  {
    "Word": "vohkia",
+   "Definition": "kapodems"
+ },
+ {
+   "Word": "voi",
    "Definition": "vaj; uh"
  },
  {
@@ -48588,280 +48592,276 @@
    "Definition": "oj"
  },
  {
-   "Word": "voi",
+   "Word": "voi-",
    "Definition": "ojev"
  },
  {
-   "Word": "voi-",
+   "Word": "voiastia",
    "Definition": "masľonka"
  },
  {
-   "Word": "voiastia",
+   "Word": "voida huonosti",
    "Definition": "stalgadoms"
  },
  {
-   "Word": "voida huonosti",
+   "Word": "voide",
    "Definition": "vademapeľ; vadnemka; krem; maź"
  },
  {
-   "Word": "voide",
+   "Word": "voidella",
    "Definition": "vadems; vadnems"
  },
  {
-   "Word": "voidella",
+   "Word": "voidella itsensä",
    "Definition": "vadnevems"
  },
  {
-   "Word": "voidella itsensä",
+   "Word": "voihkaista",
    "Definition": "vajkstams; ojkstams"
  },
  {
-   "Word": "voihkaista",
+   "Word": "voihkia",
    "Definition": "vajkstnems; ojkstnems; ohajems"
  },
  {
-   "Word": "voihkia",
+   "Word": "voikukka",
    "Definition": "tataška"
  },
  {
-   "Word": "voikukka",
+   "Word": "voileipä",
    "Definition": "buterbrod"
  },
  {
-   "Word": "voileipä",
+   "Word": "voima",
    "Definition": "energija"
  },
  {
-   "Word": "voima",
+   "Word": "voimailija",
    "Definition": "atlet"
  },
  {
-   "Word": "voimailija",
+   "Word": "voimakas",
    "Definition": "nardev"
  },
  {
-   "Word": "voimakas",
+   "Word": "voimakkaasti",
    "Definition": "pek"
  },
  {
-   "Word": "voimakkaasti",
+   "Word": "voimakkuus",
    "Definition": "moščnosť"
  },
  {
-   "Word": "voimakkuus",
+   "Word": "voimakone",
    "Definition": "dvigateľ; motor"
  },
  {
-   "Word": "voimakone",
+   "Word": "voimalaitos",
    "Definition": "elektrostancija"
  },
  {
-   "Word": "voimalaitos",
+   "Word": "voimassaolo",
    "Definition": "dejstvija"
  },
  {
-   "Word": "voimassaolo",
+   "Word": "voimatalous",
    "Definition": "energetika"
  },
  {
-   "Word": "voimatalous",
+   "Word": "voimattomuus",
    "Definition": "vijtemeči"
  },
  {
-   "Word": "voimattomuus",
+   "Word": "voimistaa",
    "Definition": "vijevgavtoms; vijenzams"
  },
  {
-   "Word": "voimistaa",
+   "Word": "voimistelu",
    "Definition": "gimnastika; zaŕadka; fizkuľtura"
  },
  {
-   "Word": "voimistelu",
+   "Word": "voimistua",
    "Definition": "zdorovgadoms"
  },
  {
-   "Word": "voimistua",
+   "Word": "voipaperi",
    "Definition": "pergament"
  },
  {
-   "Word": "voipaperi",
+   "Word": "voiteluaine",
    "Definition": "vademapeľ; vadnemka"
  },
  {
-   "Word": "voiteluaine",
+   "Word": "voittaa",
    "Definition": "izńams"
  },
  {
-   "Word": "voittaa",
+   "Word": "voittaja",
    "Definition": "iznića"
  },
  {
-   "Word": "voittaja",
+   "Word": "voitto",
    "Definition": "pribïľ"
  },
  {
-   "Word": "voitto",
+   "Word": "voittojuhla",
    "Definition": "triumf"
  },
  {
-   "Word": "voittojuhla",
+   "Word": "voivotella",
    "Definition": "vajkstnems"
  },
  {
-   "Word": "voivotella",
+   "Word": "vokaalisointu",
    "Definition": "singarmonizma"
  },
  {
-   "Word": "vokaalisointu",
+   "Word": "vokalismi",
    "Definition": "vokalizma"
  },
  {
-   "Word": "vokalismi",
+   "Word": "volframi",
    "Definition": "voľfram"
  },
  {
-   "Word": "volframi",
+   "Word": "Volga",
    "Definition": "Rav"
  },
  {
-   "Word": "Volga",
+   "Word": "volyymi",
    "Definition": "objom"
  },
  {
-   "Word": "volyymi",
-   "Definition": "izvozčik"
- },
- {
    "Word": "vossikka",
-   "Definition": "udmurt"
+   "Definition": "izvozčik"
  },
  {
    "Word": "votjakki",
-   "Definition": "čeńks"
+   "Definition": "udmurt"
  },
  {
    "Word": "votka",
-   "Definition": "vuľgarizirovams"
+   "Definition": "čeńks"
  },
  {
    "Word": "vulgarisoida",
-   "Definition": "vulkan"
+   "Definition": "vuľgarizirovams"
  },
  {
    "Word": "vulkaani",
-   "Definition": "vulkanizirovams"
+   "Definition": "vulkan"
  },
  {
    "Word": "vulkanoida",
-   "Definition": "alks; kojka; krovať"
+   "Definition": "vulkanizirovams"
  },
  {
    "Word": "vuode",
-   "Definition": "pojarka"
+   "Definition": "alks; kojka; krovať"
  },
  {
    "Word": "vuoden vanha karitsa",
-   "Definition": "polog"
+   "Definition": "pojarka"
  },
  {
    "Word": "vuodeverho",
-   "Definition": "seja"
+   "Definition": "polog"
  },
  {
    "Word": "vuohi",
-   "Definition": "forma"
+   "Definition": "seja"
  },
  {
    "Word": "vuoka",
-   "Definition": "arenda"
+   "Definition": "forma"
  },
  {
    "Word": "vuokra",
-   "Definition": "izvozčik"
+   "Definition": "arenda"
  },
  {
    "Word": "vuokra-ajuri",
-   "Definition": "arendator"
- },
- {
-   "Word": "vuokraaja",
    "Definition": "izvozčik"
  },
  {
+   "Word": "vuokraaja",
+   "Definition": "arendator"
+ },
+ {
    "Word": "vuokrahevonen",
-   "Definition": "arenda"
+   "Definition": "izvozčik"
  },
  {
    "Word": "vuokramaksu",
-   "Definition": "arendovams"
- },
- {
-   "Word": "vuokrata",
    "Definition": "arenda"
  },
  {
+   "Word": "vuokrata",
+   "Definition": "arendovams"
+ },
+ {
    "Word": "vuokraus",
-   "Definition": "priliv"
+   "Definition": "arenda"
  },
  {
    "Word": "vuoksi",
-   "Definition": "inks"
+   "Definition": "priliv"
  },
  {
    "Word": "vuolin",
-   "Definition": "strogams"
- },
- {
-   "Word": "vuolla",
    "Definition": "inks"
  },
  {
+   "Word": "vuolla",
+   "Definition": "strogams"
+ },
+ {
    "Word": "vuolurauta",
-   "Definition": "virez"
+   "Definition": "inks"
  },
  {
    "Word": "vuona",
-   "Definition": "obložams"
+   "Definition": "virez"
  },
  {
    "Word": "vuorata",
-   "Definition": "pandopŕa"
+   "Definition": "obložams"
  },
  {
    "Word": "vuorenhuippu",
-   "Definition": "pandalks"
+   "Definition": "pandopŕa"
  },
  {
    "Word": "vuorenjuuri",
-   "Definition": "pando"
+   "Definition": "pandalks"
  },
  {
    "Word": "vuori",
-   "Definition": "algaks"
+   "Definition": "pando"
  },
  {
    "Word": "vuori (vaatteessa)",
-   "Definition": "gorńak"
+   "Definition": "algaks"
  },
  {
    "Word": "vuori-insinööri",
-   "Definition": "maraź"
+   "Definition": "gorńak"
  },
  {
    "Word": "vuorijalava",
-   "Definition": "rudnik"
+   "Definition": "maraź"
  },
  {
    "Word": "vuorikaivos",
-   "Definition": "tur"
+   "Definition": "rudnik"
  },
  {
    "Word": "vuorikauris",
-   "Definition": "aľpinist"
+   "Definition": "tur"
  },
  {
    "Word": "vuorikiipeilijä",
-   "Definition": "gorńak"
+   "Definition": "aľpinist"
  },
  {
    "Word": "vuoriopistolainen",
@@ -48873,207 +48873,207 @@
  },
  {
    "Word": "vuorityömies",
-   "Definition": "nefta"
+   "Definition": "gorńak"
  },
  {
    "Word": "vuoriöljy",
-   "Definition": "očereď"
+   "Definition": "nefta"
  },
  {
    "Word": "vuoro",
-   "Definition": "čipola"
+   "Definition": "očereď"
  },
  {
    "Word": "vuorojärjestys",
-   "Definition": "sutka"
+   "Definition": "čipola"
  },
  {
    "Word": "vuorokausi",
-   "Definition": "dialog"
+   "Definition": "sutka"
  },
  {
    "Word": "vuoropuhelu",
-   "Definition": "replika"
+   "Definition": "dialog"
  },
  {
    "Word": "vuorosana",
-   "Definition": "sevooborot"
+   "Definition": "replika"
  },
  {
    "Word": "vuoroviljelys",
-   "Definition": "ije"
+   "Definition": "sevooborot"
  },
  {
    "Word": "vuosi",
-   "Definition": "jubilej"
+   "Definition": "ije"
  },
  {
    "Word": "vuosijuhla",
-   "Definition": "kurs"
- },
- {
-   "Word": "vuosikurssi",
-   "Definition": "data"
- },
- {
-   "Word": "vuosiluku",
-   "Definition": "četverť"
- },
- {
-   "Word": "vuosineljännes",
    "Definition": "jubilej"
  },
  {
+   "Word": "vuosikurssi",
+   "Definition": "kurs"
+ },
+ {
+   "Word": "vuosiluku",
+   "Definition": "data"
+ },
+ {
+   "Word": "vuosineljännes",
+   "Definition": "četverť"
+ },
+ {
    "Word": "vuosipäivä",
-   "Definition": "jubiľar"
+   "Definition": "jubilej"
  },
  {
    "Word": "vuosipäivän sankari",
-   "Definition": "pinge"
+   "Definition": "jubiľar"
  },
  {
    "Word": "vuosisata",
-   "Definition": "veľamot; čeke"
+   "Definition": "pinge"
  },
  {
    "Word": "vyyhdinpuut",
-   "Definition": "kesak"
+   "Definition": "veľamot; čeke"
  },
  {
    "Word": "vyyhti",
-   "Definition": "uradoms; evtems"
+   "Definition": "kesak"
  },
  {
    "Word": "vyyhtiä",
-   "Definition": "karks; karksamopeľ"
+   "Definition": "uradoms; evtems"
  },
  {
    "Word": "vyö",
-   "Definition": "pojas"
+   "Definition": "karks; karksamopeľ"
  },
  {
    "Word": "vyöhyke",
-   "Definition": "gasnik"
+   "Definition": "pojas"
  },
  {
    "Word": "vyönyöri",
-   "Definition": "lava"
+   "Definition": "gasnik"
  },
  {
    "Word": "vyöry",
-   "Definition": "banderoľ"
+   "Definition": "lava"
  },
  {
    "Word": "vyöte",
-   "Definition": "karksams; tapardams"
+   "Definition": "banderoľ"
  },
  {
    "Word": "vyöttää",
-   "Definition": "revizija"
+   "Definition": "karksams; tapardams"
  },
  {
    "Word": "väestönlasku",
-   "Definition": "ubavavoms"
+   "Definition": "revizija"
  },
  {
    "Word": "vähentyä",
-   "Definition": "alamolgavtoms"
+   "Definition": "ubavavoms"
  },
  {
    "Word": "vähentää",
-   "Definition": "alamgadoms; alamolgadoms; kirems; ubavavoms"
+   "Definition": "alamolgavtoms"
  },
  {
    "Word": "vähetä",
-   "Definition": "minimum"
+   "Definition": "alamgadoms; alamolgadoms; kirems; ubavavoms"
  },
  {
    "Word": "vähimmäismäärä",
-   "Definition": "alamoń-alamoń"
+   "Definition": "minimum"
  },
  {
    "Word": "vähitellen",
-   "Definition": "ćuťkeť"
+   "Definition": "alamoń-alamoń"
  },
  {
    "Word": "vähän",
-   "Definition": "tupavks-tapavks"
+   "Definition": "ćuťkeť"
  },
  {
    "Word": "vähäpätöinen",
-   "Definition": "ćuť-ćuť"
+   "Definition": "tupavks-tapavks"
  },
  {
    "Word": "vähäsen",
-   "Definition": "tezis"
+   "Definition": "ćuť-ćuť"
  },
  {
    "Word": "väite",
-   "Definition": "debatirovams; polemnznrovams; spoŕams"
- },
- {
-   "Word": "väitellä",
-   "Definition": "polemika"
- },
- {
-   "Word": "väittely",
-   "Definition": "disput"
- },
- {
-   "Word": "väittelytilaisuus",
-   "Definition": "teorema"
- },
- {
-   "Word": "väittämä",
    "Definition": "tezis"
  },
  {
-   "Word": "väitös(lause)",
-   "Definition": "dissertacija"
+   "Word": "väitellä",
+   "Definition": "debatirovams; polemnznrovams; spoŕams"
  },
  {
-   "Word": "väitöskirja",
+   "Word": "väittely",
+   "Definition": "polemika"
+ },
+ {
+   "Word": "väittelytilaisuus",
    "Definition": "disput"
  },
  {
+   "Word": "väittämä",
+   "Definition": "teorema"
+ },
+ {
+   "Word": "väitös(lause)",
+   "Definition": "tezis"
+ },
+ {
+   "Word": "väitöskirja",
+   "Definition": "dissertacija"
+ },
+ {
    "Word": "väitöstilaisuus",
-   "Definition": "vijev"
+   "Definition": "disput"
  },
  {
    "Word": "väkevä",
-   "Definition": "tolpa"
+   "Definition": "vijev"
  },
  {
    "Word": "väkijoukko",
-   "Definition": "spirt"
+   "Definition": "tolpa"
  },
  {
    "Word": "väkiviina",
-   "Definition": "jula"
+   "Definition": "spirt"
  },
  {
    "Word": "väkkärä",
-   "Definition": "propusk; jutko"
+   "Definition": "jula"
  },
  {
    "Word": "väli",
-   "Definition": "pererïv"
+   "Definition": "propusk; jutko"
  },
  {
    "Word": "väliaika",
-   "Definition": "antrakt"
+   "Definition": "pererïv"
  },
  {
    "Word": "väliaikaismusiikki",
-   "Definition": "dïšla"
+   "Definition": "antrakt"
  },
  {
    "Word": "väliaisa",
-   "Definition": "objasnenija"
+   "Definition": "dïšla"
  },
  {
    "Word": "välienselvitys",
-   "Definition": "replika"
+   "Definition": "objasnenija"
  },
  {
    "Word": "välihuomautus",
@@ -49081,19 +49081,19 @@
  },
  {
    "Word": "välihuudahdus",
-   "Definition": "kontrakt"
+   "Definition": "replika"
  },
  {
    "Word": "välikirja",
-   "Definition": "epizod"
+   "Definition": "kontrakt"
  },
  {
    "Word": "välikohtaus",
-   "Definition": "distancija"
+   "Definition": "epizod"
  },
  {
    "Word": "välimatka",
-   "Definition": "arbitraž"
+   "Definition": "distancija"
  },
  {
    "Word": "välimiesmenettely",
@@ -49101,91 +49101,91 @@
  },
  {
    "Word": "välimiesoikeus",
-   "Definition": "sredstva"
- },
- {
-   "Word": "väline",
-   "Definition": "pribor"
- },
- {
-   "Word": "välineet",
-   "Definition": "fufajka"
- },
- {
-   "Word": "välipaita",
-   "Definition": "uslovija"
- },
- {
-   "Word": "välipuhe",
-   "Definition": "rezoľucija"
- },
- {
-   "Word": "välipäätös",
-   "Definition": "peremirija"
- },
- {
-   "Word": "välirauha",
-   "Definition": "epizod"
- },
- {
-   "Word": "välitapahtuma",
-   "Definition": "krejsirovams; kursirovams"
- },
- {
-   "Word": "välittää liikennettä",
-   "Definition": "peremena"
- },
- {
-   "Word": "välitunti",
-   "Definition": "transľacija"
- },
- {
-   "Word": "välitys",
    "Definition": "arbitraž"
  },
  {
+   "Word": "väline",
+   "Definition": "sredstva"
+ },
+ {
+   "Word": "välineet",
+   "Definition": "pribor"
+ },
+ {
+   "Word": "välipaita",
+   "Definition": "fufajka"
+ },
+ {
+   "Word": "välipuhe",
+   "Definition": "uslovija"
+ },
+ {
+   "Word": "välipäätös",
+   "Definition": "rezoľucija"
+ },
+ {
+   "Word": "välirauha",
+   "Definition": "peremirija"
+ },
+ {
+   "Word": "välitapahtuma",
+   "Definition": "epizod"
+ },
+ {
+   "Word": "välittää liikennettä",
+   "Definition": "krejsirovams; kursirovams"
+ },
+ {
+   "Word": "välitunti",
+   "Definition": "peremena"
+ },
+ {
+   "Word": "välitys",
+   "Definition": "transľacija"
+ },
+ {
    "Word": "välitystuomioistuin",
-   "Definition": "zanaves"
+   "Definition": "arbitraž"
  },
  {
    "Word": "väliverho",
-   "Definition": "kivčkadems"
+   "Definition": "zanaves"
  },
  {
    "Word": "välkehtiä",
-   "Definition": "sïreždića"
- },
- {
-   "Word": "välkkyvä",
-   "Definition": "vandoldoms; kumboldoms; lipnems; pindoldoms; sijaždoms; sïreždems; civťordoms; citnems"
- },
- {
-   "Word": "välkkyä",
-   "Definition": "feľdšer"
- },
- {
-   "Word": "välskäri",
-   "Definition": "feľdšerskoj"
- },
- {
-   "Word": "välskärin-",
-   "Definition": "eŕaviksči"
- },
- {
-   "Word": "välttämättömyys",
-   "Definition": "eŕaviks; eŕavića"
- },
- {
-   "Word": "välttämätön",
    "Definition": "kivčkadems"
  },
  {
+   "Word": "välkkyvä",
+   "Definition": "sïreždića"
+ },
+ {
+   "Word": "välkkyä",
+   "Definition": "vandoldoms; kumboldoms; lipnems; pindoldoms; sijaždoms; sïreždems; civťordoms; citnems"
+ },
+ {
+   "Word": "välskäri",
+   "Definition": "feľdšer"
+ },
+ {
+   "Word": "välskärin-",
+   "Definition": "feľdšerskoj"
+ },
+ {
+   "Word": "välttämättömyys",
+   "Definition": "eŕaviksči"
+ },
+ {
+   "Word": "välttämätön",
+   "Definition": "eŕaviks; eŕavića"
+ },
+ {
    "Word": "välähtää",
-   "Definition": "cimbolks"
+   "Definition": "kivčkadems"
  },
  {
    "Word": "väre(et)",
-   "Definition": "cimbeldems"
+   "Definition": "cimbolks"
  },
  {
    "Word": "värehtiä",
@@ -49193,131 +49193,131 @@
  },
  {
    "Word": "väreillä",
-   "Definition": "cimbolks"
+   "Definition": "cimbeldems"
  },
  {
    "Word": "väreily",
-   "Definition": "cvet"
+   "Definition": "cimbolks"
  },
  {
    "Word": "väri",
-   "Definition": "palitra"
+   "Definition": "cvet"
  },
  {
    "Word": "väriasteikko",
-   "Definition": "kraska"
+   "Definition": "palitra"
  },
  {
    "Word": "värikkyys",
-   "Definition": "tarnoms"
- },
- {
-   "Word": "väristä",
-   "Definition": "sornovtoms"
- },
- {
-   "Word": "värisyttää",
    "Definition": "kraska"
  },
  {
+   "Word": "väristä",
+   "Definition": "tarnoms"
+ },
+ {
+   "Word": "värisyttää",
+   "Definition": "sornovtoms"
+ },
+ {
    "Word": "värit",
-   "Definition": "artoms"
+   "Definition": "kraska"
  },
  {
    "Word": "värittää",
-   "Definition": "artïća"
+   "Definition": "artoms"
  },
  {
    "Word": "värjäri",
-   "Definition": "artnems; artoms; kraśams; navams; navsems"
+   "Definition": "artïća"
  },
  {
    "Word": "värjätä",
-   "Definition": "ožolgavtoms"
+   "Definition": "artnems; artoms; kraśams; navams; navsems"
  },
  {
    "Word": "värjätä keltaiseksi",
-   "Definition": "lepedems"
+   "Definition": "ožolgavtoms"
  },
  {
    "Word": "värjätä lepänkuorivedellä",
-   "Definition": "jaksteŕgavtoms"
+   "Definition": "lepedems"
  },
  {
    "Word": "värjätä punaiseksi",
-   "Definition": "sëńškavtoms"
+   "Definition": "jaksteŕgavtoms"
  },
  {
    "Word": "värjätä siniseksi",
-   "Definition": "kraśams"
+   "Definition": "sëńškavtoms"
  },
  {
    "Word": "värjäytyä",
-   "Definition": "golubojgadoms"
+   "Definition": "kraśams"
  },
  {
    "Word": "värjäytyä (vaalean)siniseksi",
-   "Definition": "štere"
+   "Definition": "golubojgadoms"
  },
  {
    "Word": "värttinä",
-   "Definition": "verbovams"
+   "Definition": "štere"
  },
  {
    "Word": "värvätä",
-   "Definition": "verbovavoms"
+   "Definition": "verbovams"
  },
  {
    "Word": "värväytyä",
-   "Definition": "skiripkaj"
+   "Definition": "verbovavoms"
  },
  {
    "Word": "västäräkki",
-   "Definition": "tombsems"
+   "Definition": "skiripkaj"
  },
  {
    "Word": "väsyttää",
-   "Definition": "sizems; stalgadoms; teľkemems; tombsevems"
+   "Definition": "tombsems"
  },
  {
    "Word": "väsyä",
-   "Definition": "sodamo"
+   "Definition": "sizems; stalgadoms; teľkemems; tombsevems"
  },
  {
    "Word": "vävy",
-   "Definition": "arterija"
+   "Definition": "sodamo"
  },
  {
    "Word": "väylä",
-   "Definition": "menčems; puvoŕams"
+   "Definition": "arterija"
  },
  {
    "Word": "väännellä",
-   "Definition": "kičkeŕgadoms; čiremems"
+   "Definition": "menčems; puvoŕams"
  },
  {
    "Word": "vääntyä",
-   "Definition": "purdams"
+   "Definition": "kičkeŕgadoms; čiremems"
  },
  {
    "Word": "vääntää",
-   "Definition": "faľšivka"
+   "Definition": "purdams"
  },
  {
    "Word": "väärennetty asiapaperi",
-   "Definition": "podlog"
- },
- {
-   "Word": "väärennys",
    "Definition": "faľšivka"
  },
  {
+   "Word": "väärennys",
+   "Definition": "podlog"
+ },
+ {
    "Word": "väärennös",
-   "Definition": "poddelka"
+   "Definition": "faľšivka"
  },
  {
    "Word": "väärentäminen",
-   "Definition": "vuľgarizirovams"
+   "Definition": "poddelka"
  },
  {
    "Word": "vääristellä",
@@ -49325,79 +49325,79 @@
  },
  {
    "Word": "vääristää",
-   "Definition": "čiŕ"
+   "Definition": "vuľgarizirovams"
  },
  {
    "Word": "väärä",
-   "Definition": "vatt"
+   "Definition": "čiŕ"
  },
  {
    "Word": "watti",
-   "Definition": "tualet"
+   "Definition": "vatt"
  },
  {
    "Word": "WC",
-   "Definition": "hoľams"
+   "Definition": "tualet"
  },
  {
    "Word": "xop kuoro",
-   "Definition": "Veď-avakaj; jurtavaj"
+   "Definition": "hoľams"
  },
  {
    "Word": "XX",
-   "Definition": "jadra"
+   "Definition": "Veď-avakaj; jurtavaj"
  },
  {
    "Word": "ydin",
-   "Definition": "udemev"
+   "Definition": "jadra"
  },
  {
    "Word": "ydin-",
-   "Definition": "suščestva"
+   "Definition": "udemev"
  },
  {
    "Word": "ydinajatus",
-   "Definition": "vejksëńgemeńška"
+   "Definition": "suščestva"
  },
  {
    "Word": "yhdeksisenkymmentä",
-   "Definition": "vejksë"
+   "Definition": "vejksëńgemeńška"
  },
  {
    "Word": "yhdeksän",
-   "Definition": "vejksëce"
+   "Definition": "vejksë"
  },
  {
    "Word": "yhdeksäs",
-   "Definition": "ravnopravija"
+   "Definition": "vejksëce"
  },
  {
    "Word": "yhdenarvoisuus",
-   "Definition": "paralleľ"
+   "Definition": "ravnopravija"
  },
  {
    "Word": "yhdensuuntainen suora",
-   "Definition": "parallelizma"
+   "Definition": "paralleľ"
  },
  {
    "Word": "yhdensuuntaisuus",
-   "Definition": "vejkenďavoms; vejkenďams"
+   "Definition": "parallelizma"
  },
  {
    "Word": "yhdentyä",
-   "Definition": "čovor"
+   "Definition": "vejkenďavoms; vejkenďams"
  },
  {
    "Word": "yhdessä",
-   "Definition": "sojedinenija"
+   "Definition": "čovor"
  },
  {
    "Word": "yhdiste",
-   "Definition": "kombinirovams"
+   "Definition": "sojedinenija"
  },
  {
    "Word": "yhdistellä",
-   "Definition": "sočetanija"
+   "Definition": "kombinirovams"
  },
  {
    "Word": "yhdistelmä",
@@ -49405,35 +49405,35 @@
  },
  {
    "Word": "yhdistyminen",
-   "Definition": "tovariščestva"
+   "Definition": "sočetanija"
  },
  {
    "Word": "yhdistys",
-   "Definition": "vejkenďavoms; vejsënďavoms"
+   "Definition": "tovariščestva"
  },
  {
    "Word": "yhdistyä",
-   "Definition": "sočetanija"
+   "Definition": "vejkenďavoms; vejsënďavoms"
  },
  {
    "Word": "yhdistäminen",
-   "Definition": "kombinirovams; summirovams"
+   "Definition": "sočetanija"
  },
  {
    "Word": "yhdistää",
-   "Definition": "kolonija"
+   "Definition": "kombinirovams; summirovams"
  },
  {
    "Word": "yhdyskunta",
-   "Definition": "defis"
+   "Definition": "kolonija"
  },
  {
    "Word": "yhdysmerkki",
-   "Definition": "veluv"
+   "Definition": "defis"
  },
  {
    "Word": "yhteen",
-   "Definition": "sočetanija"
+   "Definition": "veluv"
  },
  {
    "Word": "yhteen sopiminen",
@@ -49441,23 +49441,23 @@
  },
  {
    "Word": "yhteen sovittaminen",
-   "Definition": "kombinacija"
+   "Definition": "sočetanija"
  },
  {
    "Word": "yhteensovitus",
-   "Definition": "itog"
+   "Definition": "kombinacija"
  },
  {
    "Word": "yhteenveto",
-   "Definition": "vejsëń"
+   "Definition": "itog"
  },
  {
    "Word": "yhteinen",
-   "Definition": "obščestvennik"
+   "Definition": "vejsëń"
  },
  {
    "Word": "yhteiskunnallisen työn tekijä",
-   "Definition": "obščestvennosť"
+   "Definition": "obščestvennik"
  },
  {
    "Word": "yhteiskunnalliset järjestöt",
@@ -49465,47 +49465,47 @@
  },
  {
    "Word": "yhteiskunnallisuus",
-   "Definition": "obščestva"
- },
- {
-   "Word": "yhteiskunta",
-   "Definition": "sociologija"
- },
- {
-   "Word": "yhteiskuntaoppi",
    "Definition": "obščestvennosť"
  },
  {
+   "Word": "yhteiskunta",
+   "Definition": "obščestva"
+ },
+ {
+   "Word": "yhteiskuntaoppi",
+   "Definition": "sociologija"
+ },
+ {
    "Word": "yhteiskuntapiirit",
-   "Definition": "zalp"
+   "Definition": "obščestvennosť"
  },
  {
    "Word": "yhteislaukaus",
-   "Definition": "kooperacija"
+   "Definition": "zalp"
  },
  {
    "Word": "yhteistoiminta",
-   "Definition": "solidarnosť"
+   "Definition": "kooperacija"
  },
  {
    "Word": "yhteisvastuu",
-   "Definition": "skladčina"
+   "Definition": "solidarnosť"
  },
  {
    "Word": "yhteisyritys",
-   "Definition": "obščnosť"
+   "Definition": "skladčina"
  },
  {
    "Word": "yhteisyys",
-   "Definition": "obščina"
- },
- {
-   "Word": "yhteisö",
    "Definition": "obščnosť"
  },
  {
+   "Word": "yhteisö",
+   "Definition": "obščina"
+ },
+ {
    "Word": "yhtenäisyys",
-   "Definition": "sväź"
+   "Definition": "obščnosť"
  },
  {
    "Word": "yhteydenpito",
@@ -49517,30 +49517,34 @@
  },
  {
    "Word": "yhteyslaitos (posti), lennätin (puhelinlaitos)",
-   "Definition": "assimilirovams"
+   "Definition": "sväź"
  },
  {
    "Word": "yhteyttää",
-   "Definition": "tovariščestva"
+   "Definition": "assimilirovams"
  },
  {
    "Word": "yhtiö",
-   "Definition": "ansambľa"
- },
- {
-   "Word": "yhtye",
    "Definition": "tovariščestva"
  },
  {
+   "Word": "yhtye",
+   "Definition": "ansambľa"
+ },
+ {
    "Word": "yhtymä",
-   "Definition": "stïk"
+   "Definition": "tovariščestva"
  },
  {
    "Word": "yhtymäkohta",
-   "Definition": "vejsënďavoms"
+   "Definition": "stïk"
  },
  {
    "Word": "yhtyä",
+   "Definition": "vejsënďavoms"
+ },
+ {
+   "Word": "yhtäkkiä",
    "Definition": "druk"
  },
  {
@@ -49548,92 +49552,88 @@
    "Definition": "drug"
  },
  {
-   "Word": "yhtäkkiä",
+   "Word": "yhtäläistyä",
    "Definition": "vejkenďams"
  },
  {
-   "Word": "yhtäläistyä",
-   "Definition": "soglasija"
- },
- {
    "Word": "yhtäläisyys",
-   "Definition": "uravnenija"
+   "Definition": "soglasija"
  },
  {
    "Word": "yhtälö",
-   "Definition": "jala"
+   "Definition": "uravnenija"
  },
  {
    "Word": "yhä",
-   "Definition": "edinstva"
+   "Definition": "jala"
  },
  {
    "Word": "ykseys",
-   "Definition": "vejke; ve"
+   "Definition": "edinstva"
  },
  {
    "Word": "yksi",
-   "Definition": "ekzempľar"
+   "Definition": "vejke; ve"
  },
  {
    "Word": "yksilö",
-   "Definition": "edinonačalija"
+   "Definition": "ekzempľar"
  },
  {
    "Word": "yksilöpäällikkyys",
-   "Definition": "obezlička"
+   "Definition": "edinonačalija"
  },
  {
    "Word": "yksilövastuuttomuus",
-   "Definition": "soglasija"
+   "Definition": "obezlička"
  },
  {
    "Word": "yksimielisyys",
-   "Definition": "anďamo"
+   "Definition": "soglasija"
  },
  {
    "Word": "yksinkertainen ihminen",
-   "Definition": "monopolija"
+   "Definition": "anďamo"
  },
  {
    "Word": "yksinoikeus",
-   "Definition": "monarhija"
+   "Definition": "monopolija"
  },
  {
    "Word": "yksinvalta",
-   "Definition": "monarh"
+   "Definition": "monarhija"
  },
  {
    "Word": "yksinvaltias",
-   "Definition": "kevejkeje"
+   "Definition": "monarh"
  },
  {
    "Word": "yksitoista",
-   "Definition": "solidarnosť"
+   "Definition": "kevejkeje"
  },
  {
    "Word": "yksituumaisuus",
-   "Definition": "detaľ"
+   "Definition": "solidarnosť"
  },
  {
    "Word": "yksityiskohta",
-   "Definition": "kazemat"
+   "Definition": "detaľ"
  },
  {
    "Word": "yksityiskoppi (linnassa)",
-   "Definition": "repetitor"
+   "Definition": "kazemat"
  },
  {
    "Word": "yksityisopettaja",
-   "Definition": "osobńak"
+   "Definition": "repetitor"
  },
  {
    "Word": "yksityistalo",
-   "Definition": "edinoličnik"
+   "Definition": "osobńak"
  },
  {
    "Word": "yksityisviljelijä",
-   "Definition": "generaľnoj"
+   "Definition": "edinoličnik"
  },
  {
    "Word": "yleinen",
@@ -49641,54 +49641,58 @@
  },
  {
    "Word": "yleis-",
-   "Definition": "očerk"
+   "Definition": "generaľnoj"
  },
  {
    "Word": "yleisesitys",
-   "Definition": "kategorija"
+   "Definition": "očerk"
  },
  {
    "Word": "yleiskäsite",
-   "Definition": "radioveščanija"
+   "Definition": "kategorija"
  },
  {
    "Word": "yleisradio",
-   "Definition": "popuľarizirovams"
+   "Definition": "radioveščanija"
  },
  {
    "Word": "yleistajuistaa",
-   "Definition": "summirovams"
+   "Definition": "popuľarizirovams"
  },
  {
    "Word": "yleistää",
-   "Definition": "publika"
+   "Definition": "summirovams"
  },
  {
    "Word": "yleisö",
-   "Definition": "bezardems"
+   "Definition": "publika"
  },
  {
    "Word": "ylenkatsoa",
-   "Definition": "projizvodstva"
+   "Definition": "bezardems"
  },
  {
    "Word": "ylennys",
-   "Definition": "student"
+   "Definition": "projizvodstva"
  },
  {
    "Word": "ylfoppilas",
-   "Definition": "vere"
+   "Definition": "student"
  },
  {
    "Word": "ylhäällä",
-   "Definition": "verce"
+   "Definition": "vere"
  },
  {
    "Word": "ylhäällä sijaitseva",
-   "Definition": "verde"
+   "Definition": "verce"
  },
  {
    "Word": "ylhäältä",
+   "Definition": "verde"
+ },
+ {
+   "Word": "yli",
    "Definition": "langa"
  },
  {
@@ -49696,64 +49700,60 @@
    "Definition": "troks"
  },
  {
-   "Word": "yli",
+   "Word": "yli-",
    "Definition": "glavnoj"
  },
  {
-   "Word": "yli-",
+   "Word": "ylijumala",
    "Definition": "Niškepaz"
  },
  {
-   "Word": "ylijumala",
+   "Word": "Ylijumala",
    "Definition": "Ineškipaz"
  },
  {
-   "Word": "Ylijumala",
+   "Word": "ylikuormittaa",
    "Definition": "vaľams"
  },
  {
-   "Word": "ylikuormittaa",
-   "Definition": "perejezd"
- },
- {
    "Word": "ylikäytävä",
-   "Definition": "aristokrat"
+   "Definition": "perejezd"
  },
  {
    "Word": "ylimys",
-   "Definition": "aristokratija"
+   "Definition": "aristokrat"
  },
  {
    "Word": "ylimystö",
-   "Definition": "lišnoj"
+   "Definition": "aristokratija"
  },
  {
    "Word": "ylimääräinen",
-   "Definition": "universitet"
+   "Definition": "lišnoj"
  },
  {
    "Word": "yliopisto",
-   "Definition": "glavnokomandujuščej"
+   "Definition": "universitet"
  },
  {
    "Word": "ylipäällikkö",
-   "Definition": "šnams"
+   "Definition": "glavnokomandujuščej"
  },
  {
    "Word": "ylistää",
-   "Definition": "morsems"
+   "Definition": "šnams"
  },
  {
    "Word": "ylistää laulamalla",
-   "Definition": "sezems"
+   "Definition": "morsems"
  },
  {
    "Word": "ylittää",
-   "Definition": "seznems"
+   "Definition": "sezems"
  },
  {
    "Word": "ylittää, mennä yli, (murt.) poistua, loitota, mennä pois",
-   "Definition": "perejezd"
+   "Definition": "seznems"
  },
  {
    "Word": "ylityskohta",
@@ -49761,99 +49761,99 @@
  },
  {
    "Word": "ylityspaikka",
-   "Definition": "pererabotka"
+   "Definition": "perejezd"
  },
  {
    "Word": "ylityö",
-   "Definition": "prejimuščestva"
+   "Definition": "pererabotka"
  },
  {
    "Word": "ylivoima",
-   "Definition": "mutića"
+   "Definition": "prejimuščestva"
  },
  {
    "Word": "yllyttäjä",
-   "Definition": "zadoŕams"
+   "Definition": "mutića"
  },
  {
    "Word": "yllyttää",
-   "Definition": "tŕamo"
+   "Definition": "zadoŕams"
  },
  {
    "Word": "ylläpito",
-   "Definition": "tŕams"
+   "Definition": "tŕamo"
  },
  {
    "Word": "ylläpitää",
-   "Definition": "zastańavoms"
+   "Definition": "tŕams"
  },
  {
    "Word": "yllättyä",
-   "Definition": "zahvaťams"
+   "Definition": "zastańavoms"
  },
  {
    "Word": "yllättää",
-   "Definition": "najanči"
+   "Definition": "zahvaťams"
  },
  {
    "Word": "ylpeily",
-   "Definition": "kaštanči"
+   "Definition": "najanči"
  },
  {
    "Word": "ylpeys",
-   "Definition": "kaštan"
+   "Definition": "kaštanči"
  },
  {
    "Word": "ylpeä",
-   "Definition": "kaštangadoms"
+   "Definition": "kaštan"
  },
  {
    "Word": "ylpistyä",
-   "Definition": "šovinizma"
+   "Definition": "kaštangadoms"
  },
  {
    "Word": "yltiöisänmaallisuus",
-   "Definition": "fanatik"
+   "Definition": "šovinizma"
  },
  {
    "Word": "yltiöpää",
-   "Definition": "verneške"
+   "Definition": "fanatik"
  },
  {
    "Word": "yltä päältä veressä",
-   "Definition": "verevpandt"
+   "Definition": "verneške"
  },
  {
    "Word": "ylämäkeä",
-   "Definition": "veŕks"
+   "Definition": "verevpandt"
  },
  {
    "Word": "yläosa",
-   "Definition": "ploskogorija"
+   "Definition": "veŕks"
  },
  {
    "Word": "ylätasanko",
-   "Definition": "verev"
+   "Definition": "ploskogorija"
  },
  {
    "Word": "ylös",
-   "Definition": "čaŕkodeviks"
+   "Definition": "verev"
  },
  {
    "Word": "ymmärrettävä",
-   "Definition": "čaŕkodems"
+   "Definition": "čaŕkodeviks"
  },
  {
    "Word": "ymmärtää",
-   "Definition": "krug; kuro"
+   "Definition": "čaŕkodems"
  },
  {
    "Word": "ympyrä",
-   "Definition": "kurodoms"
+   "Definition": "krug; kuro"
  },
  {
    "Word": "ympyröidä",
-   "Definition": "peŕka"
+   "Definition": "kurodoms"
  },
  {
    "Word": "ympäri",
@@ -49861,51 +49861,51 @@
  },
  {
    "Word": "ympärille",
-   "Definition": "perťpele"
+   "Definition": "peŕka"
  },
  {
    "Word": "ympärillä",
-   "Definition": "stihija"
+   "Definition": "perťpele"
  },
  {
    "Word": "ympäristö",
-   "Definition": "pirsems; piŕams"
+   "Definition": "stihija"
  },
  {
    "Word": "ympäröidä",
-   "Definition": "urnoms"
+   "Definition": "pirsems; piŕams"
  },
  {
    "Word": "ypo naskali",
-   "Definition": "snartnems"
+   "Definition": "urnoms"
  },
  {
    "Word": "yritellä",
-   "Definition": "predprinimateľ"
+   "Definition": "snartnems"
  },
  {
    "Word": "yrittäjä",
-   "Definition": "teŕavtnems; teŕavtoms"
+   "Definition": "predprinimateľ"
  },
  {
    "Word": "yrittää",
-   "Definition": "meľ vanoms"
+   "Definition": "teŕavtnems; teŕavtoms"
  },
  {
    "Word": "yrittää olla mieliksi",
-   "Definition": "strahovams"
+   "Definition": "meľ vanoms"
  },
  {
    "Word": "yrittää suojella (jnk varalta)",
-   "Definition": "kozoms"
+   "Definition": "strahovams"
  },
  {
    "Word": "yskiä",
-   "Definition": "kosks"
+   "Definition": "kozoms"
  },
  {
    "Word": "yskä",
-   "Definition": "koskstams"
+   "Definition": "kosks"
  },
  {
    "Word": "yskähtää",
@@ -49913,103 +49913,103 @@
  },
  {
    "Word": "yskäistä",
-   "Definition": "družnojgadoms"
+   "Definition": "koskstams"
  },
  {
    "Word": "ystävystyä",
-   "Definition": "ojaksči; jalgaksči"
+   "Definition": "družnojgadoms"
  },
  {
    "Word": "ystävyys",
-   "Definition": "jalga"
+   "Definition": "ojaksči; jalgaksči"
  },
  {
    "Word": "ystävä",
-   "Definition": "jožov-važov"
+   "Definition": "jalga"
  },
  {
    "Word": "ystävällinen",
-   "Definition": "ve"
+   "Definition": "jožov-važov"
  },
  {
    "Word": "yö",
-   "Definition": "halat"
+   "Definition": "ve"
  },
  {
    "Word": "yönuttu",
-   "Definition": "udsems"
+   "Definition": "halat"
  },
  {
    "Word": "yöpyä",
-   "Definition": "tumbočka"
+   "Definition": "udsems"
  },
  {
    "Word": "yöpöytä",
-   "Definition": "zaporožec"
+   "Definition": "tumbočka"
  },
  {
    "Word": "zaporogi (Ukrainan kasakka)",
-   "Definition": "zolotnik"
+   "Definition": "zaporožec"
  },
  {
    "Word": "zolotnik",
-   "Definition": "Pejkužo"
+   "Definition": "zolotnik"
  },
  {
    "Word": "Zubovo",
-   "Definition": "izavks"
+   "Definition": "Pejkužo"
  },
  {
    "Word": "äestetty pelto",
-   "Definition": "izams"
+   "Definition": "izavks"
  },
  {
    "Word": "äestää",
-   "Definition": "kultivirovams"
+   "Definition": "izams"
  },
  {
    "Word": "äestää syvä-äkeellä",
-   "Definition": "vasolpokšťa"
+   "Definition": "kultivirovams"
  },
  {
    "Word": "äidin isoisä",
-   "Definition": "vasolpaťa"
+   "Definition": "vasolpokšťa"
  },
  {
    "Word": "äidin sisko",
-   "Definition": "porevks"
+   "Definition": "vasolpaťa"
  },
  {
    "Word": "äidin suussaan hienontama ruoka",
-   "Definition": "tiriń"
+   "Definition": "porevks"
  },
  {
    "Word": "äidin-",
-   "Definition": "vasolboďa"
+   "Definition": "tiriń"
  },
  {
    "Word": "äidinisä",
-   "Definition": "matriarhat"
+   "Definition": "vasolboďa"
  },
  {
    "Word": "äidinvalta",
-   "Definition": "vasolbaba"
+   "Definition": "matriarhat"
  },
  {
    "Word": "äidinäiti",
-   "Definition": "nilťańa"
+   "Definition": "vasolbaba"
  },
  {
    "Word": "äitelä",
-   "Definition": "nilťakadoms"
+   "Definition": "nilťańa"
  },
  {
    "Word": "äitelöityä",
-   "Definition": "ava"
+   "Definition": "nilťakadoms"
  },
  {
    "Word": "äiti",
-   "Definition": "avaka levks"
+   "Definition": "ava"
  },
  {
    "Word": "äitiinsä tullut",
@@ -50017,10 +50017,14 @@
  },
  {
    "Word": "äitinsä kaltainen",
-   "Definition": "avaksči"
+   "Definition": "avaka levks"
  },
  {
    "Word": "äitiys",
+   "Definition": "avaksči"
+ },
+ {
+   "Word": "äkkiä",
    "Definition": "druk"
  },
  {
@@ -50028,71 +50032,71 @@
    "Definition": "drug"
  },
  {
-   "Word": "äkkiä",
+   "Word": "äkäinen",
    "Definition": "ormaza"
  },
  {
-   "Word": "äkäinen",
+   "Word": "äkämä",
    "Definition": "komadońbal; orvo; cirej"
  },
  {
-   "Word": "äkämä",
+   "Word": "ällöttää",
    "Definition": "tošna"
  },
  {
-   "Word": "ällöttää",
+   "Word": "äly",
    "Definition": "intellekt; udem; jorok"
  },
  {
-   "Word": "äly",
+   "Word": "älykkö",
    "Definition": "intelligent"
  },
  {
-   "Word": "älykkö",
+   "Word": "älykäs",
    "Definition": "čaŕkodića"
  },
  {
-   "Word": "älykäs",
+   "Word": "älymystö",
    "Definition": "intelligencija"
  },
  {
-   "Word": "älymystö",
+   "Word": "älä",
    "Definition": "iľa"
  },
  {
-   "Word": "älä",
+   "Word": "älä hosu",
    "Definition": "užo"
  },
  {
-   "Word": "älä hosu",
+   "Word": "ämpäri",
    "Definition": "vedra"
  },
  {
-   "Word": "ämpäri",
+   "Word": "änkyttäjä",
    "Definition": "koknaj"
  },
  {
-   "Word": "änkyttäjä",
+   "Word": "änkyttää",
    "Definition": "koknoms"
  },
  {
-   "Word": "änkyttää",
+   "Word": "ärsyttää",
    "Definition": "travams"
  },
  {
-   "Word": "ärsyttää",
+   "Word": "ärsyttää haavaa",
    "Definition": "azargavtoms"
  },
  {
-   "Word": "ärsyttää haavaa",
+   "Word": "äskeinen",
    "Definition": "ulkoń"
  },
  {
-   "Word": "äskeinen",
+   "Word": "äsken",
    "Definition": "ulko"
  },
  {
-   "Word": "äsken",
+   "Word": "äskettäin",
    "Definition": "čijak"
  },
  {
@@ -50100,71 +50104,67 @@
    "Definition": "ulko"
  },
  {
-   "Word": "äskettäin",
+   "Word": "ässä (korttipelissä)",
    "Definition": "tuz"
  },
  {
-   "Word": "ässä (korttipelissä)",
+   "Word": "äänenkannattaja",
    "Definition": "organ"
  },
  {
-   "Word": "äänenkannattaja",
+   "Word": "äänenvaimennin",
    "Definition": "glušiteľ"
  },
  {
-   "Word": "äänenvaimennin",
+   "Word": "äänestää",
    "Definition": "vajgeľ kajams; vajgeľ maksoms"
  },
  {
-   "Word": "äänestää",
+   "Word": "ääni",
    "Definition": "zvuk"
  },
  {
-   "Word": "ääni",
+   "Word": "äänilevy",
    "Definition": "plastinka"
  },
  {
-   "Word": "äänilevy",
+   "Word": "äänirasia",
    "Definition": "membrana"
  },
  {
-   "Word": "äänirasia",
+   "Word": "äänitorvi",
    "Definition": "rungo"
  },
  {
-   "Word": "äänitorvi",
+   "Word": "äänittää",
    "Definition": "śormadoms"
  },
  {
-   "Word": "äänittää",
+   "Word": "äänneoppi",
    "Definition": "fonetika"
  },
  {
-   "Word": "äänneoppi",
+   "Word": "ääntämys",
    "Definition": "dikcija"
  },
  {
-   "Word": "ääntämys",
+   "Word": "ääreisosa",
    "Definition": "periferija"
  },
  {
-   "Word": "ääreisosa",
+   "Word": "ääriviiva",
    "Definition": "očerk"
  },
  {
-   "Word": "ääriviiva",
+   "Word": "öljy",
    "Definition": "oj"
  },
  {
-   "Word": "öljy",
+   "Word": "öljyjohto",
    "Definition": "nefteprovod"
  },
  {
-   "Word": "öljyjohto",
-   "Definition": "kerosinka"
- },
- {
    "Word": "öljykeitin",
-   "Definition": ""
+   "Definition": "kerosinka"
  }
 ]
